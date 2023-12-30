@@ -4,9 +4,8 @@ date: 2023-05-06
 weight: 1
 # aliases: ["/first"]
 tags: [software]
-author: Dũng
+author: Dũng # [Me, You] multiple authors
 summary: Kiến trúc để đời ngành Automotive.
-# author: ["Me", "You"] # multiple authors
 showToc: true
 TocOpen: true
 draft: false
@@ -33,7 +32,7 @@ cover:
     hidden: false # only hide on current single page
 editPost:
     URL: https://viblo.asia/p/giai-ma-autosar-kien-truc-de-doi-nganh-automotive-phan-1-EoW4ox6zJml
-    Text: Xem tại VIBLO # edit text
+    Text: Xem tại VIBLO
     appendFilePath: false # to append file path to Edit link
 ---
 ​
@@ -57,13 +56,11 @@ Cái mình muốn nói ở đây, đó là giữa sinh viên và nhà trường 
 Trở lại, đối với lĩnh vực Automotive, sự phức tạp của software trên ô tô ngày càng cao là một trong những lý do chính cho sự ra đời AUTOSAR. Do đó, thứ mà chúng ta cần chính là sự **thống nhất** trong thiết kế giữa bên mua, bên bán, giữa phần cứng, phần mềm và ti tỉ thứ khác nữa. Cụ thể hơn, mình có một flow giao dịch đơn giản trông như thế này:
 \
 \
-​
-<div align="center"><strong>Supplier ➔ OEM ➔ End-user</strong></div>
-
+\
+ㅤ Supplier ➔ OEM ➔ End-user
 \
 \
 \
-​
 Hmm, vậy người mua xe nằm ở đâu trong flow trên ? Họ chính là những **End-users**, tức "người dùng cuối" trong flow này. Vậy **OEM (Original Equipment Manufacturers)**  ở đây là ai ? Chính là các hãng xe: Volkswagen, BWM, Peugeot, v.v.. có đủ. Những ông lớn này tất nhiên sẽ không làm ra một chiếc xe hẳn hoi mà chỉ tập trung vào sản xuất thứ mà họ giỏi nhất, sau đó mua những component lặt vặt khác, chẳng hạn như hệ thống sensor từ một bên chỉ chuyên sản xuất sensor, trong trường hợp này là ECU. Các hãng xe phần lớn sẽ không tự thiết kế ECU mà phải nhờ đến một bên thứ ba, tức **Supplier** như Bosch, Hitachi, Continental,...
 
 Mọi người thấy đấy, OEM đâu chỉ mua mỗi ECU mà còn mua linh ta linh tinh. OEM thì mua rất nhiều thịt từ những Suppliers khác nhau, Supplier thì bán rất nhiều cá cho những OEMs khác nhau. Đã thế, xe thì đâu chỉ có mỗi xe xăng, còn có xe điện, xe hybrid,... Nhưng dù cho có là xe gắn phản lực, xe bay, xe tàng hình đi chăng nữa, AUTOSAR vẫn cân tất, bởi lẽ như mình đã nói, nó được sinh ra cũng bởi sự bộn bề của software mà 😵‍💫.
@@ -99,13 +96,13 @@ Là tầng cao nhất trong kiến trúc AUTOSAR, cũng là thằng "gần" nh�
 
 Nhưng đó chỉ là bề nổi của ASW, trái tim thật sự của tầng này được gọi là các **SWCs** (Software Components). Từng chức năng riêng biệt trên xe sẽ được đảm nhận bởi một component riêng. Mình sẽ gọi mỗi component này là một "cục". 
 
-Ví dụ, trên ô tô dĩ nhiên có máy lạnh, nhưng máy lạnh sẽ không hoạt động một mình. Đằng sau nó là cả một hệ thống ventilation, được kiểm soát bởi một SWC, mình tạm gọi là cục thông gió, có chức năng kiểm soát lượng không khí ra vào cabin. Hoặc, một SWC khác là cục khí thải, dựa vào sensor để collect data về các thành phần trong lượng khí thải hiện tại như NOx, CO, HC,... từ đó điều chỉnh các tham số để timing cho việc mix nhiên liệu với không khí. Thực tế, việc này còn đòi hỏi sự kết hợp giữa nhiều SWCs như cục điều khiển động cơ phun, cục monitoring và diagnostic. Thậm chí, các nhà sản xuất còn có thể dùng những cục có chức năng quan sát (monitoring, diagnostic,...) để bắt bệnh sau một thời gian xe được dùng và cải tiến software/hardware trong những đời sau. 
+Ví dụ, trên ô tô dĩ nhiên có máy lạnh, nhưng máy lạnh sẽ không hoạt động một mình. Đằng sau nó là cả một hệ thống ventilation, được kiểm soát bởi một SWC, mình tạm gọi là cục thông gió, có chức năng kiểm soát lượng không khí ra vào cabin. Hoặc, một SWC khác là cục khí thải, dựa vào sensor để collect data về các thành phần trong lượng khí thải hiện tại như NOx, CO, HC,... từ đó điều chỉnh các tham số để timing cho việc mix nhiên liệu với không khí. Thực tế, việc này còn đòi hỏi sự kết hợp giữa nhiều SWCs như cục điều khiển động cơ phun, cục monitoring và diagnostic. Thậm chí, các nhà sản xuất còn có thể dùng những cục có chức năng quan sát (monitoring, diagnostic,...) để bắt bệnh sau một thời gian xe được dùng và cải tiến software/hardware trong những đời sau.
 
-
+\
+​
 ⚠️Tẹo mình sẽ nói về anh bạn **Runtime Environment (RTE)** sau. RTE đóng vai trò như cầu nối giúp hai khứa ASW và BSW tâm sự với nhau. Mà muốn biết tâm sự kiểu gì trước hết phải biết BSW hoạt động ra sao đã.
 | -------- | 
 
-\
 \
 ​
 ## 2. Basic Software (BSW)
@@ -126,12 +123,12 @@ Là thằng gần nhất với ASW, thật ra RTE gần hơn nhưng mình không
 
 Ví dụ:
 
-| Loại API          | Chức năng |
-| --------          | --------  |
-| Communication     |   Giao tiếp trong network của các ECU, gửi message qua CAN, LIN, FlexRay,...
-| Diagnostic        | Chuẩn đoán lỗi, dùng để đọc DTC (Diagnostic Trouble Codes).
-|Time Management    | Kiểm soát các cyclic task, trên ô tô có vô số giá trị phải đọc trong lúc xe chạy như tốc độ, nhiệt độ,...
-|Memory Management  | Tương tự Time Management nhưng là kiểm soát bộ nhớ dùng cho các cyclic task.
+| Loại API           | Chức năng                                                                                                 |
+| --------           | --------                                                                                                  |
+| Communication      |   Giao tiếp trong network của các ECU, gửi message qua CAN, LIN, FlexRay,...                              |
+| Diagnostic         | Chuẩn đoán lỗi, dùng để đọc DTC (Diagnostic Trouble Codes).                                               |
+| Time Management    | Kiểm soát các cyclic task, trên ô tô có vô số giá trị phải đọc trong lúc xe chạy như tốc độ, nhiệt độ,... |
+| Memory Management  | Tương tự Time Management nhưng là kiểm soát bộ nhớ dùng cho các cyclic task.                              |
 
 Và còn rất nhiều loại khác như API cho Event Management, File System hoặc Security.
 

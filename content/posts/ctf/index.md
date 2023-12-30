@@ -1,16 +1,16 @@
 ---
 title: Capture The Flag
 date: 2019-09-08
-weight: 5
-tags: [crisp, ctf]
+weight: 6
+tags: [crisp, ctf, soul]
 author: '[ ★ 262 ]​​'
-summary: Steganography
+summary: Steganography.
 description: Thử thách hiện chưa có Writeups.
 hideSummary: false
 ShowWordCount: false
 ShowReadingTime: false
 ShowPostNavLinks: false
-draft: false
+draft: true
 
 
 editPost:
