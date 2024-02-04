@@ -7,12 +7,11 @@ BLOG_PAPERMOD
 ㅤ ㅤ ㅤ ㅤ ㅤ ├── image_1.png\
 ㅤ ㅤ ㅤ ㅤ ㅤ └── image_2.png
 
----------------------------------------
 
 ``📝`` Tên folder bài viết phải khác tên file markdown (autosar ≠ index).
 
-
-
+______
+\
 Khi truy cập blog từ Facebook, một "fbclid" sẽ được tự động thêm vào sau URL, chẳng hạn:
 
 bbtd.tech/?**fbclid=IwAR06KXR17RgOlmz4PMcFuE8fNiqdOvfiVJVl8sW6PQpRIqxB1YXQDzSWKKw**
@@ -20,3 +19,5 @@ bbtd.tech/?**fbclid=IwAR06KXR17RgOlmz4PMcFuE8fNiqdOvfiVJVl8sW6PQpRIqxB1YXQDzSWKK
 Để bỏ đi phần râu ria này, mình dùng một tính năng trong mục Facebook Privacy của J2TEAM:
 * [ ] Block Facebook Pixel (Tracking Script)
 * [x] Remove Facebook Click Identifier (Fbclid) Parameter From Links
+
+But, chỉ bỏ đi được ở facebook chính bạn, người khác vẫn thấy bình thường. 

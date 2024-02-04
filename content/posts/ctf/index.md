@@ -1,7 +1,7 @@
 ---
 title: Capture The Flag
 date: 2019-09-08
-weight: 6
+weight: 8
 tags: [crisp, ctf, soul]
 author: '[ ★ 262 ]​​'
 summary: Steganography.

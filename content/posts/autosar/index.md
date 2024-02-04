@@ -1,7 +1,7 @@
 ---
 title: Giải mã AUTOSAR
 date: 2023-05-06
-weight: 1
+weight: 4
 # aliases: ["/first"]
 tags: [software]
 author: Dũng # [Me, You] multiple authors

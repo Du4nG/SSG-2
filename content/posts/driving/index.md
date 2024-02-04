@@ -1,7 +1,7 @@
 ---
 title: Chuyện đi thi
 date: 2022-09-17
-weight: 5
+weight: 2
 tags: [driving]
 author: Dũng
 summary: Đội ơn anh, anh Bằng.
@@ -11,7 +11,6 @@ hideSummary: false
 ShowWordCount: false
 ShowReadingTime: true
 ShowPostNavLinks: false
-
 
 editPost:
     # URL: "https://viblo.asia/p/open-source-ssg-ca-nhan-hoa-website-cung-static-site-generator-7ymJXxkEJkq"
@@ -79,6 +78,41 @@ Cậu ta cười, nhưng đi cùng với đó là một cái lắc đầu đầy
 \
 ​   
 Cả căn phòng rùng mình khi câu nói của  thầy cất lên, bỗng chốc mình hụt hẫng vô cùng, dù gì cậu ta cũng là người đã trấn an mình, đến giờ thì mình vẫn chưa biết được tên của cậu, chỉ biết rằng, cậu ấy khiến mình cảm thấy có chút sì quít. Thỉnh thoảng, mình vẫn tự hỏi:
-​ 
-
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
 Cái đm, không lẽ mình là gay.

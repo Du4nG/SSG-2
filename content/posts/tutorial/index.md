@@ -1,19 +1,18 @@
 ---
 title: "Open Source SSG"
 date: 2022-10-10
-weight: 2
+weight: 4
 # aliases: ["/first"]
 tags: [web, software]
 author: Dũng
 summary: Cá nhân hóa website cùng Static Site Generator.
 showToc: true
+TocOpen: true
 description: Kiến trúc tiêu chuẩn ngành Automotive
 hideSummary: false
 ShowWordCount: false
 ShowReadingTime: true
 ShowPostNavLinks: false
-
-
 
 editPost:
     Text: Xem tại VIBLO
@@ -26,7 +25,7 @@ editPost:
 
 Một ngày đẹp trời, mình tình cờ vấp phải [**That IELTS Guide 🌱**](https://thatieltsguide.com/) của thầy Quang. Mình nghĩ, chắc cũng là một kiểu build blog cá nhân, như các bạn Content/Copywriter vẫn hay dùng, sử dụng các nền tảng như Wordpress, Joomla,... Đối với các dịch vụ cung cấp CMS (Content Management System) như vậy, tuy bản thân là open-source, nhưng các theme và template của chúng thì lại không. Do đó, ta không thể cá nhân hóa trang web 100% như mong muốn.
 
-Khác với Dynamic Site, bao gồm cả server và client như trên, mình xin giới thiệu với các bạn **SSG - Static Site Generator**. Khi build một trang web cá nhân, một trang web "tĩnh" sẽ được ưu tiên hơn là một trang web động, nghĩa là sẽ không có database, không có log, có thể cho phép bình luận, nhưng bởi không có server-side nên sẽ không có real-time notification được trả về, v.v..
+Khác với Dynamic Site, bao gồm cả server và client như trên, mình xin giới thiệu với các bạn **SSG - Static Site Generator**. Khi build một trang web cá nhân, một trang web "tĩnh" sẽ được ưu tiên hơn là một trang web động, nghĩa là sẽ không có database, không có log, có thể vẫn cho phép bình luận, nhưng bởi không có server-side nên sẽ không có real-time notification được trả về, v.v..
 
 Dù không linh hoạt như một web động, web tĩnh vẫn được sử dụng khá rộng rãi là vì:
 * Tốc độ : web tĩnh load rất nhanh, tất cả mọi thứ ở phía client đều đã được pre-built.
@@ -365,5 +364,5 @@ Và thế là hết !
 \
 \
 ​
-## 5. KẾT
-Tương truyền rằng, Nguyen Dang Quang còn học thêm thêm cả JavaScript, tận dụng GPT để lôi API về build thêm các site khác phục vụ cho mục đích dạy IELTS của thầy 🤖.
+## 5. Kết
+Tương truyền rằng, Nguyen Dang Quang đang dần trở thành robot.

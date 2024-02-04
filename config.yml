@@ -17,7 +17,7 @@ minify:
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: Dũng Học Giỏi
-  description: "ExampleSite description"
+  description: "Yikes!"
   keywords: [Blog, Portfolio, PaperMod]
   author: Me
   # author: ["Me", "You"] # multiple authors
@@ -133,7 +133,7 @@ menu:
       url: /tags
       weight: 2
     - identifier: example
-      name: Tầng hầm
+      name: Hầm
       url: https://beacons.ai/livin/room
       weight: 3
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
