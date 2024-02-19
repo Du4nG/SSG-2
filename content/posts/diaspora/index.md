@@ -4,8 +4,8 @@ date: 2023-12-25
 weight: 2
 tags: [soul]
 author: [Dũng]
-summary: Pizza.
-description: ghé chơi.
+summary: Pizza
+description: has arrived.
 hideSummary: false
 ShowWordCount: false
 ShowReadingTime: true
@@ -52,9 +52,9 @@ She smiled, always works.
 \
 \
 \
-*"Did you bring the helmet ?"
+*"Did you bring the helmet ?"*
 \
-​"Yeah."*
+*"Yeah."*
 \
 \
 \
@@ -137,7 +137,7 @@ I, couldn't. I don't even make a habit of having breakfast, I eat most of the ti
 \
 \
 \
-![Alt text](image.png)
+![Alt text](pizza.png)
 \
 \
 Time to leave. She put on the helmet, buckled it up herself. 
@@ -244,7 +244,7 @@ I was... confused. The heck, what do you want me to do, man ? Was that a hint, o
 \
 \
 \
-That, was a Lots-o'-Huggin' Bear, except the fact that it was the size of half of me, I would run out of money before laying my hands on it. I casted my eyes around, and boy, there it was, a little pinky teddy, much like the sculpture we just painted, hmm, this should be an easier target.
+That, was a Lots-o'-Huggin' Bear, except the fact that it was the size of half of me, I would run out of money before laying my hands on it. I casted my eyes around, and boy, there it was, a little pinky teddy, much like the sculpture we just painted, sorry bae, but this should be an easier target.
 
 Here we go, let's impress the world. Took me like centuries to ensure that the claw was perfectly centered on the teddy's body, just a few inches away before I could aim for the prize. That was until the claw automatically went down itself without my pressing on the button. Wait, what ? There was a timer for this, argh, I should have known !
 \
@@ -302,7 +302,17 @@ Being seduced by a smile, so that's how it is.
 \
 \
 \
-We headed to a grill house. Oh ? She got a tattoo. It was her parents' birthdays, perhaps it had been there for a while, now faded and slightly blurred, bears the marks of time. 
+We headed to a grill house. There was a group of people, pretty sure they're colleagues at work. I shuddered, as flashbacks raced through my head, like I was on the battlefield with a fleet of alcoholics, which needless to say, are my colleagues. Over time, whenever people call for a toast on the table, I tended to avoid the act of drinking. All I did was clink glasses, shout some cheers and... keep eating. Nice strategy, don't you think ? Beer and I aren't on the same team, I got something called alcohol intolerance, which can leave me itchy for the next whole week, like being exiled to inferno.
+
+Oh ? She got a tattoo. Those ink marks just grabbed my attention while we were waiting for a vacant table at the reception. It was her parents' birthdays, perhaps it had been there for a while, now faded and slightly blurred, bears the marks of time. She called some crab cellophane noodles, that's fine, and then some oysters with lemon slices, then, some cold pale shrimps. The thing is, they were all raw ! 
+\
+\
+\
+*"Eat ! You're not gonna die."*
+\
+\
+\
+A big doubt here. We just ordered the formula to glue my miserable ass to the goddamn toilet. Not even the worst case, only God knows that I might end up with a prolonged erection, we had a tribe of oysters being served! Does everyone here have a gilded stomach ?
 \
 \
 \
@@ -310,7 +320,7 @@ Time to leave. I put on her the helmet, buckled it up myself.
 \
 \
 \
-A coffee store, again. She brought out her Mac, surfing LinkedIn for jobs. If she failed to find one before her flight back, she might consider applying for the postgraduate education, maybe in mathematics or cyber security specialization, both were in the data field. What a neat move. If you can't get a job, get a Master's!
+A coffee store again, obviously. She brought out her Mac, surfing LinkedIn for jobs. If she failed to find one before her flight back, she might consider applying for the postgraduate education, maybe in mathematics or cyber security specialization, both were in the data field. What a neat move. If you can't get a job, get a Master's!
 
 I was at a loss for what to do during this, but being surrounded by this atmosphere drew me back to one thing I always ponder. How do people find it easier to concentrate in places like these ? Indistinct chatter, expensive drinks, smooth background jazz, a time-bomb reminder to leave after 11 P.M – all of that in return for something called the ultimate concentration ? One of my friends asserted that only a professional ambiance brings high efficiency and productivity. Dude, there's a f*cking coconut here!
 \
@@ -346,9 +356,9 @@ Felt like, a kid in a candy store.
 ​
 ___________________
 ​
-# The last dance.
+# The reality.
 \
-Feb 23ʳᵈ.
+Soon.
 ​
 <!-- ___________________
 
@@ -375,3 +385,4 @@ nemesis
 give me a break
 again, just, come to your senses
 hear me out
+

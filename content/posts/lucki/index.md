@@ -4,7 +4,7 @@ date: 2021-02-01
 weight: 7
 tags: [soul]
 author: Dũng
-summary: A blond fat ass bitch.
+summary: A blond fat ass bitch
 showToc: false
 description: 
 hideSummary: false

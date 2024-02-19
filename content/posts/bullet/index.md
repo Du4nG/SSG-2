@@ -4,7 +4,7 @@ date: 2020-03-08
 weight: 1
 tags: [soul]
 author: Dũng
-summary: Đạn và thuốc.
+summary: Đạn và thuốc
 showToc: false
 description: 
 hideSummary: false
@@ -26,3 +26,4 @@ Six days later, I got a bullet in my chest.​
 \
 ​\
 ​
+<!-- ![alt text](jane.png) -->

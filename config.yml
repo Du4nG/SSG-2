@@ -1,5 +1,5 @@
-baseURL: "https://du4ng.github.io/" # đổi giống domain của host
-title: là mình, Dũng
+baseURL: 'https://du4ng.github.io/' # đổi giống domain của host
+title: mình đây, Dũng.
 paginate: 5
 theme: PaperMod
 
@@ -17,13 +17,13 @@ minify:
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: Dũng Học Giỏi
-  description: "Yikes!"
+  description: 'Yikes!'
   keywords: [Blog, Portfolio, PaperMod]
   author: Me
-  # author: ["Me", "You"] # multiple authors
-  images: ["<link or path of image for opengraph, twitter-cards>"]
-  DateFormat: "January 2, 2006"
-  defaultTheme: light # auto,dark, light
+  # author: ['Me', 'You'] # multiple authors
+  images: ['<link or path of image for opengraph, twitter-cards>']
+  DateFormat: 'January 2, 2006'
+  defaultTheme: light # auto, dark, light
   disableThemeToggle: false
 
   ShowReadingTime: false
@@ -53,7 +53,7 @@ params:
     safari_pinned_tab: favicon.ico
 
   label:
-    text: "Dũng Học Giỏi"
+    text: 'Dũng Học Giỏi'
     icon: /apple-touch-icon.png
     iconHeight: 35
 
@@ -61,8 +61,8 @@ params:
   profileMode:
     enabled: false # needs to be explicitly set
     title: ExampleSite
-    subtitle: "This is subtitle"
-    imageUrl: "<img location>"
+    subtitle: 'This is subtitle'
+    imageUrl: '<img location>'
     imageWidth: 120
     imageHeight: 120
     imageTitle: my image
@@ -88,7 +88,7 @@ params:
 
   socialIcons:
     # - name: hackthebox
-      # url: "https://ctftime.org"
+      # url: 'https://ctftime.org'
     - name: dev
       url: https://dev.to/muzan
 
@@ -96,11 +96,11 @@ params:
 
   analytics:
     google:
-      SiteVerificationTag: "XYZabc"
+      SiteVerificationTag: 'XYZabc'
     bing:
-      SiteVerificationTag: "XYZabc"
+      SiteVerificationTag: 'XYZabc'
     yandex:
-      SiteVerificationTag: "XYZabc"
+      SiteVerificationTag: 'XYZabc'
 
   cover:
     hidden: true # hide everywhere but not in structured data
@@ -109,7 +109,7 @@ params:
 
   editPost:
     URL: https://ctftime.org
-    Text: "Suggest Changes" # edit text
+    Text: 'Suggest Changes' # edit text
     appendFilePath: true # to append file path to Edit link
 
   # for search
@@ -121,7 +121,7 @@ params:
     distance: 1000
     threshold: 0.4
     minMatchCharLength: 0
-    keys: ["title", "permalink", "summary", "content"]
+    keys: ['title', 'permalink', 'summary', 'content']
 menu:
   main:
     # - identifier: categories

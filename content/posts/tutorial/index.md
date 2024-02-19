@@ -5,7 +5,7 @@ weight: 4
 # aliases: ["/first"]
 tags: [web, software]
 author: Dũng
-summary: Cá nhân hóa website cùng Static Site Generator.
+summary: Cá nhân hóa website cùng Static Site Generator
 showToc: true
 TocOpen: true
 description: Kiến trúc tiêu chuẩn ngành Automotive

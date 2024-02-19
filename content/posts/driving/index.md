@@ -4,7 +4,7 @@ date: 2022-09-17
 weight: 2
 tags: [driving]
 author: Dũng
-summary: Đội ơn anh, anh Bằng.
+summary: Đội ơn anh, anh Bằng
 showToc: true
 description: cảm lạnh.
 hideSummary: false
@@ -42,9 +42,13 @@ Anh phán một câu như bủa ngay vào cái đầu óc ngu độn của mình
 
 
 Anh Bằng vừa rời đi thì cậu bạn ban nãy bước vào. Để ý thì, cậu ấy trông rất trẻ, chắc chỉ trạc tuổi mình, trùng hợp thay cũng mang một đôi Ananas. Hồi sau, cả hai được gọi tên và tiến vào phòng chờ. Được vài phút thì cậu ta bước ra ngoài, bảo rằng cần làm một điếu cho bình tĩnh, lạ thật, mình tưởng mọi người thường cầu nguyện. Khoảnh khắc mình sắp lên dĩa, cậu ta bày mình khá nhiều thứ, dù là mới biết nhau, nhưng điều đó làm mình cảm thấy có chút ấm áp.
-
+\
+\
+\
 Và mình được gọi tên.
-
+\
+\
+\
 Bước lên, mình bắt đầu nghĩ về con số 800, có nên làm một con lô chiều nay không nhỉ, thật sự những thời điểm như thế này khiến mình rất buồn nôn. Ổn định đã một lúc, nhưng chẳng có ai xung quanh cả, mình trở nên lúng túng, nhìn ra tứ phía tìm kiếm một anh kỹ thuật viên nào đó cầu một tín hiệu bắt đầu, nhưng chẳng có ai ở đấy. Chợt từ phía cửa sổ, cậu ta thò đầu ra, nhắc mình nhớ thắt dây an toàn, nhớ kéo thắng tay, nhớ thực hiện các thao tác cơ bản đầy đủ, bảo mình hãy bình tĩnh, bảo rằng hãy tin vào bản thân, bảo rằng:
 \
 \

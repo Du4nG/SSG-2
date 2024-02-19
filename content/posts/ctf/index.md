@@ -4,7 +4,7 @@ date: 2019-09-08
 weight: 8
 tags: [crisp, ctf, soul]
 author: '[ ★ 262 ]​​'
-summary: Steganography.
+summary: Steganography
 description: Thử thách hiện chưa có Writeups.
 hideSummary: false
 ShowWordCount: false

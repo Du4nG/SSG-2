@@ -5,7 +5,7 @@ weight: 4
 # aliases: ["/first"]
 tags: [software]
 author: Dũng # [Me, You] multiple authors
-summary: Kiến trúc để đời ngành Automotive.
+summary: Kiến trúc để đời ngành Automotive
 showToc: true
 TocOpen: true
 draft: false
