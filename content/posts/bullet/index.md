@@ -27,3 +27,6 @@ Six days later, I got a bullet in my chest.​
 ​\
 ​
 <!-- ![alt text](jane.png) -->
+<!-- ![alt text](museum.png) -->
+
+<!-- " Basically, it takes place in the hippocampus. Neural connections are formed. The senses make the neurons express signals that go right back to the same part of the brain as before. Where memory is stored. It's something called relational memory. Don't quote me on that, I'm rusty on my biology. " -->

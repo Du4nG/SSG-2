@@ -26,7 +26,7 @@ editPost:
 \
 \
 \
-Tell me more. A message lit up the screen in the midst of the day. Guessing the sender by the message always intrigues me as I grabbed my phone. Undoubtedly, it was from someone whose name is just merely a strawberry emoji. In fact, it was anticipated, she made that claim a year ago, now is just the time to fulfill it. Pffft, how long could it have been. 
+Tell me more. A message lit up the screen in the midst of the day. Guessing the sender by the message always intrigues me as I grabbed my phone, it was from someone whose name is just merely a strawberry emoji. In fact, it was anticipated, she made that claim a year ago, now is just the time to fulfill it. Pffft, how long could it have been. 
 \
 \
 \
@@ -178,7 +178,7 @@ Thought these types of food had already vanished from her menu. I opted for a sp
 \
 The lady pointed toward a bunch of square baskets filled with hundreds of scallops, oysters, clams, sweet snails, mussels, you name it. That's not even the hard part, there were dozens of different condiments that can be grilled with: scallion oil, fish sauce, honey, cheese... In the vast sea of possibilities, I found myself adrift, the potential combinations were  innumerable. Dang it, am I here to solve permutation problems !?
 
-After ten minutes of mind struggling, I finally reached the end of the order with... three dishes, which I didn't even remember what they were. I think the girl might be questioning my choice, made a goddamn distinct sigh while inquiring about what I had called. My dear, I had to use every of my last brain cell to figure out the fittest combinations among these sea creatures. 
+After ten minutes of mind struggling, I finally reached the end of the order with... three dishes, which I didn't even remember what they were. I think the girl might be questioning my choice, made a goddamn distinct sigh while inquiring about what I had ordered. My dear, I had to use every of my last brain cell to figure out the fittest combinations among these sea creatures. 
 \
 \
 \
@@ -194,7 +194,7 @@ Bitch started to give me a deadly doubtful eye as if she'd been living here long
 \
 \
 \
-Like, for real ? We were just dining for less than five minutes. And was she about to have an interview with vampires ? Her internship finished a few months ago, the company didn't come up with a return offer in her current scope but a different position in a different field, are you shittin' me ? Well then, a jump was likely the right choice. She told me how her life perspective has changed over the last few years, I told her how my front teeth were cracked in my teenage years. Nostalgic, isn't it ? I was quite full, but still tried to eat a bit more as remembering her words from last time. As the bill was paid, we again, headed to a coffee store.
+Like, for real ? We were just dining for less than five minutes. And wait, was she 'bout to have an interview with vampires ? Her internship finished a few months ago, the company didn't come up with a return offer in her current scope but a different position in a different field, are you shittin' me ? Well then, a jump was likely the right choice. She told me how her life perspective has changed over the last few years, I told her how my front teeth were cracked in my teenage years. Nostalgic, isn't it ? I was quite full, but still tried to eat a bit more as remembering her words from last time. As the bill was paid, we again, headed to a coffee store.
 \
 \
 \
@@ -212,7 +212,7 @@ This place looked... enormous. Had never seen a door three times taller than me,
 \
 \
 \
-There was pity in her eyes, a small crack marred the ear of the kitty, yet in the end, she still chose it, no matter this could lead to the inevitable fracturing during the painting process. This, left me to think: Some people overlooked all possible mistakes simply because the other person possesses the one thing they desire. They are not even the protagonists in their own story, like there is an invisible eraser imperceptibly wiping away their ego. Everything will be rotten, that person will eventually vanish from their life, leaving behind a hidden wound, as if nothing had ever happened. Okay guys I know, I sound overdramatic, but, come to think of it, have you ever witnessed such situation in your life ?
+There was pity in her eyes, a small crack marred the ear of the kitty, yet in the end, she still chose it, no matter this could lead to the inevitable fracturing during the painting process. This, left me to think: Some people overlooked all possible mistakes simply because the other person possesses the one thing they desire. They are not even the protagonists in their own stories, like there is an invisible eraser imperceptibly wiping away their ego. Everything will be rotten, that person will eventually vanish from their life, leaving behind a hidden wound, as if nothing had ever happened. Okay guys I know, I sound overdramatic, but, come to think of it, have you ever witnessed such situation in your life ?
 
 We took some colors in liquid state – not sure what to call it – and needed to find the rinse water somewhere. So weird, that was like the second most important thing after the colors, yet I couldn't find its existence. I noticed that everybody had themselves a small plastic cup filled with fresh water. How is this even possible, where did that water come from, like I was asking for music in a dance class. Losing my patience, I then approached an employee.
 \
@@ -244,9 +244,9 @@ I was... confused. The heck, what do you want me to do, man ? Was that a hint, o
 \
 \
 \
-That, was a Lots-o'-Huggin' Bear, except the fact that it was the size of half of me, I would run out of money before laying my hands on it. I casted my eyes around, and boy, there it was, a little pinky teddy, much like the sculpture we just painted, sorry bae, but this should be an easier target.
+That, was a Lots-o'-Huggin' Bear, except the fact that it was the size of half of me, I would run out of money before laying my hands on it. I casted my eyes around, and boy, there it was, a little pinky teddy, much like the sculpture we just painted, sorry babe, but this should be an easier target.
 
-Here we go, let's impress the world. Took me like centuries to ensure that the claw was perfectly centered on the teddy's body, just a few inches away before I could aim for the prize. That was until the claw automatically went down itself without my pressing on the button. Wait, what ? There was a timer for this, argh, I should have known !
+Here we go, let's impress the world. Took me like centuries to ensure that the claw was perfectly centered on the teddy's body, just a few inches away before I could aim for the prize. That was until the claw automatically went down itself without me pressing on the button. Wait, what ? There was a timer for this. Argh! I should have known.
 \
 \
 \
@@ -276,7 +276,7 @@ __________________
 \
 \
 \
-It was the day when she stepped off the plane, guessed she purchased that eSIM at one of the telecommunication booths at the airport. Things worked just fine for the first month, until it didn't. She had no choice but making a call to the network provider. The operator asserted that her SIM card was a... physical one, that it had already been occupied by someone else. Fantastic, I'm pretty sure my dog has more faith in humanity than she does now.
+It was the day when she stepped off the plane, guessed she purchased that eSIM at one of the telecommunication booths at the airport. Thing worked just fine for the first month, until it didn't. She had no choice but making a call to the network provider. The operator asserted that her SIM card was a... physical one, that it had already been occupied by someone else. Fantastic, I'm pretty sure my dog has more faith in humanity than she does now.
 \
 \
 \

@@ -192,7 +192,7 @@ Giả dụ:
 
 Trên thực tế con số 100% này ở tầng ASW có thể khác, OEM có thể chỉ dev 75%, 50% hoặc quẳng hết cho Supplier làm luôn tùy thuộc vào thỏa thuận hai bên. Vì lý do bảo mật công nghệ, phần trăm càng cao nghĩa là OEM càng không muốn tiết lộ công nghệ của họ 🙄 mình cho là vậy.
 
-Dễ thấy hai khứa ASW và BSW hợp tác rất đơn giản, chỉ việc đưa và nhận, đổi lại là sự flexibility trong kiến trúc mỗi thằng. BSW vốn chơi rất thân với hardware nên hiển nhiên sẽ được viết bằng C, Assem,.. vì lý do performance. ASW ngược lại sẽ được viết bằng Py, Java,.. bởi sự tiện dụng của các library, dễ đọc, dễ maintain và đẩy nhanh quá trình dev. Và "**ánh xạ**", một lần nữa, cũng là cách mà abstraction hoạt động, kết nối hai thằng này với nhau, dịch sang tiếng người nghĩa là "**mapping**". 
+Dễ thấy hai khứa ASW và BSW hợp tác rất đơn giản, chỉ việc đưa và nhận, đổi lại là sự flexibility trong kiến trúc mỗi thằng. Và "**ánh xạ**", một lần nữa, cũng là cách mà abstraction hoạt động, kết nối hai thằng này với nhau, dịch sang tiếng người nghĩa là "**mapping**". 
 
 Nhưng map là map cái gì ? Vâng, chính là SWCs. Đơn giản, quá trình mapping chỉ định SWC nào sẽ được map đến ECU nào, chẳng hạn cụm ABS, cụm cửa sổ, cụm túi khí,...
  
