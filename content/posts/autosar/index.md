@@ -1,7 +1,7 @@
 ---
 title: Giải mã AUTOSAR
 date: 2023-05-06
-weight: 4
+weight: 6
 # aliases: ["/first"]
 tags: [software]
 author: Dũng # [Me, You] multiple authors
@@ -163,7 +163,9 @@ Tưởng tượng như này, **ECU Abstraction Layer (EAL)** chính là "bộ n�
 
 ![Complex Device Drivers](CDD.png)
 
-Nếu mọi người để ý, Complex Drivers 
+Nhập gia tùy... tiện, chúng ta có một impostor ở đây. Không phải cứ nằm trong kiến trúc nào là phải mang hẳn quy tắc của kiến trúc đó. Sẽ có những trường hợp chúng ta cần tốc độ xử lý ở mức cao nhất, do đó phải bỏ qua tối đa các macro để code thẳng vào logic, tránh function call quá nhiều gây tăng instruction trong quá trình runtime. Ví dụ như việc bung túi khí, đòi hỏi tốc độ response cực kì cao.
+
+Do đó nếu mọi người để ý, ta sẽ thấy ngoại lệ khi MCU được nối thẳng lên tầng trên qua CDD, cắt bớt layer để giảm time.
 \
 \
 \
@@ -196,8 +198,9 @@ Dễ thấy hai khứa ASW và BSW hợp tác rất đơn giản, chỉ việc �
 
 Nhưng map là map cái gì ? Vâng, chính là SWCs. Đơn giản, quá trình mapping chỉ định SWC nào sẽ được map đến ECU nào, chẳng hạn cụm ABS, cụm cửa sổ, cụm túi khí,...
  
-Chưa hết, anh bạn này còn đóng vai trò như một debugger. 
-Updating
+Lớp RTE trong dự án thực tế được macro cực kì nhiều cũng bởi đặc trưng của AUTOSAR. Có đến vài chục file .c và .h bắt đầu bằng Rte như Rte.c, Rte.h, Rte_Lib.h, Rte_Type.h,...
+
+
 \
 \
 \

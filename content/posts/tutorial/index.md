@@ -1,7 +1,7 @@
 ---
 title: "Open Source SSG"
 date: 2022-10-10
-weight: 4
+weight: 6
 # aliases: ["/first"]
 tags: [web, software]
 author: Dũng
@@ -315,12 +315,12 @@ Nhưng, dùng tên miền như vậy sẽ bị người khác đánh giá đấy
 | .com .dev. org .edu .vn .net |.tk .cf .gq .ga |
 
 \
-Apex domain hiện mình đang dùng là *bbtd.tech* tại [**Hostinger**](https://www.hostinger.com) với phí duy trì chưa đến $10 cho năm đầu tiên.
+Apex domain mình từng dùng là *bbtd.dev* tại [**Hostinger**](https://www.hostinger.com) với phí ưu đãi chưa đến $1 cho năm đầu tiên, nhưng từ năm tiếp theo nó đã trở về hơn... $50. Hiện mình đã chuyển qua *bbtd.dev* với giá khoảng $15, các domain như .com, .ai sẽ có giá tương tự hoặc đắt hơn.
 
 Nhưng trong bài viết này, mình sẽ chọn [**Freenom**](https://www.freenom.com) vì miễn phí và giao diện tại đây khá đơn giản. Chi tiết cách để tậu cho mình một tên miền qua bất kỳ đơn vị nào, các bạn có thể tra Google vì tùy đơn vị sẽ có cách đăng ký khác nhau.
 \
 \
-Sau khi config xong xuôi trên Freenom các bạn hẳn tiếp tục với bước này nhé. Lấy ví dụ về tên miền mà GitHub cung cấp sẵn, ta thử truy vấn đến du4ng.github.io qua  [**Dig**](https://toolbox.googleapps.com/apps/dig) - một DNS Lookupcủa Google. Kết quả trả về như sau:
+Sau khi config xong xuôi trên Freenom các bạn hẳn tiếp tục với bước này nhé. Lấy ví dụ về tên miền mà GitHub cung cấp sẵn, ta thử truy vấn đến du4ng.github.io qua [**Dig**](https://toolbox.googleapps.com/apps/dig) - một DNS Lookupcủa Google. Kết quả trả về như sau:
 
 ![](https://images.viblo.asia/454ce83f-190f-4169-8a69-1d2462e25911.png)
 
