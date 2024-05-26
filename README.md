@@ -14,10 +14,10 @@ ______
 \
 Khi truy cập blog từ Facebook, một "fbclid" sẽ được tự động thêm vào sau URL, chẳng hạn:
 
-bbtd.tech/?**fbclid=IwAR06KXR17RgOlmz4PMcFuE8fNiqdOvfiVJVl8sW6PQpRIqxB1YXQDzSWKKw**
+bbtd.dev/?**fbclid=IwAR06KXR17RgOlmz4PMcFuE8fNiqdOvfiVJVl8sW6PQpRIqxB1YXQDzSWKKw**
 
 Để bỏ đi phần râu ria này, mình dùng một tính năng trong mục Facebook Privacy của J2TEAM:
 * [ ] Block Facebook Pixel (Tracking Script)
 * [x] Remove Facebook Click Identifier (Fbclid) Parameter From Links
 
-But, chỉ bỏ đi được ở facebook chính bạn, người khác vẫn thấy bình thường. 
+But, chỉ bỏ đi được ở facebook dùng J2TEAM, người khác vẫn thấy bình thường. 

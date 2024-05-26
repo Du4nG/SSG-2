@@ -3,7 +3,7 @@ title: Khó nhưng... dễ
 date: 2022-12-23
 weight: 9
 tags: [software]
-author: [Dũng]
+author: [Dung]
 summary: </>
 hideSummary: false
 ShowWordCount: false

@@ -3,7 +3,7 @@ title: Việt Kiều
 date: 2023-12-25
 weight: 2
 tags: [soul]
-author: [Dũng]
+author: [Dung]
 summary: Pizza
 description: has arrived.
 hideSummary: false

@@ -4,7 +4,7 @@ date: 2023-05-06
 weight: 6
 # aliases: ["/first"]
 tags: [software]
-author: Dũng # [Me, You] multiple authors
+author: Dung # [Me, You] multiple authors
 summary: Kiến trúc để đời ngành Automotive
 showToc: true
 TocOpen: true

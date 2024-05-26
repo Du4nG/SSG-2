@@ -3,7 +3,7 @@ title: Lucki
 date: 2021-02-01
 weight: 7
 tags: [soul]
-author: Dũng
+author: Dung
 summary: A blond fat ass bitch
 showToc: false
 description: 

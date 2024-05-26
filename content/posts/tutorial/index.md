@@ -4,7 +4,7 @@ date: 2022-10-10
 weight: 6
 # aliases: ["/first"]
 tags: [web, software]
-author: Dũng
+author: Dung
 summary: Cá nhân hóa website cùng Static Site Generator
 showToc: true
 TocOpen: true

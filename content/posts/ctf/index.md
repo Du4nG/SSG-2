@@ -3,9 +3,9 @@ title: Capture The Flag
 date: 2023-05-01
 weight: 5
 tags: [ctf, software]
-author: Dũng
+author: Dung
 summary: Cybersecurity
-description: Cướp cờ
+description: Cướp cờ.
 hideSummary: false
 ShowWordCount: false
 ShowReadingTime: false
@@ -55,7 +55,7 @@ Nếu giải đúng chắc phải reverse hình qua code được cung cấp. M�
 \
 ​[**Infinite**](https://ctf.viblo.asia/puzzles/infinite-cm4ue2r7ywx) [Crypto]
 
-`number.txt`   :   chứa rất nhiều số nguyên có 3 chữ số.
+`number.txt` : chứa rất nhiều số nguyên có 3 chữ số.
 
 ​Số nguyên có 3 chữ số có vẻ sẽ là ASCII. Thêm cái hint nói nhăng nói cuội chả hiểu đéo gì, chỉ để ý đến con số 99. Hỏi con vợ thì bảo cầm lần lượt từng số đi chia lấy dư cho 99 là ra.
 
@@ -69,7 +69,7 @@ message = ''.join([chr(num % 99) for num in numbers])
 \
 ​[**Jefferson**](https://ctf.viblo.asia/puzzles/jefferson-jommvw8xmus) [Crypto]
 
-`secret.txt` :   chứa 19 dòng ký tự gì đấy cùng key và vài con số.
+`secret.txt` : chứa 19 dòng ký tự gì đấy cùng key và vài con số.
 
 Jefferson có nghĩa là Jefferson's Wheel, là một dạng mã hóa bằng cách thay đổi thứ tự của các đĩa khi stack chúng với nhau. Có thể tham khảo video minh họa: ​[**Jefferson Disk**](https://www.youtube.com/watch?v=FVcSk6TYUI8).
 
@@ -134,3 +134,33 @@ Một ví dụ ngoài lề, nếu tác giả xoay bừa mấy cái đĩa, chúng
                    │  │
                    └──┘
 ```
+\
+\
+\
+\
+\
+​[**One True Pairing**](https://ctf.viblo.asia/puzzles/one-true-pairing-ke0qayye4kp) [Stego]
+
+`first_image.bmp` `second_image.bmp` : hai file bitmap, cả hai đều noise tựa tựa nhau, trông như dưới đây:
+
+![first_image](first_image.png)
+
+Trông noise như thế nên mình tưởng header của file bị hỏng, thử bật VS Code check bằng Hex Editor thì vẫn nguyên vẹn chứ không bị sửa đổi gì (header của **BMP** là 0x42, 0x4D). Thử dùng stegsolve cũng chẳng thu được gì nốt.
+
+Thử search vài challenge có đụng đến bitmap thì thấy có suggest XOR hai file lại với nhau. Ok search nhanh google tìm code XOR hai tấm hình:
+
+```python
+import cv2
+
+foo = cv2.imread('./first_image.bmp')
+bar = cv2.imread('./second_image.bmp')
+
+key = cv2.bitwise_xor(foo, bar)
+cv2.imshow('dung dep trai vl', key)
+
+k = cv2.waitKey(0)
+```
+\
+Kết quả:
+![alt text](xor.png)
+

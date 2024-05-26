@@ -1,5 +1,5 @@
 baseURL: 'https://du4ng.github.io/' # đổi giống domain của host
-title: mình đây, Dũng.
+title: Dung.
 paginate: 5
 theme: PaperMod
 
@@ -84,13 +84,17 @@ params:
       Chút xàm xí về **software**,
       
 
-      và một chút ngoài lề 🫠. #👽🎲
+      và một chút ngoài lề.🐦‍⬛ #👽🎲
 
   socialIcons:
-    # - name: hackthebox
-      # url: 'https://ctftime.org'
-    - name: dev
-      url: https://dev.to/muzan
+    # - name: stackoverflow
+    #   url: 
+    # - name: dev 
+    #   url: 
+    - name: github
+      url: https://github.com/Du4nG
+    - name: linkedin
+      url: https://www.linkedin.com/in/bbtd/
 
 
 

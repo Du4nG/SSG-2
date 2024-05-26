@@ -3,7 +3,7 @@ title: Bullet
 date: 2020-03-08
 weight: 1
 tags: [soul]
-author: Dũng
+author: Dung
 summary: Đạn và thuốc
 showToc: false
 description: 
