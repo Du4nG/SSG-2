@@ -20,7 +20,8 @@ editPost:
     appendFilePath: false # to append file path to Edit link
 ---
 \
-​
+![LeetCode Badges](https://leetcode-badge-showcase.vercel.app/api?username=du4ng)​
+
 ##  1. Giới thiệu
 
 Một ngày đẹp trời, mình tình cờ vấp phải [**That IELTS Guide 🌱**](https://thatieltsguide.com/) của thầy Quang. Mình nghĩ, chắc cũng là một kiểu build blog cá nhân, như các bạn Content/Copywriter vẫn hay dùng, sử dụng các nền tảng như Wordpress, Joomla,... Đối với các dịch vụ cung cấp CMS (Content Management System) như vậy, tuy bản thân là open-source, nhưng các theme và template của chúng thì lại không. Do đó, ta không thể cá nhân hóa trang web 100% như mong muốn.
@@ -61,7 +62,7 @@ Bên trong, một vài folder rỗng đồng thời cũng được tạo ra, cũ
 Cùng chọn cho mình một theme tùy thích tại chợ  [**Themes**](https://themes.gohugo.io/) của Hugo.
 \
 \
-Chẳng hạn, mình chọn theme Stack, các bạn có thể tham khảo theme này tại [**Sound Engineering**](https://kpnn.ml/), một static site của bạn mình cũng sử dụng framework này.
+Chẳng hạn, mình chọn theme Stack, các bạn có thể tham khảo theme này tại [**Sound Engineering**](https://kpnn0100.github.io), một static site của bạn mình cũng sử dụng framework này.
 
 ![](https://images.viblo.asia/5b9d5cbb-b2ee-4968-bc8b-c913e1374d9c.png)
 
@@ -312,10 +313,10 @@ Tất cả file bên trong **📁public** lúc này đã được đẩy lên re
 Nhưng, dùng tên miền như vậy sẽ bị người khác đánh giá đấy. Có rất nhiều đơn vị cung cấp tên miền uy tín như Namecheap, GoDaddy, BlueHost,... Các bạn có thể tham khảo các đuôi phổ biến sau:
 |Trả phí                                      | Miễn phí      |
 | --------                                       | -----------         |
-| .com .dev. org .edu .vn .net |.tk .cf .gq .ga |
+| .com .dev. org .edu .vn .net |.tk .cf .gq .ga .ml|
 
 \
-Apex domain mình từng dùng là *bbtd.dev* tại [**Hostinger**](https://www.hostinger.com) với phí ưu đãi chưa đến $1 cho năm đầu tiên, nhưng từ năm tiếp theo nó đã trở về hơn... $50. Hiện mình đã chuyển qua *bbtd.dev* với giá khoảng $15, các domain như .com, .ai sẽ có giá tương tự hoặc đắt hơn.
+Apex domain mình từng dùng là *bbtd.tech* tại [**Hostinger**](https://www.hostinger.com) với phí ưu đãi chưa đến $1 cho năm đầu tiên, nhưng từ năm tiếp theo nó đã trở về hơn... $50. Hiện mình đã chuyển qua *bbtd.dev* với giá khoảng $15, các domain như .com, .ai sẽ có giá tương tự hoặc đắt hơn.
 
 Nhưng trong bài viết này, mình sẽ chọn [**Freenom**](https://www.freenom.com) vì miễn phí và giao diện tại đây khá đơn giản. Chi tiết cách để tậu cho mình một tên miền qua bất kỳ đơn vị nào, các bạn có thể tra Google vì tùy đơn vị sẽ có cách đăng ký khác nhau.
 \

@@ -8,7 +8,7 @@ summary: Cybersecurity
 description: Cướp cờ.
 hideSummary: false
 ShowWordCount: false
-ShowReadingTime: false
+ShowReadingTime: true
 ShowPostNavLinks: false
 draft: false
 
@@ -47,7 +47,7 @@ Mình thử dùng stegsolve bộ Red plane 0, Green plane 0, Blue plane 0 thì t
 Ví dụ kênh đỏ:
 ![red_plane_0](red_plane_0.png)
 
-Nếu giải đúng chắc phải reverse hình qua code được cung cấp. Mình thử scan online ở vài web thì cũng không ăn thua do QR bị lẫn pixel từ kênh của hình gốc. May sao vẫn có một web scan ra được, hên vl.
+Nếu giải đúng chắc phải reverse hình qua code được cung cấp. Mình thử scan online ở vài web thì cũng không ăn thua do QR bị lẫn pixel từ kênh của hình gốc. May sao vẫn có một web scan ra được, đỡ phải reverse code, hehe.
 \
 \
 \
@@ -105,7 +105,7 @@ Rất đơn giản, tưởng tượng từng dòng là một chiếc đĩa riên
 
 Tác giả đã xáo trộn thứ tự của các đĩa, tuy nhiên cha nội này không xoay chiếc đĩa nào mà để im, cho nên nhìn một lúc sẽ thấy key `KBEFCMLIIOZZLIDYTMK` xuất hiện ở cột thứ 14. Nhìn qua bên trái sẽ thấy flag nằm ở cột đầu tiên.
 
-Một ví dụ ngoài lề, nếu tác giả xoay bừa mấy cái đĩa, chúng sẽ trông như bên dưới. Ta chỉ cần align lại rồi dóng qua các cột khác cho đến khi tìm được một message hợp lý.
+Một ví dụ ngoài lề, nếu tác giả xoay bừa mấy cái đĩa, chúng sẽ trông như bên dưới. Ta chỉ cần align lại rồi dóng qua các cột khác cho đến khi tìm được một message có ý nghĩa.
 
 ```
                    ┌──┐
@@ -145,7 +145,7 @@ Một ví dụ ngoài lề, nếu tác giả xoay bừa mấy cái đĩa, chúng
 
 ![first_image](first_image.png)
 
-Trông noise như thế nên mình tưởng header của file bị hỏng, thử bật VS Code check bằng Hex Editor thì vẫn nguyên vẹn chứ không bị sửa đổi gì (header của **BMP** là 0x42, 0x4D). Thử dùng stegsolve cũng chẳng thu được gì nốt.
+Trông noise như thế nên mình tưởng header của file bị hỏng, thử check bằng Hex Editor thì vẫn nguyên vẹn chứ không bị sửa đổi gì (header của **BMP** là 0x42, 0x4D). Thử dùng stegsolve cũng chẳng thu được gì nốt.
 
 Thử search vài challenge có đụng đến bitmap thì thấy có suggest XOR hai file lại với nhau. Ok search nhanh google tìm code XOR hai tấm hình:
 

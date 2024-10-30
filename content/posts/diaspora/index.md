@@ -26,7 +26,7 @@ editPost:
 \
 \
 \
-Tell me more. A message lit up the screen in the midst of the day. Guessing the sender by the message always intrigues me as I grabbed my phone, it was from someone whose name is just merely a strawberry emoji. In fact, it was anticipated, she made that claim a year ago, now is just the time to fulfill it. Pffft, how long could it have been. 
+Tell me more. A message lit up the screen in the midst of the day. Guessing the sender by the message always intrigues me as I grabbed my phone, it was from someone whose name is just merely a strawberry emoji. She made that claim a year ago, now is just the time to fulfill it. Pffft, how long could it have been. 
 \
 \
 \
@@ -60,7 +60,7 @@ She smiled, always works.
 \
 Of course I did, who would step on a rake twice. She gave me two large paper sacks, as if it had been years since her last shopping here, well, it is. Call me perverted, but being able to tell a person through scent is kinda my forte, it was carved, six years ago, an indelible mark in the brain. A person, a distinct piece.
 
-Gave her my phone to navigate the route, eventually, it locked itself, I then read her the password. I think we all know where this "navigation" thing is going. As she delved into the conversation, the map on my phone became a forgotten relic, the moment she realized, we were already in a one-way street. Every turn was left to the whims of fate. Right, just wait until I reach the North, then tell me to make the turn, I insist! The girl'd inevitably crack up every time, she hasn't changed much, still lighthearted, and fragile.
+Gave her my phone to navigate the route, eventually, it locked itself, I then read her the password. I think we all know where this "navigation" thing is going. As we delved into the conversation, the map on my phone became a forgotten relic, the moment she realized, we were already in a one-way street. Every turn was left to the whims of fate. Right, just wait until I reach the North, then tell me to make the turn, I insist! The girl'd inevitably crack up every time, she hasn't changed much, still lighthearted, and fragile.
 \
 \
 \
@@ -166,7 +166,7 @@ __________________
 \
 \
 \
-Thought these types of food had already vanished from her menu. I opted for a spot I pass by daily on my way home from work, coincidentally, quite near from our secondary school. She asked me to make some orders, sure, let me serve up a feast, how hard can it be !
+Thought these types of food had already vanished from her menu. I opted for a spot that I pass by daily on my way home from work, coincidentally, quite near from our secondary school. She asked me to make some orders, sure, let me serve up a feast, how hard can it be !
 \
 \
 \
@@ -250,7 +250,7 @@ Here we go, let's impress the world. Took me like centuries to ensure that the c
 \
 \
 \
-*"Wanna try ?"*
+*"Give it a try ?"*
 \
 *"Sure."*
 \
@@ -320,9 +320,9 @@ Time to leave. I put on her the helmet, buckled it up myself.
 \
 \
 \
-A coffee store again, obviously. She brought out her Mac, surfing LinkedIn for jobs. If she failed to find one before her flight back, she might consider applying for the postgraduate education, maybe in mathematics or cyber security specialization, both were in the data field. What a neat move. If you can't get a job, get a Master's!
+A coffee store again, obviously. She brought out her Mac, surfing LinkedIn for jobs. If she failed to find one before her flight back, she might consider applying for the postgraduate education, maybe in mathematics or cybersecurity specialization, both were in the data field. What a neat move. If you can't get a job, get a Master's!
 
-I was at a loss for what to do during this, but being surrounded by this atmosphere drew me back to one thing I always ponder. How do people find it easier to concentrate in places like these ? Indistinct chatter, expensive drinks, smooth background jazz, a time-bomb reminder to leave after 11 P.M – all of that in return for something called the ultimate concentration ? One of my friends asserted that only a professional ambiance brings high efficiency and productivity. Dude, there's a f*cking coconut here!
+I was at a loss for what to do during this, but being surrounded by this atmosphere drew me back to one thing I always ponder. How do people find it easier to concentrate in places like these ? Indistinct chatter, expensive drinks, smooth background jazz, a time-bomb reminder to leave after 11 P.M – all of that in return for something called the ultimate concentration ? One of my friends used to assert that only a professional ambiance brings high efficiency and productivity. Dude, there's a f*cking coconut here!
 \
 \
 \
