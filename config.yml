@@ -8,7 +8,7 @@ buildDrafts: true
 buildFuture: false
 buildExpired: false
 
-googleAnalytics: UA-123-45
+googleAnalytics: G-F9VS7QYQ27
 
 minify:
   disableXML: true
