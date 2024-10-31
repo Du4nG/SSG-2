@@ -32,7 +32,7 @@ Well I didn't, they're just dreams.
 \
 \
 \
-Alcohol gives people purpose, squeezes them dry inside out, eventually, keeps their eyes shut. It brings one from shame, repentance, recklessness, insanity to hope, craving, yearning, even wishes of time traveling. The liquid hits the subconscious, stripping away your sobriety, when honesty nakedly reveals, luring out the most vulnerable child within a person, in the most lonesome moments. 
+Alcohol gives people purpose, squeezes them dry inside out, eventually, keeps their eyes shut. It drags one from shame, repentance, recklessness, insanity to hope, craving, yearning, even wishes of time traveling. The liquid hits the subconscious, stripping away your sobriety, until honesty nakedly reveals, luring out the most vulnerable child within a person, in the most lonesome moments. 
 \
 \
 \
@@ -96,3 +96,4 @@ right in my chest.​
 \
 \
 ​
+<!-- the shed of no return -->
