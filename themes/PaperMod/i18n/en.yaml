@@ -1,8 +1,8 @@
 - id: prev_page
-  translation: "Trước"
+  translation: "Prev"
 
 - id: next_page
-  translation: "Sau"
+  translation: "Next"
 
 - id: read_time
   translation:

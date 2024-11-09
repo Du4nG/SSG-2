@@ -91,9 +91,10 @@ Six days later, I got another bullet,
 \
 \
 \
-right in my chest.​
+right through my chest.​
 \
 \
 \
 ​
-<!-- the shed of no return -->
+<!-- the shed of no return 
+rendezvous-->
