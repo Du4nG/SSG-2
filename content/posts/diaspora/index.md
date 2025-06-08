@@ -1,8 +1,8 @@
 ---
-title: Việt Kiều
+title: Viet Kieu
 date: 2023-12-25
 weight: 2
-tags: [soul]
+tags: [narrative]
 author: [Dung]
 summary: Pizza
 description: has arrived.
@@ -12,7 +12,7 @@ ShowReadingTime: true
 ShowPostNavLinks: false
 
 editPost:
-    Text: 🍓
+    Text: 🍓.
     URL: https://www.google.com/maps/place/The+Hideout+Coffee/@10.8423591,106.6571511,20z/data=!4m15!1m8!3m7!1s0x317529a3964003bd:0x1b953940280fc812!2sThe+Hideout+Coffee!8m2!3d10.8423599!4d106.6572576!10e5!16s%2Fg%2F11c5bbb6k7!3m5!1s0x317529a3964003bd:0x1b953940280fc812!8m2!3d10.8423599!4d106.6572576!16s%2Fg%2F11c5bbb6k7?entry=ttu
     appendFilePath: false # to append file path to Edit link
 
@@ -91,7 +91,7 @@ Took about five minutes of waiting for a vacant table, a few minutes more before
 \
 \
 \
-My apologies. I meant to clean the forks before every meal. That moment, I realized the habit of eating at a regular food store has lingered in my subconscious for quite some time, that cleaning a spoon is a rare sight in a restaurant. Meanwhile, the girl, having no idea what was happening, was struggling with her clogged nose because of the local heatstroke. Don’t ask me how those are relevant, that's what she said. I did cough a little bit that day, we were like the kind of people who can get sick at any time. I got a sore throat, she got, a stuffy nose.
+My apologies. I meant to clean the forks before every meal. That moment, I realized that the habit of eating at a regular street food stall has lingered in my subconscious for quite some time, that cleaning a spoon is a rare sight in a restaurant. Meanwhile, the girl, having no idea what was happening, was struggling with her clogged nose because of the local heatstroke. Don’t ask me how those are relevant, that's what she said. I did cough a little bit that day, we were like the kind of people who can get sick at any time. I got a sore throat, she got, a stuffy nose.
 
 Here came the food. The waitress suggested pouring some honey on the smoked mozzarella. The girl heard that, insisted on it, and I did the pouring. She took the first bite, told me it tasted like crap, that it was nothing like the American pizza. Yeah right, like I had ever tried a slice of that bloody foreign pizza in my entire life.
 \
@@ -146,7 +146,7 @@ Time to leave. She put on the helmet, buckled it up herself.
 \
 Kinda weird when I let her decide where to go for a drink. I know it's not a typical move, especially for a girl, but bad news for her because she was with me – a 'stay-at-home' guy. Anyway, there we were, at a coffee store right by a roundabout. Couldn't find my favourite juice, I then chose a plain coffee.
 
-We were in the same secondary school, but not the same high school, anyhow we still had plenty of mutual friends, and they had their own choices at the age of fifteen. There was another high school, not ours, I don't want to be rude, but the majority admitted that there were quite a few social vices here. I told her that all of our friends from there were already in eternal rest, like literally. She scolded me in the face, flicked me in the forehead, obviously, I knew it was her habit with people.
+We were in the same secondary school, but not the same high school, anyhow we still had plenty of mutual friends, and, they already had their own choices at the age of… fifteen. There was another high school, not ours, I don't want to be rude, but the majority admitted that there were quite a few social vices here. I told her that some of our friends from there were already in eternal rest, like literally. She scolded me in the face, flicked me in the forehead, obviously, I knew it was her habit with people.
 
 We didn't talk much. For much of the reason, it's because of me – I fear conversations. Yep, you read that right. I'm still working on it, especially when my new manager at work is quite a chatty  guy. Perhaps that's why she tended to stick with the old things, teasing me about how timid I was, what a picky eater I am (which made me skinny), even how tedious my phone is. Well, who needs a phone when a computer would suffice !
 
@@ -322,7 +322,7 @@ Time to leave. I put on her the helmet, buckled it up myself.
 \
 A coffee store again, obviously. She brought out her Mac, surfing LinkedIn for jobs. If she failed to find one before her flight back, she might consider applying for the postgraduate education, maybe in mathematics or cybersecurity specialization, both were in the data field. What a neat move. If you can't get a job, get a Master's!
 
-I was at a loss for what to do during this, but being surrounded by this atmosphere drew me back to one thing I always ponder. How do people find it easier to concentrate in places like these ? Indistinct chatter, expensive drinks, smooth background jazz, a time-bomb reminder to leave after 11 P.M – all of that in return for something called the ultimate concentration ? One of my friends used to assert that only a professional ambiance brings high efficiency and productivity. Dude, there's a f*cking coconut here!
+I was at a loss for what to do during this, but being surrounded by this atmosphere drew me back to one thing I always ponder. How do people find it easier to concentrate in places like these ? Indistinct chatter, expensive drinks, smooth background jazz, a time-bomb reminder to leave after 11 P.M – all of that in return for something called the ultimate concentration ? One of my friends used to assert that only a professional ambiance brings high efficiency and productivity. Dude, there's a fvcking coconut on the table next to me!
 \
 \
 \
@@ -368,21 +368,4 @@ I had no idea how I should look at her as I was trying to find the appropriate w
 \
 The next time she shows up, who knows, maybe a ring on the hand.
 \
-​I bet, you will never know, that will be the last time you see them. -->
-
-<!-- All of the panacea stuff, turned out to be true.
-
-with great power comes great electricity bill
-you don't see that everyday
-uh , Control-Alt-Delete, I guess ?
-comfy
-trippin'
-drive insane
-thousands of miles apart
-If this isn't nice, what is ?
-Let's teach fish how to swim
-nemesis
-give me a break
-again, just, come to your senses
-hear me out
 

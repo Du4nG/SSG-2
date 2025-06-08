@@ -1,7 +1,7 @@
 ---
 title: Capture The Flag
 date: 2023-05-01
-weight: 8
+weight: 7
 tags: [ctf, software]
 author: Dung
 summary: Cybersecurity

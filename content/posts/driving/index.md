@@ -1,8 +1,8 @@
 ---
 title: Chuyện đi thi
 date: 2022-09-17
-weight: 3
-tags: [driving]
+weight: 9
+tags: [narrative]
 author: Dung
 summary: Đội ơn anh, anh Bằng
 showToc: true
@@ -77,7 +77,7 @@ Cậu ta cười, nhưng đi cùng với đó là một cái lắc đầu đầy
 \
 ​
 ​
--- Tám trăm nghìn !
+-- Tám trăm năm mươi nghìn !
 \
 \
 ​   

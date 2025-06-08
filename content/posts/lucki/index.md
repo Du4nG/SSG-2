@@ -1,10 +1,10 @@
 ---
-title: Lucki
+title: Doggo
 date: 2021-02-01
-weight: 5
+weight: 3
 tags: [soul]
 author: Dung
-summary: A blond fat ass bitch
+summary: Two blond fat ass bitches
 showToc: false
 description: 
 hideSummary: false
