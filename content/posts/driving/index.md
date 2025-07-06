@@ -13,8 +13,8 @@ ShowReadingTime: true
 ShowPostNavLinks: false
 
 editPost:
-    # URL: "https://viblo.asia/p/open-source-ssg-ca-nhan-hoa-website-cung-static-site-generator-7ymJXxkEJkq"
-    Text: B2
+    URL: "https://en.m.wikipedia.org/wiki/Toyota_Vios"
+    Text: 𝐕𝐢𝐨𝐬
     appendFilePath: false # to append file path to Edit link
 
 ---

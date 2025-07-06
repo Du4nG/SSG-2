@@ -169,6 +169,7 @@ scintillate
 万能薬
 
 You were there, flesh and bone
+even my neighbors see me by luck
 agony
 sedate
 figment
@@ -185,7 +186,6 @@ uh , Control-Alt-Delete, I guess ?
 trippin'
 drive insane
 in the nick of time
-thousands of miles apart
 If this isn't nice, what is ?
 Let's teach fish how to swim
 remedy
@@ -196,6 +196,7 @@ hear me out
 do-over
 long for something
 that's the neat part, you don't
+to infinity and beyond
 
 Extroverts always want the introverts to talk more, yet no one is telling the extroverts to shut the fvck up. 
 Anh đón gió đêm, làn gió đó thổi qua em. Như vậy có tính chúng ta ôm nhau không

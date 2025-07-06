@@ -32,7 +32,7 @@ cover:
     hidden: false # only hide on current single page
 editPost:
     URL: https://viblo.asia/p/giai-ma-autosar-kien-truc-de-doi-nganh-automotive-phan-1-EoW4ox6zJml
-    Text: Xem tại VIBLO
+    Text: Xem tại 𝐕𝐈𝐁𝐋𝐎
     appendFilePath: false # to append file path to Edit link
 ---
 ​

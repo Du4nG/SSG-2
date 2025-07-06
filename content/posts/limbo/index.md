@@ -13,7 +13,7 @@ ShowReadingTime: true
 ShowPostNavLinks: false
 
 editPost:
-    Text: Egg of the Perfect World
+    Text:  𝕰𝖌𝖌 𝖔𝖋 𝖙𝖍𝖊 𝕻𝖊𝖗𝖋𝖊𝖈𝖙 𝖂𝖔𝖗𝖑𝖉
     URL: https://berserk.fandom.com/wiki/Egg_of_the_Perfect_World
     appendFilePath: false # to append file path to Edit link
 ---

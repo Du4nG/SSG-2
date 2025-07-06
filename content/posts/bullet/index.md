@@ -1,7 +1,7 @@
 ---
 title: Bullet
 date: 2020-03-14
-weight: 2
+weight: 4
 tags: [introspect]
 author: Dung
 summary: Đạn và thuốc
@@ -13,7 +13,7 @@ ShowReadingTime: true
 ShowPostNavLinks: false
 
 editPost:
-    Text: Buy one.
+    Text: 𝐁𝐮𝐲 𝐨𝐧𝐞.
     URL: https://www.fender.com/en-US/squier-electric-guitars/stratocaster/bullet-stratocaster-ht-hss/0371005532.html
     appendFilePath: false # to append file path to Edit link
 

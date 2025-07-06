@@ -15,7 +15,7 @@ draft: false
 
 editPost:
     # URL: ctf.org
-    Text: 'Viblo CTF'
+    Text: '𝐕𝐢𝐛𝐥𝐨 𝐂𝐓𝐅'
     URL: https://ctf.viblo.asia
     appendFilePath: false # to append file path to Edit link
 

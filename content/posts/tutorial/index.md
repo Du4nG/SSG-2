@@ -15,7 +15,7 @@ ShowReadingTime: true
 ShowPostNavLinks: false
 
 editPost:
-    Text: Xem tại VIBLO
+    Text: Xem tại 𝐕𝐈𝐁𝐋𝐎
     URL: https://viblo.asia/p/open-source-ssg-ca-nhan-hoa-website-cung-static-site-generator-7ymJXxkEJkq
     appendFilePath: false # to append file path to Edit link
 ---
