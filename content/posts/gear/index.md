@@ -14,7 +14,7 @@ ShowPostNavLinks: false
 
 editPost:
     URL: "https://www.rtings.com/"
-    Text: 𝖱𝖳𝖨𝖭𝖦𝖲
+    Text: 𝐑𝐓𝐈𝐍𝐆𝐒
     appendFilePath: false # to append file path to Edit link
 
 ---
