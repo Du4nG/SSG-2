@@ -1,7 +1,7 @@
 ---
 title: Doggo
 date: 2021-02-01
-weight: 3
+weight: 10
 tags: [soul]
 author: Dung
 summary: Two blond fat ass bitches
