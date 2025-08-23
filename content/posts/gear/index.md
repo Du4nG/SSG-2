@@ -25,13 +25,15 @@ Một vài đồ điện tử mình đang (từng) dùng.
 \
 ​
 ## Gear
-|Cat. | Brand            | Name                                                                                                                           | Release Year|
-|:---:| --------         | -------                                                                                                                        | :--:|
-|🖥️  | **Samsung**      | [Odyssey OLED G80SD](https://www.samsung.com/us/monitors/gaming/32-inch-odyssey-oled-g8-4k-uhd-240hz-g-sync-sku-ls32dg800snxza) |2024|
-|️⌨️  | **Monsgeek**     | [M1W](https://www.monsgeek.com/product/m1w-fully-assembled)                                                                     |2023|
-|🖱️  | **Logitech**     | [MX Master 3S](https://www.logitech.com/en-us/shop/p/mx-master-3s)                                                              |2022|
-|🖱️  | **Logitech**     | [LIFT Vertical](https://www.logitech.com/en-us/shop/p/lift-vertical-ergonomic-mouse)                                            |2022|
-|🎧  | **Sennheiser**   | [Momentum 4](https://www.sennheiser-hearing.com/en-UK/p/momentum-4-wireless)                                                    |2022|
+|Cat. | Brand             | Name                                                                                                                           | Release Year|
+|:---:| --------          | -------                                                                                                                        | :--:|
+|🖥️  | **Samsung**       | [Odyssey OLED G80SD](https://www.samsung.com/us/monitors/gaming/32-inch-odyssey-oled-g8-4k-uhd-240hz-g-sync-sku-ls32dg800snxza) |2024|
+|🦾  | **HyperWork**     | [MA02](https://hyperwork.vn/products/gia-do-microphone-hyperwork-ma-02)                                                         |2023|
+|️⌨️  | **Monsgeek**      | [M1W](https://www.monsgeek.com/product/m1w-fully-assembled)                                                                     |2023|
+|🖱️  | **Logitech**      | [MX Master 3S](https://www.logitech.com/en-us/shop/p/mx-master-3s)                                                              |2022|
+|🖱️  | **Logitech**      | [LIFT Vertical](https://www.logitech.com/en-us/shop/p/lift-vertical-ergonomic-mouse)                                            |2022|
+|🎧  | **Sennheiser**    | [Momentum 4](https://www.sennheiser-hearing.com/en-UK/p/momentum-4-wireless)                                                    |2022|
+|🎙️  | **Audio-Technica**| [AT2035](https://www.audio-technica.com/en-eu/at2035)                                                                           |2008|
 
 ## Audio
 |Cat. | Brand            | Name                                                                                                                           | Release Year|

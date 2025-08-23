@@ -1,7 +1,7 @@
 ---
 title: Loop
-date: 2025-03-01
-weight: 1
+date: 2024-04-01
+weight: 6
 tags: [introspect]
 author: [Dung]
 summary: Vanellope
@@ -10,7 +10,7 @@ hideSummary: false
 ShowWordCount: false
 ShowReadingTime: true
 ShowPostNavLinks: false
-draft: true
+draft: false
 
 editPost:
     Text: ♾️
@@ -72,23 +72,31 @@ Go look in the mirror, what's in it ?
 \
 \
 Nothing, even a silhouette. What are we staring at ? A restrained robot, a hollow vessel, a soulless corpse, a fractured mannequin, or perhaps, you.
+\
+\
+​
+__________________
+​
+# a bet.
+​
+\
+\
+I make a habit of writing, yet I don't have plenty of drafts, not because I'm some kind of a disciplined person, but much like how I only find solace in befriending words when the daily mayhem randomly kicks in, which, doesn’t usually happen.
 
-
-I made a habit of writing, yet I didn't have plenty of drafts, not because I was some kind of a disciplined person, but much like how I only find solace in befriending words when the daily mayhem randomly kicks in, which, doesn’t usually happen.
-
-frame of mind
-
-I get easy to stuck in the loop of thought of uneccessary stuffs, like you were walking around 
-I had a Korean colleague, the name – Jaemin. He's young, seems like a hectic person. One time,
-told me that we were not in a university, there's no time for the dissect things.
-It's like when someone tell you to find a way to drive a truck, instead of reading the driver handbook, you tried to comprehend the principle of the combustion engine.
+I get easy to stuck in the loop of thought of uneccessary stuffs. I had a Korean colleague, the name – Jaemin. He's young, seems like a hectic person. One time, I was aksed to do some straightforward coding stuff, but rather go straight to the implementation, I chose to invest what the heck these functions specifically do, which, apparently wasted so much of time. Jaemin was a little upset, told me that we were not in a university, there's no time for the dissect things. It's like when someone tell you to find a way to drive a truck, instead of reading the driver handbook, you tried to comprehend the principle of the combustion engine.
 
 The toilet in my office. Month after month, within four walls smaller than three square meters, every morning, I rooted there for nearly an hour, eating my sandwich, leaning my head against the wall and couldn't cry my eyes out. But I wasn't at home, I had work to do, I had to get a grip on myself. Jaemin was right, this isn't a university, nor a kindergarten so I can shed my tears.
 \
 \
 \
 \
-
+\
+\
+\
+(don't know what to put in this part yet)
+\
+\
+\
 \
 \
 \
@@ -103,24 +111,38 @@ People.
 \
 \
 \
-When the time comes, you will have to leave, every single one of them. Yes, I'm being selfish, and making a fuss, my words sound like I was the protagonist of some ridiculous unscripted movie.
+When the time comes, you will have to leave, every single one of them. Yes, I'm being selfish, and making a fuss, my words sound like I was the protagonist of some ridiculous unscripted movie. Live long enough and you will start to realize people's vices. Words, beliefs, even their misconceptions that have lingered in your brain long enough, you’ve mistaken theirs for your own. Ever wonder how their words have chained you to this loop, for this whole time ?
 
-Live long enough and you will start to realize people's vices. Words, beliefs, even their misconceptions that have lingered in your brain long enough, you’ve mistaken theirs for your own.
 
-Take it or leave it, there is not much time. My cognition was thousands of miles apart, my body was falling into the abyss, 
-What kind of deep magic is this ? 
-Do not cite the deep magic to me, I was there, the day it was written.
-Knowing that when I open this door, will be the shed of no return.
 
-You don't need more time, you just need to decide. Yes, then do it. I will do it, thousands of time telling myself I wouldn't not let this chance slip away. asdfasdf Even the slightest attempt, at any price, has to be made.
 
-There are different kinds of loop. Say you were 
-Everyday feels like a fairy tale, like a pixie steps in and walks you through the cycle of pleasure. If 
-congrats! But if it's not, how long would that last ? People were strong enough to crawl their ways out of hell, are you strong enough to leave heaven behind ?
+You don't need more time, you just need to decide. Yes, then do it. I will do it, thousands of time telling myself I wouldn't not let this chance slip away, knowing that when I open this door, will be the shed of no return. Take it or leave it, there is not much time. My cognition was thousands of miles apart, my body was falling into the abyss, but I must pull myself from the chaotic frame of mind. Because I knew, even the slightest attempt, at any price, has to be made.
 
-\
-\
 The next time you find yourself stuck in a loop, at all costs, find the spot. Like a glitched spot in an arcade game, when Vanellope drove in reverse then took a hidden underground route, observing every single one of the opponents, items, shortcuts, even deprecated characters. One step backward and the spot shall appear, either you are sober enough to seek for it, or remain chained to the delusional effort, til the concept of time rots away. People have themselves someone who keeps their mind from straying, even if that person is no longer with them. Others carry an inseparable thing in their bag, like Cobb's totem. Mine ? A knitted amulet.
+​\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
 \
 \
 \
@@ -140,16 +162,6 @@ ___________________
 \
 *can show me this."*
 ___________________
-\
-\
-\
-\
-\
-\
-\
-\
-\
-I don't trust myself, but I trust the processs.
 ​\
 \
 \
@@ -157,6 +169,66 @@ I don't trust myself, but I trust the processs.
 \
 \
 \
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+The footprints on the floor that matched your own. You didn’t remember how you got here.
+​\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+​
+Because you **never** left. 
 \
 ​
 <!-- the shed of no return 
@@ -169,7 +241,9 @@ scintillate
 万能薬
 
 You were there, flesh and bone
-even my neighbors see me by luck
+Maybe I don't trust myself, but I trust the processs.
+Do not cite the deep magic to me, I was there, the day it was written.
+get the job done
 agony
 sedate
 figment
@@ -201,14 +275,6 @@ to infinity and beyond
 Extroverts always want the introverts to talk more, yet no one is telling the extroverts to shut the fvck up. 
 Anh đón gió đêm, làn gió đó thổi qua em. Như vậy có tính chúng ta ôm nhau không
 
-"The perfect kind of weakness
-The sickly kind of sweetness
-
-You’re my enemy and my light
-Darkest night, The curse of you and I
-Maybe if we could turn back time
-We’ll survive, the curse of you and I"
-
 柔弱
 最後の砦
 
@@ -216,24 +282,24 @@ We’ll survive, the curse of you and I"
 
 steins;gate ep 21
 
-あの ね 最近 怖い 夢 ばっかり 見る ん だ
-夢 の 中 で ね いつも まゆ し ぃ は ひどい 目 に 遭う の
-ピストル で パン て 撃た れ たり
-車 の 事故 に 巻き込ま れ たり 電車 に ひか れ たり …
-まるで 本当の こと み たい で
-す っ ごく 怖く て 痛く て
-悲しく て …
-誰 か 助け て って 一生懸命 声 出す ん だ けど
-出せ なく て …
-どうして そんな 夢 見る の か な ？
-で ね その 夢 の 最後 に は
-いつも オカリン が 助け に 来 て くれる の
-まゆ し ぃ は ｢ オカリン ありがとう ｣ って 言う ん だ けど
-その 声 も オカリン に は 聞こえ なく って
-まゆ し ぃ の こと 抱きしめて とって も 悲し そう な 顔 を し て
-絶対 泣か ない ん だ けど 一生懸命 我慢 し てる の が 分かる の
-だから まゆ し ぃ も
-｢ ごめん ね ｣ って 言う ん だ けど
-声 は やっぱり 届か なく て
-目 が 覚める の
+あのね最近怖い夢ばっかり見るんだ
+夢の中でねいつもまゆしぃはひどい目に遭うの
+ピストルでパンて撃たれたり
+車の事故に巻き込まれたり電車にひかれたり…
+まるで本当のことみたいで
+すっごく怖くて痛くて
+悲しくて…
+誰か助けてって一生懸命声出すんだけど
+出せなくて…
+どうしてそんな夢見るのかな？
+でねその夢の最後には
+いつもオカリンが助けに来てくれるの
+まゆしぃは｢オカリンありがとう｣って言うんだけど
+その声もオカリンには聞こえなくって
+まゆしぃのこと抱きしめてとっても悲しそうな顔をして
+絶対泣かないんだけど一生懸命我慢してるのが分かるの
+だからまゆしぃも
+｢ごめんね｣って言うんだけど
+声はやっぱり届かなくて
+目が覚めるの
 -->

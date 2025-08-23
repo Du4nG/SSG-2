@@ -70,7 +70,7 @@ Gave her my phone to navigate the route, eventually, it locked itself, I then re
 ​
 __________________
 ​
-# The Pizza.
+# the pizza.
 ​
 | Order    | Ingr.                             |
 | -------- | -----------                       |
@@ -101,7 +101,7 @@ Here came the food. The waitress suggested pouring some honey on the smoked mozz
 \
 \
 \
-Believe it or not, every time we texted, not regularly, like every few months, that inquiry about my status would inevitably arise, and there she was, bringing it up again. My answer, like usual, was the environment. I mean, come on, I studied electronic stuff, worked in the software world, my social circle is mostly a bunch of tech nerds, what else could be a better excuse ? But deep down, I think, she wouldn't buy it. I'm sorry, I just don't know how to treat people, at least if I keep myself from them, the world would have less misery.
+Believe it or not, every time we texted, not regularly, like every few months, that inquiry about my status would inevitably arise, and there she was, bringing it up again. My answer, like usual, was the environment. I mean, come on, I never step an inch out of my house, even my neighbors see me by luck. I studied electronic stuff, worked in the software world, my social circle is mostly a bunch of tech nerds, what else could be a better excuse ? But deep down, I think, she wouldn't buy it. I'm sorry, I just don't know how to treat people, at least if I keep myself from them, the world would have less misery.
 \
 \
 \
@@ -160,7 +160,7 @@ Time to bring her back to her acquaintance's place. Great! Just in an adjacent d
 ​
 __________________
 ​
-# The Ticos.
+# the Ticos.
 \
 *"Want some snail dishes ?"*
 \
@@ -270,7 +270,7 @@ Look at this cutie pie holding the teddy bear! Was that something engraved in my
 ​
 __________________
 ​
-# The Butterman.
+# the Butterman.
 \
 *"My eSIM card got locked !"*
 \
@@ -356,7 +356,7 @@ Felt like, a kid in a candy store.
 ​
 ___________________
 ​
-# The reality.
+# the reality.
 \
 Soon.
 ​

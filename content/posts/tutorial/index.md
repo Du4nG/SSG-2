@@ -1,7 +1,7 @@
 ---
 title: "Open Source SSG"
 date: 2022-10-10
-weight: 8
+weight: 9
 # aliases: ["/first"]
 tags: [web, software]
 author: Dung

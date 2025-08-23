@@ -1,7 +1,7 @@
 ---
 title: Chuyện đi thi
 date: 2022-09-17
-weight: 9
+weight: 10
 tags: [narrative]
 author: Dung
 summary: Đội ơn anh, anh Bằng
