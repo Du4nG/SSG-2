@@ -24,7 +24,7 @@ editPost:
 
 ##  1. Giới thiệu
 
-Một ngày đẹp trời, mình tình cờ vấp phải [**That IELTS Guide 🌱**](https://thatieltsguide.com/) của thầy Quang. Mình nghĩ, chắc cũng là một kiểu build blog cá nhân, như các bạn Content/Copywriter vẫn hay dùng, sử dụng các nền tảng như Wordpress, Joomla,... Đối với các dịch vụ cung cấp CMS (Content Management System) như vậy, tuy bản thân là open-source, nhưng các theme và template của chúng thì lại không. Do đó, ta không thể cá nhân hóa trang web 100% như mong muốn.
+Một ngày đẹp trời, mình tình cờ vấp phải [**That IELTS Guide 🌱**](https://www.dqnotes.com/) của thầy Quang. Mình nghĩ, chắc cũng là một kiểu build blog cá nhân, như các bạn Content/Copywriter vẫn hay dùng, sử dụng các nền tảng như Wordpress, Joomla,... Đối với các dịch vụ cung cấp CMS (Content Management System) như vậy, tuy bản thân là open-source, nhưng các theme và template của chúng thì lại không. Do đó, ta không thể cá nhân hóa trang web 100% như mong muốn.
 
 Khác với Dynamic Site, bao gồm cả server và client như trên, mình xin giới thiệu với các bạn **SSG - Static Site Generator**. Khi build một trang web cá nhân, một trang web "tĩnh" sẽ được ưu tiên hơn là một trang web động, nghĩa là sẽ không có database, không có log, có thể vẫn cho phép bình luận, nhưng bởi không có server-side nên sẽ không có real-time notification được trả về, v.v..
 
@@ -365,5 +365,31 @@ Và thế là hết !
 \
 \
 ​
-## 5. Kết
-Tương truyền rằng, Nguyen Dang Quang đang dần trở thành robot.
+## 5. Bonus
+Khi truy cập blog từ Facebook, một "fbclid" sẽ được tự động thêm vào sau URL, chẳng hạn:
+
+```
+bbtd.dev/?fbclid=IwAR06KXR17RgOlmz4PMcFuE8fNiqdOvfiVJVl8sW6PQpRIqxB1YXQDzSWKKw
+```
+
+Để bỏ đi phần râu ria này, trong **layouts/_default/baseof.html**, thêm một đoạn JS để check URL vào \<body>:
+```html
+<script>
+  (function() {
+    if (window.location.search.includes("fbclid")) {
+      const url = new URL(window.location);
+      url.searchParams.delete("fbclid");
+      window.history.replaceState(
+        {},
+        document.title,
+        url.pathname + (url.search ? "?" + url.searchParams.toString() : "") + url.hash
+      );
+    }
+  })();
+</script>
+```
+
+Để Google xem URL dù có fbclid hay không đều cùng là một URL, thêm một *Canonical Tag* vào \<head> :
+```html
+<link rel="canonical" href="{{ .Permalink }}">
+```

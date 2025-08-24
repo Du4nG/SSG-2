@@ -21,17 +21,17 @@ bbtd.dev/?fbclid=IwAR06KXR17RgOlmz4PMcFuE8fNiqdOvfiVJVl8sW6PQpRIqxB1YXQDzSWKKw
 Để bỏ đi phần râu ria này, trong **layouts/_default/baseof.html**, thêm một đoạn JS để check URL vào \<body>:
 ```html
 <script>
-(function() {
+  (function() {
     if (window.location.search.includes("fbclid")) {
-    const url = new URL(window.location);
-    url.searchParams.delete("fbclid");
-    window.history.replaceState(
+      const url = new URL(window.location);
+      url.searchParams.delete("fbclid");
+      window.history.replaceState(
         {},
         document.title,
         url.pathname + (url.search ? "?" + url.searchParams.toString() : "") + url.hash
-    );
+      );
     }
-})();
+  })();
 </script>
 ```
 
