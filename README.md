@@ -14,10 +14,28 @@ ______
 \
 Khi truy cập blog từ Facebook, một "fbclid" sẽ được tự động thêm vào sau URL, chẳng hạn:
 
-bbtd.dev/?**fbclid=IwAR06KXR17RgOlmz4PMcFuE8fNiqdOvfiVJVl8sW6PQpRIqxB1YXQDzSWKKw**
+```
+bbtd.dev/?fbclid=IwAR06KXR17RgOlmz4PMcFuE8fNiqdOvfiVJVl8sW6PQpRIqxB1YXQDzSWKKw
+```
 
-Để bỏ đi phần râu ria này, mình dùng một tính năng trong mục Facebook Privacy của J2TEAM:
-* [ ] Block Facebook Pixel (Tracking Script)
-* [x] Remove Facebook Click Identifier (Fbclid) Parameter From Links
+Để bỏ đi phần râu ria này, trong **layouts/_default/baseof.html**, thêm một đoạn JS để check URL vào \<body>:
+```html
+<script>
+(function() {
+    if (window.location.search.includes("fbclid")) {
+    const url = new URL(window.location);
+    url.searchParams.delete("fbclid");
+    window.history.replaceState(
+        {},
+        document.title,
+        url.pathname + (url.search ? "?" + url.searchParams.toString() : "") + url.hash
+    );
+    }
+})();
+</script>
+```
 
-But, chỉ bỏ đi được ở facebook dùng J2TEAM, người khác vẫn thấy bình thường. 
+Để Google xem URL dù có fbclid hay không đều cùng là một URL, thêm một *Canonical Tag* vào \<head> :
+```html
+<link rel="canonical" href="{{ .Permalink }}">
+```

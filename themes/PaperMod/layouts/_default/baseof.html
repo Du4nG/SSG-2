@@ -7,6 +7,10 @@
 
 <head>
     {{- partial "head.html" . }}
+
+    <!-- thêm Canonical URL -->
+    <link rel="canonical" href="{{ .Permalink }}">
+
 </head>
 
 <body class="
@@ -22,6 +26,22 @@
         {{- block "main" . }}{{ end }}
     </main>
     {{ partialCached "footer.html" . .Layout .Kind (.Param "hideFooter") (.Param "ShowCodeCopyButtons") -}}
+
+        <!-- bỏ fbclid khi truy cập link từ facebook -->
+    <script>
+      (function() {
+        if (window.location.search.includes("fbclid")) {
+          const url = new URL(window.location);
+          url.searchParams.delete("fbclid");
+          window.history.replaceState(
+            {},
+            document.title,
+            url.pathname + (url.search ? "?" + url.searchParams.toString() : "") + url.hash
+          );
+        }
+      })();
+    </script>
+
 </body>
 
 </html>

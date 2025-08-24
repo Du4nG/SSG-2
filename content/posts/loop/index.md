@@ -4,7 +4,7 @@ date: 2024-04-01
 weight: 6
 tags: [introspect]
 author: [Dung]
-summary: Vanellope
+summary: Vanellope von Schweetz
 description: of thought.
 hideSummary: false
 ShowWordCount: false
