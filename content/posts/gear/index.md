@@ -28,6 +28,7 @@ Một vài đồ điện tử mình đang (từng) dùng.
 |Cat. | Brand             | Name                                                                                                                           | Release Year|
 |:---:| --------          | -------                                                                                                                        | :--:|
 |🖥️  | **Samsung**       | [Odyssey OLED G80SD](https://www.samsung.com/us/monitors/gaming/32-inch-odyssey-oled-g8-4k-uhd-240hz-g-sync-sku-ls32dg800snxza) |2024|
+|◻️  | **Beelink**       | [SER9 Pro Ryzen™ AI 9 365](https://www.bee-link.com/products/beelink-ser9-pro-365)                                              |2024|
 |🦾  | **HyperWork**     | [MA02](https://hyperwork.vn/products/gia-do-microphone-hyperwork-ma-02)                                                         |2023|
 |️⌨️  | **Monsgeek**      | [M1W](https://www.monsgeek.com/product/m1w-fully-assembled)                                                                     |2023|
 |🖱️  | **Logitech**      | [MX Master 3S](https://www.logitech.com/en-us/shop/p/mx-master-3s)                                                              |2022|

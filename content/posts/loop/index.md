@@ -83,7 +83,7 @@ __________________
 \
 I make a habit of writing, yet I don't have plenty of drafts, not because I'm some kind of a disciplined person, but much like how I only find solace in befriending words when the daily mayhem randomly kicks in, which, doesn’t usually happen.
 
-I get easy to stuck in the loop of thought of uneccessary stuffs. I had a Korean colleague, the name – Jaemin. He's young, seems like a hectic person. One time, I was aksed to do some straightforward coding stuff, but rather go straight to the implementation, I chose to invest what the heck these functions specifically do, which, apparently wasted so much of time. Jaemin was a little upset, told me that we were not in a university, there's no time for the dissect things. It's like when someone tell you to find a way to drive a truck, instead of reading the driver handbook, you tried to comprehend the principle of the combustion engine.
+I get easy to stuck in the loop of thought of uneccessary stuffs. I had a Korean colleague, the name – Jaemin. He's young, seems like a hectic person. One time, I was aksed to do some straightforward coding stuff, but rather go straight to the implementation, I chose to find out what the heck these functions specifically do, which, apparently wasted so much of time. Jaemin was a little upset, told me that we were not in a university, there's no time for the dissect things. It's like when someone tell you to find a way to drive a truck, instead of reading the driver handbook, you tried to comprehend the principle of the combustion engine.
 
 The toilet in my office. Month after month, within four walls smaller than three square meters, every morning, I rooted there for nearly an hour, eating my sandwich, leaning my head against the wall and couldn't cry my eyes out. But I wasn't at home, I had work to do, I had to get a grip on myself. Jaemin was right, this isn't a university, nor a kindergarten so I can shed my tears.
 \
@@ -271,6 +271,7 @@ do-over
 long for something
 that's the neat part, you don't
 to infinity and beyond
+unjust
 
 Extroverts always want the introverts to talk more, yet no one is telling the extroverts to shut the fvck up. 
 Anh đón gió đêm, làn gió đó thổi qua em. Như vậy có tính chúng ta ôm nhau không
