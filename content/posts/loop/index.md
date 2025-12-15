@@ -232,46 +232,57 @@ Because you **never** left.
 \
 ​
 <!-- the shed of no return 
-rendezvous
-scintillate
 ​I bet you never know, that will be the last time you see them. -->
 
 <!-- All of the panacea stuff, turned out to be true.
 
 万能薬
 
-You were there, flesh and bone
-Maybe I don't trust myself, but I trust the processs.
+Jackson Wang:   Okay let me rearrange my words.
+Kole        :   You can rearrange something else. ![alt text](image-1.png)
+
 Do not cite the deep magic to me, I was there, the day it was written.
-get the job done
-agony
-sedate
-figment
-convo
-nothingness
-starred
-to amount to
-vestige of hope
-what's the catch here ?
-here's the catch
+Maybe I don't trust myself, but I trust the processs.
 with great power comes great electricity bill
-you don't see that everyday
 uh , Control-Alt-Delete, I guess ?
-trippin'
-drive insane
-in the nick of time
+again, just, come to your senses
+that's the neat part, you don't
+You were there, flesh and bone
+comparison is the thief of joy
 If this isn't nice, what is ?
 Let's teach fish how to swim
-remedy
-nemesis
-give me a break
-again, just, come to your senses
-hear me out
-do-over
-long for something
-that's the neat part, you don't
+you don't see that everyday
+things happen for a reason
+My theory, it has holes
+what's the catch here ?
 to infinity and beyond
+in the nick of time
+long for something
+get the job done
+here's the catch
+vestige of hope
+give me a break
+to amount to
+drive insane
+nothingness
+scintillate
+hear me out
+rendezvous
+trippin'
+figment
+starred
+nemesis
+do-over
+sedate
+remedy
 unjust
+agony
+convo
+
+"Your eyes are fading
+I’m contemplating letting it all die
+Hardwired to failing
+A tainted love."
 
 Extroverts always want the introverts to talk more, yet no one is telling the extroverts to shut the fvck up. 
 Anh đón gió đêm, làn gió đó thổi qua em. Như vậy có tính chúng ta ôm nhau không

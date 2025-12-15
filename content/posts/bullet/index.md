@@ -82,9 +82,19 @@ ___________________
 ![alt text](peephole.png)
 \
 \
-One way or another, you will have to pull yourself together. I know these cheesy sentimental things really do add some flavors to your life, to a so-called phase – youth, but making yourself a cripple in a bustling world is not a really wise way. Don't try imitating me, stay sane and forget everything you just read. Everyone is trying to escape from their own misery, why would you try to enter one ? Everyone is racing against time, wrestling with their conscience even in sleep. Everyone is looking for me, unfortunately, so am I.
+One way or another, you will have to pull yourself together. I know these cheesy sentimental things really do add some flavors to your life, to a so-called phase – youth, but making yourself a cripple in a bustling world is not a really wise way.
+\
+\
+\
+Everyone is trying to escape from their own misery, why would you try to enter one ?
 
-People have their own ways of rewarding themselves. Fine dining, clubbing, traveling to Southeast Asia,... I know a guy who tried to screw whores before the closing ceremony of my last grade in high school. Oh also, shopping! Well I love that too, in the two years since my first job, I’ve bought... two shirts. The other shirts I got from attending some online tech events, companies' projects, I even stole trousers from my friend. Hell yeah, didn't expect that did ya. But, I did buy stuff, keyboards, mice, monitors, electronic things,... I got my first Strat a few years ago, a Bullet one. March 8, iirc. 
+Everyone is racing against time, wrestling with their conscience even in sleep.
+
+Everyone is looking for me, unfortunately, so am I.
+\
+\
+\
+People have their own ways of rewarding themselves. Fine dining, clubbing, traveling to Southeast Asia,... I know a guy who tried to screw whores before the closing ceremony of my last grade in high school. Oh also, shopping! Well I love that too, in the three years since my first job, I’ve bought... two shirts. The other shirts I got from attending some online tech events, companies' projects, I even stole trousers from my friend. Hell yeah, didn't expect that did ya. But, I did buy stuff, keyboards, mice, monitors, electronic things,... I got my first Strat a few years ago, a Bullet one. March 8, iirc. 
 
 Six days later, I got another bullet,
 \

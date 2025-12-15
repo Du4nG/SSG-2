@@ -63,3 +63,11 @@ Một vài đồ điện tử mình đang (từng) dùng.
 |📟  | **Espressif Systems**  | [ESP8266](https://www.espressif.com/en/products/socs/esp8266)                                                                             |2013|
 |🔌  | **STMicroelectronics** | [ST-LINK V2](https://www.st.com/en/development-tools/st-link-v2.html)                                                                     |2011|
 |📟  | **STMicroelectronics** | [STM32F103C6T6A](https://www.st.com/en/microcontrollers-microprocessors/stm32f103c6.html)                                                 |2008|
+
+\
+\
+\
+![alt text](M1W.jpg)
+\
+\
+​
