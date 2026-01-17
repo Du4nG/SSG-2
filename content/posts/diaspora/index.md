@@ -1,11 +1,11 @@
 ---
-title: Viet Kieu
+title: Viet Kieu I
 date: 2023-12-25
 weight: 2
 tags: [narrative]
 author: [Dung]
 summary: Pizza
-description: has arrived.
+description: reunion.
 hideSummary: false
 ShowWordCount: false
 ShowReadingTime: true
@@ -13,7 +13,7 @@ ShowPostNavLinks: false
 
 editPost:
     Text: 🍓.
-    URL: https://www.google.com/maps/place/The+Hideout+Coffee/@10.8423591,106.6571511,20z/data=!4m15!1m8!3m7!1s0x317529a3964003bd:0x1b953940280fc812!2sThe+Hideout+Coffee!8m2!3d10.8423599!4d106.6572576!10e5!16s%2Fg%2F11c5bbb6k7!3m5!1s0x317529a3964003bd:0x1b953940280fc812!8m2!3d10.8423599!4d106.6572576!16s%2Fg%2F11c5bbb6k7?entry=ttu
+    URL: https://maps.app.goo.gl/kEZX5j7EBYgNQU1X7
     appendFilePath: false # to append file path to Edit link
 
 ---
@@ -60,7 +60,7 @@ She smiled, always works.
 \
 Of course I did, who would step on a rake twice. She gave me two large paper sacks, as if it had been years since her last shopping here, well, it is. Call me perverted, but being able to tell a person through scent is kinda my forte, it was carved, six years ago, an indelible mark in the brain. A person, a distinct piece.
 
-Gave her my phone to navigate the route, eventually, it locked itself, I then read her the password. I think we all know where this "navigation" thing is going. As we delved into the conversation, the map on my phone became a forgotten relic, the moment she realized, we were already in a one-way street. Every turn was left to the whims of fate. Right, just wait until I reach the North, then tell me to make the turn, I insist! The girl'd inevitably crack up every time, she hasn't changed much, still lighthearted, and fragile.
+Gave her my phone to navigate the route, eventually, it locked itself, I then read her the password. I think we all know where this "navigation" thing is going. As we delved into the conversation, the map on my phone became a forgotten relic, the moment she realized, we were already in a one-way street. Every turn was left to the whims of fate. Right, just wait until I reach the North, then tell me to make the turn, I insist! The girl inevitably cracked up every time, she hasn't changed much, still lighthearted, and fragile.
 \
 \
 \
@@ -194,7 +194,7 @@ Bitch started to give me a deadly doubtful eye as if she'd been living here long
 \
 \
 \
-Like, for real ? We were just dining for less than five minutes. And wait, was she 'bout to have an interview with vampires ? Her internship finished a few months ago, the company didn't come up with a return offer in her current scope but a different position in a different field, are you shittin' me ? Well then, a jump was likely the right choice. She told me how her life perspective has changed over the last few years, I told her how my front teeth were cracked in my teenage years. Nostalgic, isn't it ? I was quite full, but still tried to eat a bit more as remembering her words from last time. As the bill was paid, we again, headed to a coffee store.
+Like, for real ? We were just dining for less than five minutes. Her internship finished a few months ago, the company didn't come up with a return offer in her current scope but a different position in a different field, are you shittin' me ? Well then, a job hopping was likely the right choice. She told me how her life perspective has changed over the last few years, I told her how my front teeth were cracked in my teenage years. Nostalgic, isn't it ? I was quite full, but still tried to eat a bit more as remembering her words from last time. As the bill was paid, we again, headed to a coffee store.
 \
 \
 \
@@ -202,7 +202,7 @@ Time to leave. I put on her the helmet, she buckled it up herself.
 \
 \
 \
-This place looked... enormous. Had never seen a door three times taller than me, quite heavy by the way, is everyone Hulk now ? First thing that caught my eyes, was a shelf full of tiny sculpture waiting to be painted, placed right at the entrance. A smaller shelf was right beside, piled with the finished ones. Question is, aren't they supposed to get home with the owners ? Or maybe the result was so bad that they didn't even want to bring them home ? So many cool sculptures here: Kakarot, Thanos, animals that don't look like animals... But of course, the cutest one, a kitty, grabbed her attention. Uh oh, look like I spotted something.
+This place looked... enormous. Have never seen a door three times taller than me, incredibly heavy by the way, is everyone Hulk now ? First thing that caught my eyes, was a shelf full of tiny sculpture waiting to be painted, placed right at the entrance. A smaller shelf was right beside, piled with the finished ones. Question is, aren't they supposed to get home with the owners ? Or maybe the result was so bad that they didn't even want to bring them home ? So many cool sculptures here: Kakarot, Thanos, animals that don't look like animals... But of course, the cutest one, a kitty, grabbed her attention. Uh oh, look like I spotted something.
 \
 \
 \
@@ -212,9 +212,9 @@ This place looked... enormous. Had never seen a door three times taller than me,
 \
 \
 \
-There was pity in her eyes, a small crack marred the ear of the kitty, yet in the end, she still chose it, no matter this could lead to the inevitable fracturing during the painting process. This, left me to think: Some people overlooked all possible mistakes simply because the other person possesses the one thing they desire. They are not even the protagonists in their own stories, like there is an invisible eraser imperceptibly wiping away their ego. Everything will be rotten, that person will eventually vanish from their life, leaving behind a hidden wound, as if nothing had ever happened. Okay guys I know, I sound overdramatic, but, come to think of it, have you ever witnessed such situation in your life ?
+There was pity in her eyes, a small crack marred the ear of the kitty, yet in the end, she still chose it, no matter this could lead to the inevitable fracturing during the painting process. This, left me to think: Some people overlooked all possible mistakes simply because the other person possesses the one thing they desire. They are not even the protagonists in their own stories, like there is an invisible eraser imperceptibly wiping away their ego. Everything will be rotten, that person will eventually vanish from their life, leaving behind a hidden wound, as if nothing had ever happened. Okay guys I know, it sounds overdramatic, but, come to think of it, have you ever witnessed such situation in your life ?
 
-We took some colors in liquid state – not sure what to call it – and needed to find the rinse water somewhere. So weird, that was like the second most important thing after the colors, yet I couldn't find its existence. I noticed that everybody had themselves a small plastic cup filled with fresh water. How is this even possible, where did that water come from, like I was asking for music in a dance class. Losing my patience, I then approached an employee.
+We took some colors in liquid state – not sure what to call it – and needed to find the rinse water somewhere. So weird, that was like the second most important thing after the colors, yet I couldn't find its existence. I noticed that everybody had themselves a small plastic cup filled with fresh water. How was this even possible, where did that water come from, I was just asking for music in a dance class. Losing my patience, I then approached an employee.
 \
 \
 \
@@ -350,15 +350,24 @@ Quite touching, to be honest. I used to be good at keeping a poker face, but ove
 \
 \
 \
+\
+\
+\
+\
+\
+\
+\
+\
 Felt like, a kid in a candy store.
 \
 \
-​
-___________________
-​
-# the reality.
 \
-Soon.
+\
+\
+\
+\
+\
+​
 ​
 <!-- ___________________
 

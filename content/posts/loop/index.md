@@ -231,8 +231,6 @@ The footprints on the floor that matched your own. You didn’t remember how you
 Because you **never** left. 
 \
 ​
-<!-- the shed of no return 
-​I bet you never know, that will be the last time you see them. -->
 
 <!-- All of the panacea stuff, turned out to be true.
 
@@ -248,8 +246,6 @@ uh , Control-Alt-Delete, I guess ?
 again, just, come to your senses
 that's the neat part, you don't
 You were there, flesh and bone
-comparison is the thief of joy
-If this isn't nice, what is ?
 Let's teach fish how to swim
 you don't see that everyday
 things happen for a reason
@@ -257,15 +253,17 @@ My theory, it has holes
 what's the catch here ?
 to infinity and beyond
 in the nick of time
-long for something
+
 get the job done
 here's the catch
 vestige of hope
 give me a break
+bridge that gap
 to amount to
 drive insane
 nothingness
 scintillate
+tranquility
 hear me out
 rendezvous
 trippin'
@@ -273,6 +271,7 @@ figment
 starred
 nemesis
 do-over
+cynical
 sedate
 remedy
 unjust
