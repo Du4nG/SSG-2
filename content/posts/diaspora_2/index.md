@@ -37,7 +37,7 @@ There are only two possibilities when a message reaches me: either it's my guy s
 \
 \
 \
-Guess I'm about to lose my three-month Wordle streak, again. Every time I head out for a night that mixes up my routine, I hardly can remember to play it, although it bears in my brain, before I even have my dinner. I also went for Strands recently, so, dang it! But anyhow, the feeling is more fresh than bitter. How long has it been since a message turned me into a little child ?
+Guess I'm about to lose my three-month Wordle streak, again. Every time I head out for a night that mixes up my routine, I hardly can remember to play it, although it bears in my brain, before I even have my dinner. I also went for Strands recently, so, dang it! But anyhow, the feeling is more fresh than bitter. How long has it been since a message turned you into a little child ?
 \
 \
 \
@@ -88,17 +88,10 @@ I went around the menu, while she just sat there watching me with this quiet, lo
 \
 \
 Yep, that's also what any mom would say.
-\
-\
-\
-Uh... Are we eating with our hands ? She glanced me again then looked towards a box nearby, where the chopsticks were hidden. Forgive me for haven't dined at such places since our last meet. Call me vanilla, but yeah I tend to stick with 
 
+She told me about some of the gossip that she had happened to pick up recently, about how some crazy-ass guys with their drama-shit on the internet really got her giggling. In return, I told her about how autistic I gradually became since I and my team had now moved to a separate, isolated room, just because some bloody "technology privacy" hardwares were shipped in from overseas. If we were badmouthing someone here, he or she would know about it because that person is literally sitting just three steps away from you in a 50 square meters room.
 
-
-Told her about some of the gossip that I had happened to know recently, about some crazy ass guys on the internet, about how autistic I gradually became since I and my team now had had to move to a separate, isolated room, just because a so-called "technology privacy" hardware were shipped in from oversea. If we were badmouthing someone, he or she would know about it because that person is literally sitting just three steps away from you in a 50 square meters room.
-
-. Okay... didn't know that people dine in such a scientific way, even in some specific order. 
-Dang an nong, khong duoc an lanh
+Here came the food. Uh... Are we eating with our hands ? She glanced at me then looked towards a box nearby, where the chopsticks were hidden. Forgive me for not having dined at such places since our last meet. *"Don't touch the cold food yet!"*. She glared at me as I picked up a piece of cold herring sushi right after taking a spoonful of hot beef rice. Okay... didn't know that people dine in such a scientific way, even in some specific order. Call me vanilla, but for my daily habits, I tend to stick with whatever feels most comfortable. I mean, you can think better with one leg up on the desk while working, I suppose.
 \
 \
 \
@@ -127,24 +120,18 @@ Told her a bit about that place in Ibaraki. It’s right on the edge of the capi
 \
 \
 I ended up questioning about some aspect of her life. And yeah, I guess she really went for the degree since the last time we saw each other. Time flies, doesn't it ? Before long, "Miss or Mrs", if she were asked, I guess it'll be "Master".
-
-But did you . 
+\
+\
+\
+*"Anything else ? Besides studying."*
+\
 *"Homework, cooking, you tell me."*
 \
 \
 \
 Speaking of which, if a cooking competition were held, I'd be the first to be disqualified, my knowledge of the kitchen is next to zero. Which, isn’t good at all, especially since my colleague claimed I’d likely never find a favorite place to eat out around here. Why ? Because there are none !
-\
-\
-\ 
 
-Tethered me back to the present.
-\
-\
-\
-
-
-But, there were moments, moments when the conversation fell into silence, a quiet gap where I realized we now lived in different countries, our only common ground was the distant memory from secondary school. In such time, I had the chance to truly look at her. She was the same, yet entirely different. Her hair had grown long, falling with a certain grace I didn't recognize, and she looked healthier, prettier, in a way that time usually doesn't allow. I found myself wearing a faint, unconscious smile, looking at her was like finding a quiet corner in a loud world – a quiet, peaceful vista that finally stilled the chaotic buzzing in my head.
+But, there were moments, moments when the conversation fell into silence, a quiet gap where I realized we now lived in different countries, our only common ground was the distant memory from secondary school. In such time, I had the chance to truly look at her. She was the same, yet entirely different. Her hair had grown long, falling with a certain grace I didn't recognize, and she looked healthier, prettier, in a way that time usually doesn't allow. I found myself wearing a faint, unconscious smile, looking at her was like finding a quiet corner in a loud world – a peaceful vista that finally stilled the chaotic buzzing in my head.
 \
 \
 \
@@ -166,8 +153,6 @@ Gotta pretend surprised since my communist friend had already told me this like 
 \
 Oh yeah, here we go again. If this girl hadn't started this then I'd have been sitting with the wrong person this whole evening. Yes, that inevitable inquiry about my status, did eventually arise, which really made me ponder quite a bit lately. Did she really have a genuine curiosity why a guy like me hasn't been with someone for half a decade, or she just honestly wished for everyone she knew to be happy ? For the kind of girl whose smile could melt anyone's heart, I hoped the latter was true.
 
-the feeling of longing for something
-If this isn't nice, what is ?
 \
 \
 \
@@ -193,15 +178,16 @@ I told her there were two things that could possibly come up whenever we mention
 Dressing in that hip-hop style then I better pack my stuff and get back to my country, at least that's what my technical leader said. But hey, I think that has been ingrained in the blood of any guy for a long time. Three pairs of pants for a week, two are enough but in case of a rainy day. And shirts ? Boy I got a collection of them from events, centers, companies,... which would suffice for my entire career. Are they doing charity now ?
 
 I hate it whenever my intuition is right, but this time, it was a 
+\
+\
+\
 *"Go touch some grass, badminton perhaps, maybe you will get someone."*
 \
 \
 \
-I never asked why she said that, maybe some guys drenched in sweat just ignited a spark of excitement in her, after having some matches at her friend's place whose house is a goddamn badminton court rental service. But hell no, sport was never my thing. 
+Pretty sure you guys would become her fans if you ever drowned in that smile while she was teasing. I never asked why she said that, maybe some guys drenched in sweat just ignited a spark of excitement in her, after having some matches at her friend's place whose house is a goddamn badminton court rental service. But hell no, sport was never my thing. My thing ? To stick my ass to the chair and glue my eyes to the screen, twelve hours straight, which may be a torture to some, but I do enjoy it, honestly. Still, I must admit, being around with your pals are indeed chances – chances to walk yourself to the rendezvous of joy, to a so-called *remedy* that I have been seeking for so long. I know, the act of not letting anyone even know if I am sober or not, does expose how a truly greedy, selfish person I am in life. In the nick of time, when every part of me was so frail, so faint to even light a vestige of hope...
 
-Being seduced by a smile, so that’s how it was. 
-
-![alt text](image.png)
+She was there, flesh and bone, walked me through the last breath, at the gate of Valhalla.<!-- ![alt text](image.png) -->
 \
 \
 \
@@ -215,16 +201,16 @@ Being seduced by a smile, so that’s how it was.
 \
 \
 \
-​
-<!-- ___________________
-
-*"In another life, I would have really liked just doing laundry...*
-
-*and taxes with you."*
-___________________ -->
-*"Wish I had a lover in Vietnam."*
 \
-*"Wish there was someone like you here."*
+\
+\
+\
+\
+\
+\
+\
+\
+*"Glad that you still look fine."*
 \
 \
 \
@@ -273,4 +259,6 @@ If it weren't for those chances, I’d have been gone since birth.
 \
 \
 If you have no fans, then that means I am no longer on this earth.
+\
+\
 ​

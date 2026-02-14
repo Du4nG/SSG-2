@@ -246,17 +246,17 @@ everything everywhere all at once
 again, just, come to your senses
 that's the neat part, you don't
 You were there, flesh and bone
+If this isn't nice, what is ?
 Let's teach fish how to swim
 you don't see that everyday
 things happen for a reason
 My theory, it has holes
 what's the catch here ?
-let's keep it this way
 to infinity and beyond
+let's keep it this way
 in the nick of time
 get the job done
 here's the catch
-vestige of hope
 give me a break
 bridge that gap
 to amount to
@@ -266,7 +266,6 @@ scintillate
 tranquility
 hear me out
 rendezvous
-Valhalla
 trippin'
 figment
 starred
@@ -274,7 +273,6 @@ nemesis
 do-over
 cynical
 snuggle
-gossip
 sedate
 remedy
 unjust
