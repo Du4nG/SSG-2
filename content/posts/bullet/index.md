@@ -94,7 +94,7 @@ Everyone is looking for me, unfortunately, so am I.
 \
 \
 \
-People have their own ways of rewarding themselves. Fine dining, clubbing, traveling to Southeast Asia,... I know a guy who tried to screw whores before the closing ceremony of my last grade in high school. Oh also, shopping! Well I love that too, in the three years since my first job, I’ve bought... two shirts. The other shirts I got from attending some online tech events, companies' projects, I even stole trousers from my friend. Hell yeah, didn't expect that did ya. But, I did buy stuff, keyboards, mice, monitors, electronic things,... I got my first Strat a few years ago, a Bullet one. March 8, iirc. 
+People have their own ways of rewarding themselves. Fine dining, clubbing, traveling to Southeast Asia,... I know a guy who tried to screw whores before the closing ceremony of my last grade in high school. Oh also, shopping! Well I love that too, in the three years since my first job, I’ve bought... two shirts. The other shirts I got from attending some online tech events, companies' projects, I even stole trousers from my friend. Hell yeah, didn't expect that did ya. But, I do buy stuff, keyboards, mice, monitors, electronic things,... I got my first Strat a few years ago, a Bullet one. March 8, iirc. 
 
 Six days later, I got another bullet,
 \

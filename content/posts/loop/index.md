@@ -5,7 +5,7 @@ weight: 6
 tags: [introspect]
 author: [Dung]
 summary: Vanellope von Schweetz
-description: of thought.
+description: of thoughts.
 hideSummary: false
 ShowWordCount: false
 ShowReadingTime: true
@@ -231,7 +231,6 @@ The footprints on the floor that matched your own. You didn’t remember how you
 Because you **never** left. 
 \
 ​
-
 <!-- All of the panacea stuff, turned out to be true.
 
 万能薬
@@ -243,6 +242,7 @@ Do not cite the deep magic to me, I was there, the day it was written.
 Maybe I don't trust myself, but I trust the processs.
 with great power comes great electricity bill
 uh , Control-Alt-Delete, I guess ?
+everything everywhere all at once
 again, just, come to your senses
 that's the neat part, you don't
 You were there, flesh and bone
@@ -251,9 +251,9 @@ you don't see that everyday
 things happen for a reason
 My theory, it has holes
 what's the catch here ?
+let's keep it this way
 to infinity and beyond
 in the nick of time
-
 get the job done
 here's the catch
 vestige of hope
@@ -266,17 +266,23 @@ scintillate
 tranquility
 hear me out
 rendezvous
+Valhalla
 trippin'
 figment
 starred
 nemesis
 do-over
 cynical
+snuggle
+gossip
 sedate
 remedy
 unjust
 agony
 convo
+
+the person we most want to meet is actually our younger selves
+
 
 "Your eyes are fading
 I’m contemplating letting it all die

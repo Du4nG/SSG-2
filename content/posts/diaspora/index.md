@@ -1,18 +1,18 @@
 ---
-title: Viet Kieu I
+title: Viet Kieu
 date: 2023-12-25
 weight: 2
 tags: [narrative]
 author: [Dung]
 summary: Pizza
-description: reunion.
+description: いち
 hideSummary: false
 ShowWordCount: false
 ShowReadingTime: true
 ShowPostNavLinks: false
 
 editPost:
-    Text: 🍓.
+    Text: 🍓
     URL: https://maps.app.goo.gl/kEZX5j7EBYgNQU1X7
     appendFilePath: false # to append file path to Edit link
 
@@ -129,7 +129,7 @@ We'd been sitting here for too long, if it weren't for the dessert, the waiters 
 \
 \
 \
-I, couldn't. I don't even make a habit of having breakfast, I eat most of the time based on my mood, taking my health for granted. She once said many years ago, under the same roof, one must complement the other, if she doesn't eat much, then I have to. "Just try a little more !" – she urged while locking my eyes. Oh dear, I was obsessed with that gesture, a momentary reason that kept me from considering this reunion unworthy. Time surely has its corrosive effects on things, my memory might be failing me, but the feelings never would. My teacher once wrote: 
+I, couldn't. I don't even make a habit of having breakfast, I eat most of the time based on my mood, taking my health for granted. She once said many years ago, under the same roof, one must complement the other, if she doesn't eat much, then I have to. *"Just try a little more !"* – she urged while locking my eyes. Oh dear, I was obsessed with that gesture, a momentary reason that kept me from considering this reunion unworthy. Time surely has its corrosive effects on things, my memory might be failing me, but the feelings never would. My teacher once wrote: 
 \
 \
 \
@@ -224,6 +224,8 @@ We took some colors in liquid state – not sure what to call it – and needed 
 \
 That's... concerning. I’m pretty sure not everyone here got in the queue to the toilet just for that holy water, could have started a war. Thank god one of the baristas let me take the water from her secret mug, no idea where that came from. We had two soft flat brushes, a small one for painting the details, a medium one for the speedrun. 
 
+![alt text](sculp.png)
+
 We, didn't talk much, of course. Time was slowly ticking, the more we painted, the more fragments from the crack fell out. Was that my thought making sense ? That the rot is spreading, an imminent decay is sneaking, that when you realized, everything has already been irretrievable.
 \
 \
@@ -290,8 +292,8 @@ Remember when I mentioned social vices at a random high school ? Turns out, thos
 
 This place used to have only one single branch when she was still around, located in another district where she loved to wander, even though it was miles away. Cookies, cupcakes, even the chairs, everything edible here is so sweet, tiny, and sparkly. I guess that would explain why most of the guests here are girls.
 \
-\
-\
+![alt text](butter.png)
+
 *"Yummy! Is this a mochi ?"*
 \
 *"Marshmello, you silly !"*
@@ -368,13 +370,3 @@ Felt like, a kid in a candy store.
 \
 \
 ​
-​
-<!-- ___________________
-
-# The rest.
-\
-I had no idea how I should look at her as I was trying to find the appropriate way to treat this little girl. Was it like a schoolmate, a childhood friend, or a stereotype oversea Asian ? Ah, silly me, how do I say it, more like an old flame.
-\
-The next time she shows up, who knows, maybe a ring on the hand.
-\
-

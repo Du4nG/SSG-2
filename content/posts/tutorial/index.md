@@ -22,7 +22,7 @@ editPost:
 \
 ![LeetCode Badges](https://leetcode-badge-showcase.vercel.app/api?username=du4ng)​
 
-##  1. Giới thiệu
+## 1. Giới thiệu
 
 Một ngày đẹp trời, mình tình cờ vấp phải [**That IELTS Guide 🌱**](https://www.dqnotes.com/) của thầy Quang. Mình nghĩ, chắc cũng là một kiểu build blog cá nhân, như các bạn Content/Copywriter vẫn hay dùng, sử dụng các nền tảng như Wordpress, Joomla,... Đối với các dịch vụ cung cấp CMS (Content Management System) như vậy, tuy bản thân là open-source, nhưng các theme và template của chúng thì lại không. Do đó, ta không thể cá nhân hóa trang web 100% như mong muốn.
 
@@ -326,7 +326,7 @@ Sau khi config xong xuôi trên Freenom các bạn hẳn tiếp tục với bư�
 ![](https://images.viblo.asia/454ce83f-190f-4169-8a69-1d2462e25911.png)
 
 \
-Kết quả nhận được  là một bản ghi A (A Record) bao gồm bốn địa chỉ IP. Các địa chỉ này chính là IP của GitHub Pages, nơi mà trang web của các bạn đang được host. Mỗi lần các bạn gõ `tên_user.github.io` vào thanh URL của trình duyệt, tên miền này sẽ được phân giải thành một trong bốn IP trên, trỏ đến GitHub Pages của các bạn.
+Kết quả nhận được là một bản ghi A (A Record) bao gồm bốn địa chỉ IP. Các địa chỉ này chính là IP của GitHub Pages, nơi mà trang web của các bạn đang được host. Mỗi lần các bạn gõ `tên_user.github.io` vào thanh URL của trình duyệt, tên miền này sẽ được phân giải thành một trong bốn IP trên, trỏ đến GitHub Pages của các bạn.
 
 \
 \
