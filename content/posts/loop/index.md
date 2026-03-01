@@ -230,7 +230,14 @@ The footprints on the floor that matched your own. You didn’t remember how you
 ​
 Because you **never** left. 
 \
-​
+
+
+<!-- ​Which one would you choose ? The town mouse or the country mouse ?
+What's that ?
+It's one of the Aesop's fables. -->
+
+
+
 <!-- All of the panacea stuff, turned out to be true.
 
 万能薬
@@ -240,7 +247,9 @@ Kole        :   You can rearrange something else. ![alt text](image-1.png)
 
 Do not cite the deep magic to me, I was there, the day it was written.
 Maybe I don't trust myself, but I trust the processs.
+It only hurts more because nobody's in the wrong
 with great power comes great electricity bill
+Her actings good, maybe a little too good :)
 uh , Control-Alt-Delete, I guess ?
 everything everywhere all at once
 again, just, come to your senses
@@ -250,6 +259,7 @@ If this isn't nice, what is ?
 Let's teach fish how to swim
 you don't see that everyday
 things happen for a reason
+I see what you did there
 My theory, it has holes
 what's the catch here ?
 to infinity and beyond
@@ -259,6 +269,7 @@ get the job done
 here's the catch
 give me a break
 bridge that gap
+El Psy Kongroo
 to amount to
 drive insane
 nothingness

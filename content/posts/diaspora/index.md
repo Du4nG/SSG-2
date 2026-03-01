@@ -40,7 +40,7 @@ Tell me more. A message lit up the screen in the midst of the day. Guessing the 
 \
 Huh ? Tried to clear up my mind, just helped her with the math exercise like yesterday, at a coffee store. Joke's on me, but things just seemed vague.
 
-Gotta see her at this place called Homeland Artists. Knew it! A den of instrumentalists, no offense. Every time I'm at such places, the people tend to do drugs, sometimes herb, which can lead to an unexpected out-of-tune voice or strand, a real pain in the arse. I checked the route, knew that I'd been there tens of times, but it was always like the first time. One thing, a performance, a presentation, a reunion, all make me nauseous.
+Gotta see her at this place called Homeland Artists. Knew it ! A den of instrumentalists, no offense. Every time I'm at such places, the people tend to do drugs, sometimes herb, which can lead to an unexpected out-of-tune voice or strand, a real pain in the arse. I checked the route, knew that I'd been there tens of times, but it was always like the first time. One thing, a performance, a presentation, a reunion, all make me nauseous.
 \
 \
 \
@@ -60,7 +60,7 @@ She smiled, always works.
 \
 Of course I did, who would step on a rake twice. She gave me two large paper sacks, as if it had been years since her last shopping here, well, it is. Call me perverted, but being able to tell a person through scent is kinda my forte, it was carved, six years ago, an indelible mark in the brain. A person, a distinct piece.
 
-Gave her my phone to navigate the route, eventually, it locked itself, I then read her the password. I think we all know where this "navigation" thing is going. As we delved into the conversation, the map on my phone became a forgotten relic, the moment she realized, we were already in a one-way street. Every turn was left to the whims of fate. Right, just wait until I reach the North, then tell me to make the turn, I insist! The girl inevitably cracked up every time, she hasn't changed much, still lighthearted, and fragile.
+Gave her my phone to navigate the route, eventually, it locked itself, I then read her the password. I think we all know where this "navigation" thing is going. As we delved into the conversation, the map on my phone became a forgotten relic, the moment she realized, we were already in a one-way street. Every turn was left to the whims of fate. Right, just wait until I reach the North, then tell me to make the turn, I insist ! The girl inevitably cracked up every time, she hasn't changed much, still lighthearted, and fragile.
 \
 \
 \
@@ -83,7 +83,7 @@ __________________
 | Dessert  | *passion fruit, strawberry*       |
 
 \
-Took about five minutes of waiting for a vacant table, a few minutes more before we settled down. Gosh, it was just Monday! I asked for some tissue, the waitress right away brought out a new box of forks and knives even before she asked me what was wrong with the old set.
+Took about five minutes of waiting for a vacant table, a few minutes more before we settled down. Gosh, it was just Monday ! I asked for some tissue, the waitress right away brought out a new box of forks and knives even before she asked me what was wrong with the old set.
 \
 \
 \
@@ -91,7 +91,7 @@ Took about five minutes of waiting for a vacant table, a few minutes more before
 \
 \
 \
-My apologies. I meant to clean the forks before every meal. That moment, I realized that the habit of eating at a regular street food stall has lingered in my subconscious for quite some time, that cleaning a spoon is a rare sight in a restaurant. Meanwhile, the girl, having no idea what was happening, was struggling with her clogged nose because of the local heatstroke. Don’t ask me how those are relevant, that's what she said. I did cough a little bit that day, we were like the kind of people who can get sick at any time. I got a sore throat, she got, a stuffy nose.
+My apologies. I meant to clean the forks before every meal. That moment, I realized that the habit of eating at a regular street food stall has lingered in my subconscious for quite some time, that cleaning a spoon is a rare sight in a restaurant. Meanwhile, the girl, having no idea what was happening, was struggling with her clogged nose because of the local heatstroke. Don't ask me how those are relevant, that's what she said. I did cough a little bit that day, we were like the kind of people who can get sick at any time. I got a sore throat, she got, a stuffy nose.
 
 Here came the food. The waitress suggested pouring some honey on the smoked mozzarella. The girl heard that, insisted on it, and I did the pouring. She took the first bite, told me it tasted like crap, that it was nothing like the American pizza. Yeah right, like I had ever tried a slice of that bloody foreign pizza in my entire life.
 \
@@ -111,7 +111,7 @@ Believe it or not, every time we texted, not regularly, like every few months, t
 \
 \
 \
-Wouldn't I love to have that printed on my T-shirt. But let’s be honest, those days when I got attention from ladies have gone, compared to any other guys in her circle, I wouldn't stand a chance. That's totally fine, even a bit surprised when we still hung out, tho. She seemed intrigued, but not sold with the fact that I'm still single, teasing me while giving questioning eyes.
+Wouldn't I love to have that printed on my T-shirt. But let's be honest, those days when I got attention from ladies have gone, compared to any other guys in her circle, I wouldn't stand a chance. That's totally fine, even a bit surprised when we still hung out, tho. She seemed intrigued, but not sold with the fact that I'm still single, teasing me while giving questioning eyes.
 \
 \
 \
@@ -150,7 +150,7 @@ We were in the same secondary school, but not the same high school, anyhow we st
 
 We didn't talk much. For much of the reason, it's because of me – I fear conversations. Yep, you read that right. I'm still working on it, especially when my new manager at work is quite a chatty  guy. Perhaps that's why she tended to stick with the old things, teasing me about how timid I was, what a picky eater I am (which made me skinny), even how tedious my phone is. Well, who needs a phone when a computer would suffice !
 
-Time to bring her back to her acquaintance's place. Great! Just in an adjacent district. She was heavy-eyed, rested her chin on my shoulder a few times from the beginning, hmm, perhaps an affectionate girl type. I love the part whenever I drop someone off a lift, I can instantly get back to the journey where I can talk to myself. That, a life practice advice from my teacher, is the only time of the day when I can pull myself together.
+Time to bring her back to her acquaintance's place. Great ! Just in an adjacent district. She was heavy-eyed, rested her chin on my shoulder a few times from the beginning, hmm, perhaps an affectionate girl type. I love the part whenever I drop someone off a lift, I can instantly get back to the journey where I can talk to myself. That, a life practice advice from my teacher, is the only time of the day when I can pull myself together.
 \
 \
 \
@@ -222,7 +222,7 @@ We took some colors in liquid state – not sure what to call it – and needed 
 \
 \
 \
-That's... concerning. I’m pretty sure not everyone here got in the queue to the toilet just for that holy water, could have started a war. Thank god one of the baristas let me take the water from her secret mug, no idea where that came from. We had two soft flat brushes, a small one for painting the details, a medium one for the speedrun. 
+That's... concerning. I'm pretty sure not everyone here got in the queue to the toilet just for that holy water, could have started a war. Thank god one of the baristas let me take the water from her secret mug, no idea where that came from. We had two soft flat brushes, a small one for painting the details, a medium one for the speedrun. 
 
 ![alt text](sculp.png)
 
@@ -248,7 +248,7 @@ I was... confused. The heck, what do you want me to do, man ? Was that a hint, o
 \
 That, was a Lots-o'-Huggin' Bear, except the fact that it was the size of half of me, I would run out of money before laying my hands on it. I casted my eyes around, and boy, there it was, a little pinky teddy, much like the sculpture we just painted, sorry babe, but this should be an easier target.
 
-Here we go, let's impress the world. Took me like centuries to ensure that the claw was perfectly centered on the teddy's body, just a few inches away before I could aim for the prize. That was until the claw automatically went down itself without me pressing on the button. Wait, what ? There was a timer for this. Argh! I should have known.
+Here we go, let's impress the world. Took me like centuries to ensure that the claw was perfectly centered on the teddy's body, just a few inches away before I could aim for the prize. That was until the claw automatically went down itself without me pressing on the button. Wait, what ? There was a timer for this. Argh ! I should have known.
 \
 \
 \
@@ -266,7 +266,7 @@ What do you expect ? Of course she missed it. But, such attempt would drag the t
 ​\
 ​\
 \
-Look at this cutie pie holding the teddy bear! Was that something engraved in my mind, that I craved at the moment I laid eyes on those machines, something that used to calm my inner child, years ago, brought me to the Garden of Eden.
+Look at this cutie pie holding the teddy bear ! Was that something engraved in my mind, that I craved at the moment I laid eyes on those machines, something that used to calm my inner child, years ago, brought me to the Garden of Eden.
 \
 \
 ​
@@ -288,13 +288,13 @@ It was the day when she stepped off the plane, guessed she purchased that eSIM a
 \
 Uh... sure. I bet she changed her nails no less than three times in the past month. Looking good anyway, just transparent nail polish with some rhinestones, simple, but elegant. Everything was great, except the process took like... three hours. Yikes, smelt like a bad life choice.
 
-Remember when I mentioned social vices at a random high school ? Turns out, those even happened in our secondary school. She told me one of the girls, her friend of course, had confronted a mugger on the street. After minutes of fighting back, she somehow caught a glimpse of the mugger's identity, shockingly, the guy was a classmate! I chuckled. Holy cow, whether to be surprised or to put on a sympathetic face for his path, I might reserve a seat in hell.
+Remember when I mentioned social vices at a random high school ? Turns out, those even happened in our secondary school. She told me one of the girls, her friend of course, had confronted a mugger on the street. After minutes of fighting back, she somehow caught a glimpse of the mugger's identity, shockingly, the guy was a classmate ! I chuckled. Holy cow, whether to be surprised or to put on a sympathetic face for his path, I might reserve a seat in hell.
 
 This place used to have only one single branch when she was still around, located in another district where she loved to wander, even though it was miles away. Cookies, cupcakes, even the chairs, everything edible here is so sweet, tiny, and sparkly. I guess that would explain why most of the guests here are girls.
 \
 ![alt text](butter.png)
 
-*"Yummy! Is this a mochi ?"*
+*"Yummy ! Is this a mochi ?"*
 \
 *"Marshmello, you silly !"*
 \
@@ -314,7 +314,7 @@ Oh ? She got a tattoo. Those ink marks just grabbed my attention while we were w
 \
 \
 \
-A big doubt here. We just ordered the formula to glue my miserable ass to the goddamn toilet. Not even the worst case, only God knows that I might end up with a prolonged erection, we had a tribe of oysters being served! Does everyone here have a gilded stomach ?
+A big doubt here. We just ordered the formula to glue my miserable ass to the goddamn toilet. Not even the worst case, only God knows that I might end up with a prolonged erection, we had a tribe of oysters being served ! Does everyone here have a gilded stomach ?
 \
 \
 \
@@ -322,9 +322,9 @@ Time to leave. I put on her the helmet, buckled it up myself.
 \
 \
 \
-A coffee store again, obviously. She brought out her Mac, surfing LinkedIn for jobs. If she failed to find one before her flight back, she might consider applying for the postgraduate education, maybe in mathematics or cybersecurity specialization, both were in the data field. What a neat move. If you can't get a job, get a Master's!
+A coffee store again, obviously. She brought out her Mac, surfing LinkedIn for jobs. If she failed to find one before her flight back, she might consider applying for the postgraduate education, maybe in mathematics or cybersecurity specialization, both were in the data field. What a neat move. If you can't get a job, get a Master's !
 
-I was at a loss for what to do during this, but being surrounded by this atmosphere drew me back to one thing I always ponder. How do people find it easier to concentrate in places like these ? Indistinct chatter, expensive drinks, smooth background jazz, a time-bomb reminder to leave after 11 P.M – all of that in return for something called the ultimate concentration ? One of my friends used to assert that only a professional ambiance brings high efficiency and productivity. Dude, there's a fvcking coconut on the table next to me!
+I was at a loss for what to do during this, but being surrounded by this atmosphere drew me back to one thing I always ponder. How do people find it easier to concentrate in places like these ? Indistinct chatter, expensive drinks, smooth background jazz, a time-bomb reminder to leave after 11 P.M – all of that in return for something called the ultimate concentration ? One of my friends used to assert that only a professional ambiance brings high efficiency and productivity. Dude, there's a fvcking coconut on the table next to me !
 \
 \
 \
@@ -348,7 +348,8 @@ She sounded... excited while saying that. Been three weeks since our second meet
 \
 \
 \
-Quite touching, to be honest. I used to be good at keeping a poker face, but over the years, that ability died down, I don't like it, but not hating either. Since university, I became more ill-tempered, gradually, tended to shut myself out, just to prevent people from seeing my emotions exposed. There are only a handful of times when I was being honest with myself, when words from people genuinely touch my soul, keeping me from suicidal thoughts. She was like, turning on an intangible switch inside me, pulling me out of the monotony of life. Felt like having something to cling to after a nine-hour shift, felt like the moment she promised to lend me a book nine years ago, felt like I was stepping into a time machine.
+Quite touching, to be honest. I used to be good at keeping a poker face, but over the years, that ability died down, I don't like it, but not hating either. Since university, I became more ill-tempered, gradually, tended to shut myself out, just to prevent people from seeing my emotions exposed. There are only a handful of times when I was being honest with myself, when words from people genuinely touch my soul, keeping me from suicidal thoughts. She was like, turning on an intangible switch inside me, pulling me out of the monotony of life. Felt like having something to cling to after a nine-hour shift, felt like the moment she promised to lend me a book nine years ago, felt like driving her back home after the highschool festival the summer she left, felt like I was stepping into a time machine.
+\
 \
 \
 \
@@ -361,6 +362,7 @@ Quite touching, to be honest. I used to be good at keeping a poker face, but ove
 \
 \
 Felt like, a kid in a candy store.
+\
 \
 \
 \

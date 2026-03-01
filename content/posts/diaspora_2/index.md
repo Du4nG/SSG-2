@@ -37,7 +37,7 @@ There are only two possibilities when a message reaches me: either it's my guy s
 \
 \
 \
-Guess I'm about to lose my three-month Wordle streak, again. Every time I head out for a night that mixes up my routine, I hardly can remember to play it, although it bears in my brain, before I even have my dinner. I also went for Strands recently, so, dang it! But anyhow, the feeling is more fresh than bitter. How long has it been since a message turned you into a little child ?
+Guess I'm about to lose my three-month Wordle streak, again. Every time I head out for a night that mixes up my routine, I hardly can remember to play it, although it bears in my brain, before I even have my dinner. I also went for Strands recently, so, dang it ! But anyhow, the feeling is more fresh than bitter. How long has it been since a message turned you into a little child ?
 \
 \
 \
@@ -91,7 +91,7 @@ Yep, that's also what any mom would say.
 
 She told me about some of the gossip that she had happened to pick up recently, about how some crazy-ass guys with their drama-shit on the internet really got her giggling. In return, I told her about how autistic I gradually became since I and my team at work had now moved to a separate, isolated room, just because some bloody "technology privacy" hardwares were shipped in from overseas. If we were badmouthing someone in that room, he or she would know about it because that person is literally sitting just three steps away from you in a 50 square meters room.
 
-Here came the food. Uh... Are we eating with our hands ? She glanced at me then looked towards a box nearby where the chopsticks were hidden. Forgive me for not having dined at such places since our last meet. *"Don't touch the cold food yet!"* – she glared at me as I picked up a piece of cold herring sushi right after taking a spoonful of hot beef rice. Okay... didn't know that people dine in such a scientific way, even in some specific order. Call me vanilla, but for my daily habits, I tend to stick with whatever feels most comfortable. I mean, you can think better with one leg up on the desk while working, I suppose.
+Here came the food. Uh... Are we eating with our hands ? She glanced at me then looked towards a box nearby where the chopsticks were hidden. Forgive me for not having dined at such places since our last meet. *"Don't touch the cold food yet !"* – she glared at me as I picked up a piece of cold herring sushi right after taking a spoonful of hot beef rice. Okay... didn't know that people dine in such a scientific way, even in some specific order. Call me vanilla, but for my daily habits, I tend to stick with whatever feels most comfortable. I mean, like you can think better with one leg up on the desk while working, I suppose.
 \
 \
 \
@@ -109,7 +109,7 @@ Here came the food. Uh... Are we eating with our hands ? She glanced at me then 
 \
 Bitch said as my goddamn career is just another stop on her summer trip. But for someone who just traveled 8,000 miles to get here, not to mention days of her wandering around the capital, then yeah I guess she has the right to say that.
 
-Told her a bit about that place in Ibaraki. It's right on the edge of the capital, yet somehow, there are still rice paddies everywhere. Like strange crossroads of the rural and the modern, every house here is topped with sleek solar panels, as if two different centuries are trying to live in the same space. The good news is, the cost of living here is quite cheap, at least that's what I was hoping for. The bad news ? If I can't afford a bicycle like my colleague, I'll be trekking to work, on foot, in zero-degree weather. He told me that if I can make it before the start of spring, the cherry blossoms would be breathtaking. Not like him who arrived in the dead of winter, greeted by nothing but skeleton-dry trees. To make matters worse, the place sits right against the coast, honestly I'm not sure what's going to kill me first: the crushing loneliness that would drive me insane day after day, or a tsunami.
+Told her a bit about that place in Ibaraki. It's right on the edge of the economic center, yet somehow, there are still rice paddies everywhere. Like strange crossroads of the rural and the modern, every house here is topped with sleek solar panels, as if two different centuries are trying to live in the same space. The good news is, the cost of living here is quite cheap, at least that's what I was hoping for. The bad news ? If I can't afford a bicycle like my colleague, I'll be trekking to work, on foot, in zero-degree weather. He told me that if I can make it before the start of spring, the cherry blossoms would be breathtaking. Not like him who arrived in the dead of winter, greeted by nothing but skeleton-dry trees. To make matters worse, the place sits right against the coast, honestly I'm not sure what's going to kill me first: the crushing loneliness that would drive me insane day after day, or a tsunami.
 \
 \
 \
@@ -183,9 +183,9 @@ Dressing in that hip-hop style then I better pack my stuff and get back to my co
 \
 \
 \
-Pretty sure you guys would become her fans if you ever drowned in that smile while she was teasing. I never asked why she said that, maybe some guys drenched in sweat just ignited a spark of excitement in her, after having some matches at her friend's place whose house is a goddamn badminton court rental service. But hell no, sport was never my thing. My thing ? To stick my ass to the chair and glue my eyes to the screen, twelve hours straight, which may be a torture to some, but I do enjoy it, honestly. Still, I must admit, being around with your pals are indeed chances – chances to walk yourself to the rendezvous of joy, to a so-called *remedy* that I have been seeking for so long. I know, the act of not letting anyone even know if I am sober or not, does expose how a truly greedy, selfish person I am in life. In the nick of time, when every part of me was so frail, so faint to even light a vestige of hope...
+Pretty sure you guys would become her fans if you ever drowned in that smile while she was teasing. I never asked why she said that, maybe some guys drenched in sweat just ignited a spark of excitement in her, after having some matches at her friend's place whose house is a goddamn badminton court rental service. But hell no, sport was never my thing. My thing ? To stick my ass to the chair and glue my eyes to the screen, twelve hours straight, which may be a torture to some, but I do enjoy it, honestly. Still, I must admit, being around with your pals are indeed chances – chances to walk yourself to the rendezvous of joy, to a so-called *remedy* that I have been seeking for so long. I know, the act of not letting anyone even know if I am fine or not, does expose how a truly greedy, selfish person I am in life. In the nick of time, when every part of me was so frail, so faint to even light a vestige of hope...
 
-She was there, flesh and bone, walked me through the murmur of breath, enter the gate of Valhalla.<!-- ![alt text](image.png) -->
+She was there, flesh and bone, walked me through the flicker of spark, enter the gate of Valhalla.<!-- ![alt text](image.png) -->
 \
 \
 \
@@ -275,3 +275,41 @@ If you have no fans, then that means I am no longer on this earth.
 \
 \
 ​
+<!-- ___________________
+
+*" 堀さん、それ*
+
+*「どこ行くの」じゃなくて、「行かないで」じゃないかな。"*
+___________________
+
+堀さん　それ
+「どこ行くの」じゃなくて
+「行かないで」じゃないのかなあ
+どこ行くの?
+どこにも行かないよ
+「お前なんかいらない」って
+「顔を見るのも嫌だ」って
+「どこかへ行ってしまえ」って
+堀さんがそう思わない限り
+俺はここにいるけど
+うん
+後でちゃんと水分摂らないとね -->
+
+
+
+<!-- ごめん ボーッとしてた
+大丈夫？
+ボーッとするほど 何考えてるのよ
+う～ん
+いろんな… いろんな偶然が
+重なって 今があると思うと
+ひとつでも欠けたら
+違う世界もあったのかなって
+ふ～ん
+だとしたら
+今 こうして一緒にいることに
+運命みたいなものも
+あるかもしれないわね
+そうかも
+きっと私たちは どうやったって
+出会ってしまうんだ -->
