@@ -45,7 +45,7 @@ Guess I'm about to lose my three-month Wordle streak, again. Every time I head o
 \
 \
 \
-Okay Miss Celebrity, gotta make a reserve before her decadent outing here when she landed made her forget that I even existed. 
+Okay Miss Celebrity, gotta make a reserve before her decadent outing here when she landed made her forget that I've ever existed. She only has two weeks here to reunite with every single friend from her childhood, compared to the two-month like the last time, I guess seeing Adele would be much more easier.
 \
 \
 ​
@@ -55,7 +55,7 @@ __________________
 ​
 \
 \
-A two-minute red light has never felt longer. Getting her arrival text while I was stuck here really got on my nerves. The moment it bled from red to green, I was gone – weaving through the city like a comet after I asked her for another five minutes.
+Sped like crazy to where we had arranged to meet after my shift. Welp, I didn't "arrange" anything, same as always, just a guest at a venue where she already hand-picked. A two-minute red light has never felt longer. Getting her arrival text while I was stuck here really got on my nerves. The moment it bled from red to green, I was gone – weaving through the city like a comet after I asked her for another five minutes.
 
 Finally made it to the place after almost finding eternal sleep under a car. Great, she must be somewhere on the second floor, coincidentally, the parking lot is also on the second floor... underground. Every morning I have to fight for a parking spot at the office, and here I was, doing it all over again.
 
@@ -63,7 +63,7 @@ Took me like decades to get back to the ground. My legs were shaking, I'd done e
 \
 \
 \
-And from afar, a silhouette carved through the crowd.
+And then, a silhouette stopped my pace, carved in the crowd.
 \
 \
 \
@@ -79,7 +79,7 @@ I was... stunned, like literally. There weren't many people around, but I'm pret
 \
 Those smiling eyes that brought joy, yet she mimicked what I myself had said an hour earlier, sarcastically. Spare me please, years of bug-fixing had perhaps eroded my last remaining sense of time.
 
-I went around the menu, while she just sat there watching me with this quiet, loving gaze. Okonomi, wakame, tonkatsu, misoshiru... hours of anime watching had somehow made me know exactly what the heck these things were. It felt... weirdly nostalgic, like being taken out to eat by my mom after I got good grades at the end of the year, when I was an elementary school student, so calm, and safe.
+I went around the menu, while she just sat there watching me with this quiet, loving gaze. お好み、ワカメ、豚カツ、味噌汁... hours of anime watching had somehow made me know exactly what the heck these things were. It felt... weirdly nostalgic, like being taken out to eat by my mom after I got good grades at the end of the year, when I was an elementary school student, so calm, and safe.
 \
 \
 \
@@ -91,7 +91,7 @@ Yep, that's also what any mom would say.
 
 She told me about some of the gossip that she had happened to pick up recently, about how some crazy-ass guys with their drama-shit on the internet really got her giggling. In return, I told her about how autistic I gradually became since I and my team at work had now moved to a separate, isolated room, just because some bloody "technology privacy" hardwares were shipped in from overseas. If we were badmouthing someone in that room, he or she would know about it because that person is literally sitting just three steps away from you in a 50 square meters room.
 
-Here came the food. Uh... Are we eating with our hands ? She glanced at me then looked towards a box nearby where the chopsticks were hidden. Forgive me for not having dined at such places since our last meet. *"Don't touch the cold food yet !"* – she glared at me as I picked up a piece of cold herring sushi right after taking a spoonful of hot beef rice. Okay... didn't know that people dine in such a scientific way, even in some specific order. Call me vanilla, but for my daily habits, I tend to stick with whatever feels most comfortable. I mean, like you can think better with one leg up on the desk while working, I suppose.
+Here came the food. Uh... Are we eating with our hands ? Oh boy, I know that look. The look that said I was some country bumpkin who had just arrived in the city for the first time. Gave me a deadly glance then nodded toward a box nearby where the chopsticks were hidden. Forgive me for not having dined at such places since our last meet. *"Don't touch the cold food yet !"* – she glared at me as I picked up a piece of cold herring sushi right after taking a spoonful of hot beef rice. Okay... didn't know that people dine in such a scientific way, even in some specific order. Call me vanilla, but for my daily habits, I tend to stick with whatever feels most comfortable. I mean, like you can think better with one leg up on the desk while working, I suppose.
 \
 \
 \
@@ -101,7 +101,7 @@ Here came the food. Uh... Are we eating with our hands ? She glanced at me then 
 \
 *"H...huh ?"*
 \
-*"It's a binding contract, means you won't see me in the next three years."*, I hesitated.
+*"It's a binding contract, means you won't see me in the next three years."*.
 \
 *"No problem. I'll meet you there."*
 \
@@ -109,7 +109,7 @@ Here came the food. Uh... Are we eating with our hands ? She glanced at me then 
 \
 Bitch said as my goddamn career is just another stop on her summer trip. But for someone who just traveled 8,000 miles to get here, not to mention days of her wandering around the capital, then yeah I guess she has the right to say that.
 
-Told her a bit about that place in Ibaraki. It's right on the edge of the economic center, yet somehow, there are still rice paddies everywhere. Like strange crossroads of the rural and the modern, every house here is topped with sleek solar panels, as if two different centuries are trying to live in the same space. The good news is, the cost of living here is quite cheap, at least that's what I was hoping for. The bad news ? If I can't afford a bicycle like my colleague, I'll be trekking to work, on foot, in zero-degree weather. He told me that if I can make it before the start of spring, the cherry blossoms would be breathtaking. Not like him who arrived in the dead of winter, greeted by nothing but skeleton-dry trees. To make matters worse, the place sits right against the coast, honestly I'm not sure what's going to kill me first: the crushing loneliness that would drive me insane day after day, or a tsunami.
+Told her a bit about that place in 茨城. It's right on the edge of the economic center, yet somehow, there are still rice paddies everywhere. Like strange crossroads of the rural and the modern, every house here is topped with sleek solar panels, as if two different centuries are trying to live in the same space. The good news is, the cost of living here is quite cheap, at least that's what I was hoping for. The bad news ? If I can't afford a bicycle like my colleague, I'll be trekking to work, on foot, in zero-degree weather. He told me that if I can make it before the start of spring, the cherry blossoms would be breathtaking, not like him who arrived in the dead of winter, greeted by nothing but skeleton-dry trees. To make matters worse, the place sits right against the coast, honestly I'm not sure what's going to kill me first: the crushing loneliness that would drive me insane day after day, or a tsunami.
 \
 \
 \
@@ -119,7 +119,7 @@ Told her a bit about that place in Ibaraki. It's right on the edge of the econom
 \
 \
 \
-I ended up questioning about some aspect of her life. And yeah, I guess she really went for the degree since the last time we saw each other. Time flies, doesn't it ? Before long, "Miss or Mrs", if she were asked, I guess it'll be "Master".
+I ended up questioning about some aspect of her life. And yeah, I guess she really went for the degree since the last time we saw each other. Time flied, didn't it ? Before long, "Miss or Mrs", if she were asked, I guess it'll be "Master".
 \
 \
 \
@@ -129,7 +129,7 @@ I ended up questioning about some aspect of her life. And yeah, I guess she real
 \
 \
 \
-Speaking of which, if a cooking competition were held, I'd be the first to be disqualified, my knowledge of the kitchen is next to zero, which, isn't good at all, especially since my colleague claimed I'd likely never find a favorite place to eat out around here. Why ? Because there are none !
+Speaking of which, if a cooking competition were held, I'd be the first to be disqualified, my knowledge of the kitchen is next to zero, which, isn't good at all, especially since my colleague claimed I'd likely never find a favorite place to eat out around here. Why ? Because there is none !
 
 But, there were moments, moments when the conversation fell into silence, a quiet gap where I realized we now lived in different countries, our only common ground was the distant memory from secondary school. In such time, I had the chance to truly look at this little girl. She was the same, yet entirely different. Her hair had grown long, falling with a certain grace I didn't recognize, and she looked healthier, prettier, in a way that time usually doesn't allow. I found myself wearing a faint, unconscious smile, looking at her was like finding a quiet corner in a loud world – a peaceful vista that finally stilled the chaotic buzzing in my head.
 \
@@ -143,7 +143,7 @@ But, there were moments, moments when the conversation fell into silence, a quie
 \
 \
 \
-Gotta pretend surprised since my communist friend had already told me this like weeks ago. Remember her bestie from our secondary school ? Well, that girl finally broke her twenty-five-year curse of never having a first love. Her standards for men has long been known for being sky-high. Shocked – was our only appropriate expression. *"Why don't you give it a shot ?"* – a hint of insistence in her voice. Shm, I gave a shrugging smile, before I have a chance to get to see a casual love, I'd probably end up matching one of my male highschool teachers.
+Gotta pretend surprised since my communist friend had already told me this like weeks ago. Remember her bestie from our secondary school ? Well, that girl finally broke her twenty-five-year curse of never having a first love. Her standard for men has long been known for being sky-high. Shocked – was our only appropriate expression. *"Why don't you give it a shot ?"* – a hint of insistence in her voice. Shm, I gave a shrugging smile, before I have a chance to get to see a casual love, I'd probably end up matching one of my male highschool teachers.
 \
 \
 \
@@ -151,7 +151,7 @@ Gotta pretend surprised since my communist friend had already told me this like 
 \
 \
 \
-Oh yeah, here we go again. If this girl hadn't started this then I'd have been sitting with the wrong person this whole evening. Yes, that inevitable inquiry about my status, did eventually arise, which really made me ponder quite a bit lately. Did she really have a genuine curiosity why a guy like me hasn't been with someone for half a decade, or she just honestly wished for everyone she knew to be happy ? For the kind of girl whose smile could melt anyone's heart, I hoped the latter was true.
+Oh yeah, here we go again. If this girl hadn't started this then I'd have been sitting with the wrong person this whole evening. Yes, that inevitable inquiry about my status, did eventually arise, which really made me ponder quite a bit lately. Does she really have a genuine curiosity why a guy like me hasn't been with someone for half a decade, or she just honestly wishes for everyone she knows to be happy ? For the kind of girl whose smile could melt anyone's heart, I hope the latter was true.
 
 \
 \
@@ -175,7 +175,7 @@ I told her there were two things that could possibly come up whenever we mention
 \
 \
 \
-Dressing in that hip-hop style then I better pack my stuff and get back to my country, at least that's what my technical leader said. But hey, I think that has been ingrained in the blood of any guy for a long time. Three pairs of pants for a week, two are enough but in case of a rainy day. And shirts ? Boy I got a collection of them from events, centers, companies,... which would suffice for my entire career. Are they doing charity now ?
+Dressing in that hip-hop style then I better pack my stuff and get back to my country, at least that's what my boss said. But hey, I think that has been ingrained in the blood of any guy for a long time. Three pairs of pants for a week, two are enough but in case of a rainy day. And shirts ? Boy I got a collection of them from events, centers, companies,... which would suffice for my entire career. Are they doing charity now ?
 \
 \
 \
@@ -183,7 +183,7 @@ Dressing in that hip-hop style then I better pack my stuff and get back to my co
 \
 \
 \
-Pretty sure you guys would become her fans if you ever drowned in that smile while she was teasing. I never asked why she said that, maybe some guys drenched in sweat just ignited a spark of excitement in her, after having some matches at her friend's place whose house is a goddamn badminton court rental service. But hell no, sport was never my thing. My thing ? To stick my ass to the chair and glue my eyes to the screen, twelve hours straight, which may be a torture to some, but I do enjoy it, honestly. Still, I must admit, being around with your pals are indeed chances – chances to walk yourself to the rendezvous of joy, to a so-called *remedy* that I have been seeking for so long. I know, the act of not letting anyone even know if I am fine or not, does expose how a truly greedy, selfish person I am in life. In the nick of time, when every part of me was so frail, so faint to even light a vestige of hope...
+Pretty sure you guys would become one of her fans if you ever drowned in that smile while she was teasing. I never asked why she said that, maybe some guys drenched in sweat just ignited a spark of excitement in her, after having some matches at her friend's place whose house is a goddamn badminton court rental service. But hell no, sport was never my thing. My thing ? To stick my ass to the chair and glue my eyes to the screen, twelve hours straight, which may be a torture to some, but I do enjoy it, honestly. Still, I must admit, being around with your pals are indeed chances – chances to walk yourself to the rendezvous of joy, to a so-called *remedy* that I have been seeking for so long. I know, the act of not letting anyone even know if I am fine or not, does expose how a truly greedy, selfish person I am in life. In the nick of time, when every part of me was so frail, so faint to even light a vestige of hope...
 
 She was there, flesh and bone, walked me through the flicker of spark, enter the gate of Valhalla.<!-- ![alt text](image.png) -->
 \

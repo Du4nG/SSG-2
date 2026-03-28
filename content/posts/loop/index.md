@@ -250,6 +250,7 @@ Maybe I don't trust myself, but I trust the processs.
 It only hurts more because nobody's in the wrong
 with great power comes great electricity bill
 Her actings good, maybe a little too good :)
+the debris at the end of the universe
 uh , Control-Alt-Delete, I guess ?
 everything everywhere all at once
 again, just, come to your senses
@@ -264,7 +265,6 @@ My theory, it has holes
 what's the catch here ?
 to infinity and beyond
 let's keep it this way
-in the nick of time
 get the job done
 here's the catch
 give me a break
@@ -272,11 +272,9 @@ bridge that gap
 El Psy Kongroo
 to amount to
 drive insane
-nothingness
 scintillate
 tranquility
 hear me out
-rendezvous
 trippin'
 figment
 starred
