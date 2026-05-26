@@ -1,7 +1,7 @@
 ---
 title: Viet Kieu
 date: 2023-12-25
-weight: 2
+weight: 4
 tags: [narrative]
 author: [Dung]
 summary: Pizza
@@ -348,7 +348,7 @@ She sounded... excited while saying that. Been three weeks since our second meet
 \
 \
 \
-Quite touching, to be honest. I used to be good at keeping a poker face, but over the years, that ability died down, I don't like it, but not hating either. Since university, I became more ill-tempered, gradually, tended to shut myself out, just to prevent people from seeing my emotions exposed. There are only a handful of times when I was being honest with myself, when words from people genuinely touch my soul, keeping me from suicidal thoughts. She was like, turning on an intangible switch inside me, pulling me out of the monotony of life. Felt like having something to cling to after a nine-hour shift, felt like the moment she promised to lend me a book nine years ago, felt like driving her back home after the highschool festival the summer she left, felt like I was stepping into a time machine.
+Quite touching, to be honest. I used to be good at keeping a poker face, but over the years, that ability died down, I don't like it, but not hating either. Since university, I became more ill-tempered, gradually, tended to shut myself out, just to prevent people from seeing my emotions exposed. There are only a handful of times when I was being honest with myself, when words from people genuinely touch my soul, keeping me from suicidal thoughts. She was like, turning on an intangible switch inside me, pulling me out of the monotony of life. Felt like having something to cling to after a nine-hour shift, felt like the moment she promised to lend me a book nine years ago, felt like driving her back home after the highschool festival the summer she left, felt like stepping into a time machine.
 \
 \
 \

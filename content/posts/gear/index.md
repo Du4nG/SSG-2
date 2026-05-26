@@ -1,7 +1,7 @@
 ---
 title: Gears
 date: 2021-10-03
-weight: 3
+weight: 5
 tags: [software]
 author: Dung
 summary: Buy, buy more, buy forever

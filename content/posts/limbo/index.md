@@ -1,7 +1,7 @@
 ---
 title: LIMBO
 date: 2023-08-03
-weight: 2
+weight: 6
 tags: [soul]
 author: Dung
 summary: Egg of the Perfect World

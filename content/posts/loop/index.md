@@ -230,6 +230,7 @@ The footprints on the floor that matched your own. You didn’t remember how you
 ​
 Because you **never** left. 
 \
+​
 
 
 <!-- ​Which one would you choose ? The town mouse or the country mouse ?
@@ -250,6 +251,7 @@ Maybe I don't trust myself, but I trust the processs.
 It only hurts more because nobody's in the wrong
 with great power comes great electricity bill
 Her actings good, maybe a little too good :)
+Who Saw the Peacock Dance in the Jungle
 the debris at the end of the universe
 uh , Control-Alt-Delete, I guess ?
 everything everywhere all at once
@@ -275,6 +277,7 @@ drive insane
 scintillate
 tranquility
 hear me out
+fever dream
 trippin'
 figment
 starred

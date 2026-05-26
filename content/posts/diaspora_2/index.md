@@ -1,7 +1,7 @@
 ---
 title: Viet Kieu - EP
 date: 2026-01-16
-weight: 1
+weight: 3
 tags: [narrative]
 author: [Dung]
 summary: Okonomi
