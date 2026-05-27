@@ -250,7 +250,8 @@ Do not cite the deep magic to me, I was there, the day it was written.
 Maybe I don't trust myself, but I trust the processs.
 It only hurts more because nobody's in the wrong
 with great power comes great electricity bill
-Her actings good, maybe a little too good :)
+Her actings good, maybe a little too good ?
+Your words cut deep, deeper than any blade
 Who Saw the Peacock Dance in the Jungle
 the debris at the end of the universe
 uh , Control-Alt-Delete, I guess ?
@@ -262,16 +263,21 @@ If this isn't nice, what is ?
 Let's teach fish how to swim
 you don't see that everyday
 things happen for a reason
+Dù một ngày hay trăm năm
 I see what you did there
 My theory, it has holes
 what's the catch here ?
+guess I was wrong then
 to infinity and beyond
 let's keep it this way
+anything that matters
 get the job done
 here's the catch
 give me a break
+eyes don't line
 bridge that gap
 El Psy Kongroo
+lets go of us
 to amount to
 drive insane
 scintillate

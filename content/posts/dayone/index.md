@@ -46,7 +46,7 @@ vô năng
 ## 17:06
 Tôi và Việt 
 
-Tôi là tôi đã có linh cảm xấu về việc này Chỉ còn chưa đến hai mươi phút để tôi tất nhiên là một mình vì giờ tôi với Việt đã tình ai nấy tiến.
+Tôi là tôi đã có linh cảm xấu về việc này Chỉ còn chưa đến hai mươi phút để  quyết định xem liệu tôi có ngủ lại ga tối nay hay không. tất nhiên là một mình vì giờ tôi với Việt đã tình ai nấy tiến.
 
 ## 17:18
 
@@ -59,16 +59,7 @@ __________________
 ​
 \
 \
-Sped like crazy to where we had arranged to meet after my shift. Welp, I didn't "arrange" anything, same as always, just a guest at a venue where she already hand-picked. A two-minute red light has never felt longer. Getting her arrival text while I was stuck here really got on my nerves. The moment it bled from red to green, I was gone – weaving through the city like a comet after I asked her for ping me in the face. Gosh, please lead me to the rendezvous !
-\
-\
-\
-And then, a silhouette stopped my pace, carved in the crowd.
-\
-\
-\
-I was... stunned, like literally. There weren't many people around, but I'm pretty sure you guys could recognize a celebrity among people even though she was in disguise. Her presence caught me off guard, a sudden clearing in the woods after years of wandering. I held my step, my heart stalled as I wasn't sure if my eyes were playing tricks on me. We were only a table away, but then, she looked up. Our eyes locked, and in that split second, the hazy memories sharpened into focus. The uncertainty vanished.
-\
+
 \
 \
 *"Found ya."*

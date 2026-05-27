@@ -40,7 +40,7 @@ Tell me more. A message lit up the screen in the midst of the day. Guessing the 
 \
 Huh ? Tried to clear up my mind, just helped her with the math exercise like yesterday, at a coffee store. Joke's on me, but things just seemed vague.
 
-Gotta see her at this place called Homeland Artists. Knew it ! A den of instrumentalists, no offense. Every time I'm at such places, the people tend to do drugs, sometimes herb, which can lead to an unexpected out-of-tune voice or strand, a real pain in the arse. I checked the route, knew that I'd been there tens of times, but it was always like the first time. One thing, a performance, a presentation, a reunion, all make me nauseous.
+Gotta see her at this place called Homeland Artists. Knew it ! A den of instrumentalists, no offense. Every time I'm at such places, the people tend to do drugs, sometimes herb, which can lead to an unexpected out-of-tune voice or strand, a real pain in the ass. I checked the route, knew that I'd been there tens of times, but it was always like the first time. One thing, a performance, a presentation, a reunion, all make me nauseous.
 \
 \
 \
@@ -129,11 +129,18 @@ We'd been sitting here for too long, if it weren't for the dessert, the waiters 
 \
 \
 \
-I, couldn't. I don't even make a habit of having breakfast, I eat most of the time based on my mood, taking my health for granted. She once said many years ago, under the same roof, one must complement the other, if she doesn't eat much, then I have to. *"Just try a little more !"* – she urged while locking my eyes. Oh dear, I was obsessed with that gesture, a momentary reason that kept me from considering this reunion unworthy. Time surely has its corrosive effects on things, my memory might be failing me, but the feelings never would. My teacher once wrote: 
+I, couldn't. I don't even make a habit of having breakfast, I eat most of the time based on my mood, taking my health for granted. She once said many years ago, under the same roof, one must complement the other, if she doesn't eat much, then I have to. *"Just try a little more !"* – she urged while locking my eyes. Oh dear, I was obsessed with that gesture, a momentary reason that kept me from considering this reunion unworthy. Time surely has its corrosive effects on things, my memory might be failing me, but the feelings never would.
 \
 \
 \
+\
+\
+​
+___________________
 ㅤ *"Each time I see my old friends, I am given a chance to pay a visit to the earlier me's, each different in its own time, each a point of departure for the next, and all of these me's make me me today. Seeing old friends is a form of time travel, a kind less confusing than, say, that in Avengers Endgame. The world is lost and here we are, in this cocoon of isolated time dimension, chatting away."*
+___________________
+​\
+\
 \
 \
 \
@@ -182,11 +189,11 @@ After ten minutes of mind struggling, I finally reached the end of the order wit
 \
 \
 \
-*"Do you really live here ?"*
+*"Do you even live here ?"*
 \
 \
 \
-Bitch started to give me a deadly doubtful eye as if she'd been living here longer than I have. Tsk, guess I had to let the pro do the job. She then went straight to the grill, getting into an endless speech with the lady, not even forget to show me the literal menu coming out from the middle of nowhere. Jeez, do I really live here ?
+Bitch started to give me a deadly doubtful eye as if she'd been living here longer than I have. Tsk, guess I had to let the pro do the job. She then went straight to the grill, getting into an endless speech with the lady, not even forget to show me the literal menu coming out from the middle of nowhere. Jeez, do I even live here ?
 \
 \
 \
@@ -238,11 +245,11 @@ Uh... why did I say that. There are some of the actions I'm pretty sure people s
 
 Ever had the feeling of being observed ? *Psychic staring effect*, that's how it's called. And yes, one of the baristas was literally standing there, three steps away, staring at me for like eternity with the most cringe-worthy smile I've ever seen on the planet Earth. He murmured, that some of the employees tried to nudge the machine, as I saw a few minutes ago, attempting to push the teddy bear into the hole without even touching it.
 
-I was... confused. The heck, what do you want me to do, man ? Was that a hint, or a threat that if I dared to try what he had just said, he would bang the coffee tray on my head.
+I was... confused. The heck, what do you want me to do, man ? Was that a hint, or a threat that if I even dared to try what he had just said, he would bang the coffee tray on my head.
 \
 \
 \
-*"That strawberry bear looks adorable !"*
+*"That strawberry bear ! Adorable ᡣ𐭩."*
 \
 \
 \

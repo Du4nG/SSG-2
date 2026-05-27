@@ -13,7 +13,7 @@ ShowPostNavLinks: false
 draft: true 
 
 editPost:
-    Text: 🍓
+    Text: 💊
     URL: https://maps.app.goo.gl/eSZFupJz1teALfEX8
     appendFilePath: false # to append file path to Edit link
 
@@ -26,28 +26,7 @@ editPost:
 ​\
 \
 \
-\
-There are only two possibilities when a message reaches me: either it's my guy spamming about how he needs communism, or someone who just lent me money for lunch that I didn't intend to pay back. But this time, neither. That person who flicked me in the forehead back then, was finally finding her way back to my corner of it.
-\
-\
-\
-*"...No"*, said I.
-\
-*"Then see ya !"*
-\
-\
-\
-
-\
-\
-\
-*"There's an empty seat, behind you !"*
-\
-\
-\
-I know, and I did hear that very clearly. 
-She again gave me that smiling frown after I just kept "Huh ?" to her. Yes babe I knew that there's a seat I just to want to look at her a little more, before this train 
-\
+![alt text](cube.png)
 \
 ​
 __________________
@@ -56,7 +35,37 @@ __________________
 ​
 \
 \
+\
+She only slept for about an hour yesterday.
+\
+\
+*"I got an 8..."*
+\
+*"Wasn't that bad, tho ?"*
+\
+\
+\
+*"...out of 100."*
+\
+\
+\
+Now that's the girl I know.
+\
+\
+\
+*"Nice dress, looks like a... curtain !"*
+\
+*"Yours too !"*
+\
+\
+\
+Ha ha, how did she even remember ? Right, it was the time when we were at a highschool festival
+I was once forced to sit in the front desk by my English teacher, just because I couldn't shut my yap with my classmates during her class. If she moved me there so that I could focus on the lesson, then yeah it was going nowhere. Every time 
 
+\
+\
+\
+Easy peasy, just... wait a moment so that I could look it up in the dictionary. Alright, let's do it. Wait, where did she go ? The girl spoke english to the waiter but he was... confused ? Haven't I told you that this would not work here ? 
 \
 \
 \
@@ -70,33 +79,67 @@ Thank you, Captain Obvious.
 ​
 __________________
 ​
-# the roastery.
+# the crossing.
 ​
 \
 \
+*"Do you even live here ?"*
+\
+\
+\
+Dang it ! Once again being asked by the same question, in the place where I had lived longer than she had, the second time ! Bitch just came here yesterday but already mastered every station in the country.
+
+The meat is deep-fried, so soft that it can melt in my mouth
+​\
+\
+\
+*"There's an empty seat, behind you !"*
+\
+\
+\
+I know, and I did hear that very clearly. She again gave me that smiling frown after I just kept "Huh ?" to her. Yes babe, I knew there were seats behind me, it's just, I wanted to look at you a little more, before this train pulls us forward, before this place becomes just another memory.
 
 
-Finally made it to the place after almost finding eternal sleep under a car. Great, she must be somewhere on the second floor, coincidentally, the parking lot is also on the second floor... underground. Every 
-​
+The type of people who can speak but cannot hear, is a stereotype of saying crap, which is, me.
 
+The waiter brought the wrong set, said something in Japanese. The f he’s saying, I didn't care, just keep saying はい and hoped that he better went a way quickly before I
+
+The meat is deep-fried, so soft that it can melt in my mouth
+
+
+
+Motherf I knew it. 
+
+
+
+
+*"What are you doing ?"*
+\
+*"Looking at you."*
+\
+\
+\
+
+\
+If this isn't nice, what is ?
 \
 \
 ​
 __________________
 ​
-# the crossing.
+# the Bark.
 ​
 \
 \
-asdasdasd
-
-*"What are you doing ?"*
-
-*"Looking at you."*
-
-“what are you doing” “looking at you” I… just didnt want to, wanted to lookt at her a little more
-
-If this isn't nice, what is ?
+*"Here, have some chocolate."*
+an お守り.
+\
+\
+*"Know how I know your adress ?"*
+\
+\
+\
+The day before my flight, some cookies from the Butterman reached me.
 \
 \
 ​
@@ -106,14 +149,77 @@ __________________
 ​
 \
 \
-I shed I couldn't hold it. For a very, very, very long time, Like a baby whose toys was taken away, 
+
+Oops, no Apple Pay here. She then fed in a 10,000￥ and received... ten of 1,000￥ in return. Okay what's going on here ? I guess the author of this software was giving us some other chances, that, only "straight" money is accepted. Is money being gender discriminated now ?
+\
+\
+![alt text](jellyfish.jpg)
+This jellyfish tank, isn't it a little... blurry ? I’m starting to think it might be a video playback.
 
 
+There's something in the air that kept me from keeping my head clear, the aquarium’s quiet lullaby, I guessed. Five couples sit on the benches, lost in the glow of the jellyfish, soaking in the ocean’s love story like it’s meant just for them.
+
+
+Hold on, an iguana ? Fascinating. I believed this place would fill me with the ease of the ocean, and this little shit here wasn't even in the water but hanging his ass on a damn tree.
+
+Let's be honest, we all know who this fish looks like.
+\
+\
+\
+
+\
+\
+\
+
+While living at the Marine Life Institute, a young Dory accidentally strayed too far from her parents and was swept out into the open ocean by a strong current. As she drifted further away, her innate short-term memory loss made it incredibly difficult for her to remember where she came from or how to find her parents. Over the years, her memory limitations caused her to wander aimlessly and forget details about her past, which eventually led to her crossing paths with Marlin, finding Nemo.
+
+Huh, 
+\
+\
+\
+\
+\
+\
+\
+I...
+\
+couldn't hold it anymore. 
+\
+\
+\
+\
+\
+Am I... waking up?
+\
+\
+\
+\
+Like a baby whose toy was taken away, but why it had to be this way, why..., why could I not stop my silly self from shedding tears. These stupid sentiment are not listening to me, Just 
+please, please don't come and wake me up.
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
 Panacea, does it even exist ?
 
-For a very, very, very long time, I've searching for search a remedy, to cure the 
+For a very, very, very long time, I've been searching for such remedy, a "cure-all" for the inner
 
-But 
+I'm not sober enough to stay in this world.
+
+Maybe when that day comes, I hope you guys know that, every single person that has stepped in my life, even the slightlest interaction, even the shortest conversation, had kept me from the thought of not straying away from this world, so far.
+
+But 出会い
+
+Oh I see what you did there you little shit.
+
+maybe , maybe in another life, that we could have each other.
 
 
 <!-- ___________________
