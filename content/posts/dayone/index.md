@@ -42,6 +42,7 @@ Tank từng cảnh báo tôi về cái mê cung hổ lốn nơi đây, welp tôi
 Mình cũng 
 
 vô năng
+hằng hà sa số
 
 ## 17:06
 Tôi và Việt 

@@ -250,8 +250,8 @@ Do not cite the deep magic to me, I was there, the day it was written.
 Maybe I don't trust myself, but I trust the processs.
 It only hurts more because nobody's in the wrong
 with great power comes great electricity bill
-Her actings good, maybe a little too good ?
 Your words cut deep, deeper than any blade
+Her actings good, maybe a little too good ?
 Who Saw the Peacock Dance in the Jungle
 the debris at the end of the universe
 uh , Control-Alt-Delete, I guess ?
@@ -277,7 +277,6 @@ give me a break
 eyes don't line
 bridge that gap
 El Psy Kongroo
-lets go of us
 to amount to
 drive insane
 scintillate

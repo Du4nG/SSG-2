@@ -45,7 +45,7 @@ Guess I'm about to lose my three-month Wordle streak, again. Every time I head o
 \
 \
 \
-Okay Miss Celebrity, gotta make a reserve before her decadent outing here when she landed made her forget that I've ever existed. She only has two weeks here to reunite with every single friend from her childhood, compared to the two-month like the last time, I guess seeing Adele would be much more easier.
+Okay Miss Celebrity, gotta make a reserve before her decadent outing here when she landed made her forget that I've ever existed. She only had two weeks here to reunite with every single friend from her childhood, compared to the two-month like the last time, I guess seeing Adele would be much more easier.
 \
 \
 ​

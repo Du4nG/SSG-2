@@ -311,7 +311,7 @@ Being seduced by a smile, so that's how it is.
 \
 \
 \
-We headed to a grill house. There was a group of people, pretty sure they're colleagues at work. I shuddered, as flashbacks raced through my head, like I was on the battlefield with a fleet of alcoholics, which needless to say, are my colleagues. Over time, whenever people call for a toast on the table, I tended to avoid the act of drinking. All I did was clink glasses, shout some cheers and... keep eating. Nice strategy, don't you think ? Beer and I aren't on the same team, I got something called alcohol intolerance, which can leave me itchy for the next whole week, like being exiled to inferno.
+We then headed to a grill house. There was a group of people, pretty sure they're colleagues at work. I shuddered, as flashbacks raced through my head, like I was on the battlefield with a fleet of alcoholics, which needless to say, are my colleagues. Over time, whenever people call for a toast on the table, I tended to avoid the act of drinking. All I did was clink glasses, shout some cheers and... keep eating. Nice strategy, don't you think ? Beer and I aren't on the same team, I got something called alcohol intolerance, which can leave me itchy for the next whole week, like being exiled to inferno.
 
 Oh ? She got a tattoo. Those ink marks just grabbed my attention while we were waiting for a vacant table at the reception. It was her parents' birthdays, perhaps it had been there for a while, now faded and slightly blurred, bears the marks of time. She called some crab cellophane noodles, that's fine, and then some oysters with lemon slices, then, some cold pale shrimps. The thing is, they were all raw ! 
 \

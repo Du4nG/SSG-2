@@ -61,7 +61,10 @@ Now that's the girl I know.
 \
 Ha ha, how did she even remember ? Right, it was the time when we were at a highschool festival
 I was once forced to sit in the front desk by my English teacher, just because I couldn't shut my yap with my classmates during her class. If she moved me there so that I could focus on the lesson, then yeah it was going nowhere. Every time 
-
+\
+\
+\
+I hit on her knee *"Ouch !"* impotent smile 
 \
 \
 \
@@ -87,9 +90,8 @@ __________________
 \
 \
 \
-Dang it ! Once again being asked by the same question, in the place where I had lived longer than she had, the second time ! Bitch just came here yesterday but already mastered every station in the country.
+Can't believe I'm once again being asked the same question, in the place where I had lived longer than she had, the second time ! Bitch just came here yesterday but already mastered every station in the country. Jeez, do I even live here ?
 
-The meat is deep-fried, so soft that it can melt in my mouth
 ​\
 \
 \
@@ -97,12 +99,54 @@ The meat is deep-fried, so soft that it can melt in my mouth
 \
 \
 \
-I know, and I did hear that very clearly. She again gave me that smiling frown after I just kept "Huh ?" to her. Yes babe, I knew there were seats behind me, it's just, I wanted to look at you a little more, before this train pulls us forward, before this place becomes just another memory.
+I know, and I did hear that very clearly. She again gave me that smiling frown after I just kept "Huh ?" to her. Yes babe, I knew there were seats behind me, it's just, I wanted to look at you a little more, before this train lets go of us, before this place becomes just another memory.
 
+
+
+
+
+\
+\
+\
+*"Guess how much this hair clip is ?"*
+\
+\
+\
+Either it was ridiculously cheap or ridiculously expensive, otherwise she wouldn’t be this excited, wearing that Asian‑mom‑just‑won‑a‑bargain face.
+\
+\
+\
+*"I would say... $2 !"*
+\
+*"Nahh."*
+\
+*"So $200 then ?"*
+\
+*"It's $20 !"*
+\
+\
+\
+Great, right in the middle. How unlucky I was !
+\
+\
+\
+*"But why are you asking me that ? Any special story behind it ?"*
+\
+\
+\
+There was a girl, she started, due to an accident, the teeth of the hairclip had pierced that girl's skull. After that, a female engineer came up with an idea of making clips from a flexible material, that even if you lie on it, it should make no harm to your skin. There was a little spark in her eyes, the gentle way she brought up the story really moved me for a moment. She felt the weight of what the engineer did, and I felt the weight of her feeling it. People soften when they hear that something gentle was born from something tragic. I mean, sure, there are people who took every mistake, every loss, every step they'd been through, silently turn it into something that could save the next person they care about, like the way Tony added a parachute to Peter’s suit after watching Rhodey fall in the past.
+
+
+
+
+I urge of being praised, fear of being scolded. I'm not that 
+
+
+that face of kids telling their parents how they got praised in art class
 
 The type of people who can speak but cannot hear, is a stereotype of saying crap, which is, me.
 
-The waiter brought the wrong set, said something in Japanese. The f he’s saying, I didn't care, just keep saying はい and hoped that he better went a way quickly before I
+The waiter brought the wrong set, said something in Japanese. The f he’s saying, forget it, I didn't care, just kept getting along with his words and hoped that he better went a way quickly before I 
 
 The meat is deep-fried, so soft that it can melt in my mouth
 
@@ -112,7 +156,9 @@ Motherf I knew it.
 
 
 
-
+\
+\
+\
 *"What are you doing ?"*
 \
 *"Looking at you."*
@@ -150,7 +196,7 @@ __________________
 \
 \
 
-Oops, no Apple Pay here. She then fed in a 10,000￥ and received... ten of 1,000￥ in return. Okay what's going on here ? I guess the author of this software was giving us some other chances, that, only "straight" money is accepted. Is money being gender discriminated now ?
+Oops, no Apple Pay here. She then fed in a 10,000￥ and received... ten of 1,000￥ in return. Okay what's going on here ? I guess the author of this software was giving us some other chances, that, only "straight" money is accepted. Geez, is money being gender discriminated now ?
 \
 \
 ![alt text](jellyfish.jpg)
@@ -194,7 +240,7 @@ Am I... waking up?
 \
 \
 \
-Like a baby whose toy was taken away, but why it had to be this way, why..., why could I not stop my silly self from shedding tears. These stupid sentiment are not listening to me, Just 
+Like a baby whose toy was taken away, but why it had to be this way, why..., why could I not stop my silly self from crying out like a kid. Which is the face I hate the most. These stupid sentiment are not listening to me, Just 
 please, please don't come and wake me up.
 \
 \
