@@ -55,7 +55,7 @@ The night before trips, or anything that matters, sleep slips away from me, alwa
 \
 \
 \
-I believed that the one who should be surprised here is me, not her. Saying herself how the hell she even graduated felt truly miraculous. Nostalgic, isn’t it ? That whole unforgettable process every generation of students goes through, from kindergarten, all the way to the postgrad. Hundreds of times of getting bad scores, passing notes under the desk, copying each other’s answers, having no idea how on earth we even survived through such crazy endless tests. No boasting but, when I was in highschool's class, I was ranked the fifth... from the bottom. The girl was kinda dissatisfied with her with her Machine Learning teacher, who taught one thing but gave a completely different exam, but that's fine, there were two hundred other victims just like her.
+I believed that the one who should be surprised here is me, not her, saying herself how the hell she even graduated felt truly miraculous. Nostalgic, isn’t it ? That whole unforgettable process every generation of students goes through, from kindergarten, then all the way to the postgrad. Hundreds of times of getting bad scores, passing notes under the desk, copying each other’s answers, having no idea how on earth we even survived through such crazy endless tests. No boasting but, when I was in highschool's class, I was ranked the fifth... from the bottom. The girl was kinda dissatisfied with her with her Machine Learning teacher, who lectured about apples and then tested everyone on oranges, but that's fine, there were two hundred other victims just like her.
 \
 \
 \
@@ -73,6 +73,17 @@ Now that's the girl I know.
 \
 \
 \
+
+\
+*"Tokyo Tower, I wonder where it is."*
+\
+*"Huh ? Ain't it right here ? I just saw it !"*
+\
+*"You know it's not the same right ?"*
+\
+\
+\
+Oh, Mobifone
 Huh, all the summer set bought some new clothes
 \
 \
@@ -83,12 +94,11 @@ Huh, all the summer set bought some new clothes
 \
 \
 \
-Ha ha, how did she even remember ? Right, it was the time when we were at a highschool festival
-I was once forced to sit in the front desk by my English teacher, just because I couldn't shut my yap with my classmates during her class. If she moved me there so that I could focus on the lesson, then yeah it was going nowhere. Every time 
+Ha ha, how did she even remember ? Right, it was back at a highschool festival, when she first saw the jacket that had followed me for years. I was once forced to sit in the front row by my English teacher, just because I couldn't shut my yap with my classmates. If she moved me there so that I could focus on the lesson, then yeah... that was going nowhere. Times like that, I fold the coat into a smooth, soft, pillow-shaped, let all the teacher's word turn into a lullaby, having the kind of nap that made everyone else tease me for years, honestly, I didn’t mind being remembered like that.
 \
 \
 \
-I hit on her knee all she could react was just an *"Ouch !"* with an impotent smile. Such a frangible person like that, , easy to get touched by words, dare to wandering around world, eat whatever she wants, do whatever she likes, 
+I hit on her knee all she could react was just an *"Ouch !"* with an impotent smile. Such a frangible person like that, who is easy to get touched by words, dare to wandering around world, eat whatever she wants, do whatever she likes, 
 \
 \
 \
@@ -115,7 +125,7 @@ Say that again ?
 \
 \
 \
-Easy peasy, just... wait a moment so that I could look it up in the dictionary. Alright, let's do it. Wait, where did she go ? The girl spoke english to the waiter but he was... confused ? Haven't I told you that this would not work here ? 
+Easy peasy, just... wait a moment so that I could look it up in the dictionary. Alright, let's do it. Wait, where did she go ? The girl spoke english to the waiter but he was... confused. Haven't I told you that this wouldn't work here ? 
 \
 \
 \
@@ -129,7 +139,7 @@ Thank you, Captain Obvious.
 ![alt text](12905d8b-eb4d-4e1e-a7c0-1f122fe61c8a_removalai_preview_1_150x225.png)
 __________________
 ​
-# the crossing.
+# the Shibuya crossing.
 ​
 \
 \
@@ -140,8 +150,11 @@ __________________
 Can't believe I'm once again being asked the same question, in the place where I had lived longer than she had, the second time ! Bitch just came here yesterday but already mastered every station in the country. Jeez, do I even live here ?
 
 
+surrounded by massive buildings
 
-Some of the people here in the middle of the 12:00AM noon, while covering their heads with jacket. Duh ! Are you really doing that ?
+Told her that in this place, people is lying all the way through, hugging each other, immersing with love story. Welp, apparently they... didn't. She gave me a look of contempt, said that if there were such a person to do that, would be only me. Oh come on, they clearly did that on the Youtube.
+
+Some of the people here were chattering while covering their heads with jacket to avoid the sunlight, at the worst possible time of the day, under the heat of 12:00 PM. Duh ! Are you really doing that ?
 
 Go Karts
 
@@ -176,14 +189,16 @@ Right in the middle. How unlucky I was !
 \
 \
 \
-There was a girl, she started, due to an accident, the teeth of the hairclip had pierced that girl's skull. After that, a female engineer came up with an idea of making clips from a flexible material, that even if you lie on it, it should make no harm to your skin. There was a little spark in her eyes, the gentle way she brought up the story really moved me for a moment. She held the clip the way a child holds a treasure they’ve just found between the shelves – gentle, delighted, a little surprised by how much it meant. I think she really felt the weight of what the engineer did, which made I, feel the weight of her feeling it. People soften when they hear that something gentle was born from something tragic. I mean, sure, there are people who took every mistake, every loss, every step they'd been through, silently turn it into something that could save the next person they care about, like the way Tony added a parachute to Peter’s suit after watching Rhodey fall in the past.
+There was a girl, she started, due to an accident, the teeth of the hairclip had pierced that girl's skull. After that, a female engineer came up with an idea of making clips from a flexible material, that even if you lie on it, it should make no harm to your skin. There was a little spark in her eyes, the gentle way she brought up the story really moved me for a moment. She held the clip the way a child holds a treasure they’ve just found between the shelves – gentle, delighted, a little surprised by how much it meant.
+
+I think she really felt the weight of what the engineer did, which made I, feel the weight of her feeling it. People soften when they hear that something gentle was born from something tragic. I mean, sure, there are people who took every mistake, every loss, every step they'd been through, silently turn it into something that could save the next person they care about, like the way Tony added a parachute to Peter’s suit after watching Rhodey fall in the past.
 
 
-
+miyashita park
 
 I urge of being praised, fear of being scolded. I'm not that 
 
-
+Oops, I'm shaking. Time to eat
 that face of kids telling their parents how they got praised in art class
 
 The type of people who can speak but cannot hear, is a stereotype of saying crap, which is, me.

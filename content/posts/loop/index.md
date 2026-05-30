@@ -259,6 +259,7 @@ everything everywhere all at once
 again, just, come to your senses
 that's the neat part, you don't
 If this isn't nice, what is ?
+it gets easier. give it time
 Let's teach fish how to swim
 you don't see that everyday
 things happen for a reason
