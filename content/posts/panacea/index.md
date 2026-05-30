@@ -1,11 +1,11 @@
 ---
 title: Panacea
-date: 2026-01-16
+date: 2026-05-24
 weight: 1
 tags: [narrative]
 author: [Dung]
-summary: Tokyo
-description: ご。
+summary: Aquarium
+description: does it even exist ?
 hideSummary: false
 ShowWordCount: false
 ShowReadingTime: true
@@ -36,7 +36,27 @@ __________________
 \
 \
 \
-She only slept for about an hour yesterday.
+*"Had to fly for 21 hours !"*
+\
+*"Is that so ?"*
+\
+*"Umm, had like an hour of sleep yesterday."*
+\
+\
+\
+She had to transit through 서울 before landing in 成田。
+The night before trips, or anything that matters, sleep slips away from me, always. I had about three hours lying my back, but half of the time, my mind didn't stop talking. Worse that, she only slept for an hour yesterday.
+\
+\
+\
+*"Heard that you graduated."*
+\
+*"Yeah, can you believe that ? Unbelievable !"*
+\
+\
+\
+I believed that the one who should be surprised here is me, not her. Saying herself how the hell she even graduated felt truly miraculous. Nostalgic, isn’t it ? That whole unforgettable process every generation of students goes through, from kindergarten, all the way to the postgrad. Hundreds of times of getting bad scores, passing notes under the desk, copying each other’s answers, having no idea how on earth we even survived through such crazy endless tests. No boasting but, when I was in highschool's class, I was ranked the fifth... from the bottom. The girl was kinda dissatisfied with her with her Machine Learning teacher, who taught one thing but gave a completely different exam, but that's fine, there were two hundred other victims just like her.
+\
 \
 \
 *"I got an 8..."*
@@ -53,6 +73,10 @@ Now that's the girl I know.
 \
 \
 \
+Huh, all the summer set bought some new clothes
+\
+\
+\
 *"Nice dress, looks like a... curtain !"*
 \
 *"Yours too !"*
@@ -64,7 +88,30 @@ I was once forced to sit in the front desk by my English teacher, just because I
 \
 \
 \
-I hit on her knee *"Ouch !"* impotent smile 
+I hit on her knee all she could react was just an *"Ouch !"* with an impotent smile. Such a frangible person like that, , easy to get touched by words, dare to wandering around world, eat whatever she wants, do whatever she likes, 
+\
+\
+\
+*"Ever heard of Slack ?"*
+\
+*"Yeah, used it once in my university."*
+\
+*"I was flirted on there !"*
+\
+\
+\
+Oh my, it was from her previous job, when some guys from another department somehow found her out. I think that's understandable, when a cutie pie like that wanders around the campus, your eyes just naturally find her. There weren't many girls there, like, the crave of finding "the other half" of these guys had reached a new level, they even made, how do I say, a portfolio, uploading to somewhere introducing themselves to whoever might be interest, literally ! The desperation was almost adorable, with a touch of... creepy too. One of them somehow spotted her, on a sunny day, slid into her DMs with a classic "Hi there, are you Vietnamese ?". You blind ? There's her name on it !
+\
+\
+\
+Aight Sherlock,
+
+Say what ?
+
+Say that again ?
+
+
+
 \
 \
 \
@@ -79,7 +126,7 @@ Easy peasy, just... wait a moment so that I could look it up in the dictionary. 
 Thank you, Captain Obvious.
 \
 \
-​
+![alt text](12905d8b-eb4d-4e1e-a7c0-1f122fe61c8a_removalai_preview_1_150x225.png)
 __________________
 ​
 # the crossing.
@@ -92,16 +139,11 @@ __________________
 \
 Can't believe I'm once again being asked the same question, in the place where I had lived longer than she had, the second time ! Bitch just came here yesterday but already mastered every station in the country. Jeez, do I even live here ?
 
-​\
-\
-\
-*"There's an empty seat, behind you !"*
-\
-\
-\
-I know, and I did hear that very clearly. She again gave me that smiling frown after I just kept "Huh ?" to her. Yes babe, I knew there were seats behind me, it's just, I wanted to look at you a little more, before this train lets go of us, before this place becomes just another memory.
 
 
+Some of the people here in the middle of the 12:00AM noon, while covering their heads with jacket. Duh ! Are you really doing that ?
+
+Go Karts
 
 
 
@@ -112,7 +154,7 @@ I know, and I did hear that very clearly. She again gave me that smiling frown a
 \
 \
 \
-Either it was ridiculously cheap or ridiculously expensive, otherwise she wouldn’t be this excited, wearing that Asian‑mom‑just‑won‑a‑bargain face.
+Either it was ridiculously cheap, or ridiculously expensive, otherwise she wouldn’t be this excited, wearing that Asian‑mom‑just‑won‑a‑bargain face.
 \
 \
 \
@@ -126,7 +168,7 @@ Either it was ridiculously cheap or ridiculously expensive, otherwise she wouldn
 \
 \
 \
-Great, right in the middle. How unlucky I was !
+Right in the middle. How unlucky I was !
 \
 \
 \
@@ -134,7 +176,7 @@ Great, right in the middle. How unlucky I was !
 \
 \
 \
-There was a girl, she started, due to an accident, the teeth of the hairclip had pierced that girl's skull. After that, a female engineer came up with an idea of making clips from a flexible material, that even if you lie on it, it should make no harm to your skin. There was a little spark in her eyes, the gentle way she brought up the story really moved me for a moment. She felt the weight of what the engineer did, and I felt the weight of her feeling it. People soften when they hear that something gentle was born from something tragic. I mean, sure, there are people who took every mistake, every loss, every step they'd been through, silently turn it into something that could save the next person they care about, like the way Tony added a parachute to Peter’s suit after watching Rhodey fall in the past.
+There was a girl, she started, due to an accident, the teeth of the hairclip had pierced that girl's skull. After that, a female engineer came up with an idea of making clips from a flexible material, that even if you lie on it, it should make no harm to your skin. There was a little spark in her eyes, the gentle way she brought up the story really moved me for a moment. She held the clip the way a child holds a treasure they’ve just found between the shelves – gentle, delighted, a little surprised by how much it meant. I think she really felt the weight of what the engineer did, which made I, feel the weight of her feeling it. People soften when they hear that something gentle was born from something tragic. I mean, sure, there are people who took every mistake, every loss, every step they'd been through, silently turn it into something that could save the next person they care about, like the way Tony added a parachute to Peter’s suit after watching Rhodey fall in the past.
 
 
 
@@ -146,16 +188,31 @@ that face of kids telling their parents how they got praised in art class
 
 The type of people who can speak but cannot hear, is a stereotype of saying crap, which is, me.
 
-The waiter brought the wrong set, said something in Japanese. The f he’s saying, forget it, I didn't care, just kept getting along with his words and hoped that he better went a way quickly before I 
+The waiter brought the wrong set, explained something in Japanese. The f he’s saying, forget it, I didn't care, just kept getting along with his words and hoped that he better went a way quickly before I 
 
 The meat is deep-fried, so soft that it can melt in my mouth
+
+
 
 
 
 Motherf I knew it. 
 
 
-
+​\
+\
+\
+*"There's an empty seat, behind you !"*
+\
+\
+\
+I know, and I did hear that very clearly. She again gave me that smiling frown after I just kept "Huh ?" to her. Yes babe, I knew there were seats behind me, it's just that, I wanted to look at you a little more, a little longer, before this train lets go of us, before this place becomes just another memory.
+\
+\
+\
+*"Achoo !"*
+\
+*"Bless you."*
 \
 \
 \
@@ -165,8 +222,6 @@ Motherf I knew it.
 \
 \
 \
-
-\
 If this isn't nice, what is ?
 \
 \
@@ -175,6 +230,10 @@ __________________
 ​
 # the Bark.
 ​
+\
+\
+Oh ? This jacket Oh that's it ! 
+\
 \
 \
 *"Here, have some chocolate."*
@@ -217,7 +276,7 @@ Let's be honest, we all know who this fish looks like.
 \
 \
 
-While living at the Marine Life Institute, a young Dory accidentally strayed too far from her parents and was swept out into the open ocean by a strong current. As she drifted further away, her innate short-term memory loss made it incredibly difficult for her to remember where she came from or how to find her parents. Over the years, her memory limitations caused her to wander aimlessly and forget details about her past, which eventually led to her crossing paths with Marlin, finding Nemo.
+ㅤ *While living at the Marine Life Institute, a young Dory accidentally strayed too far from her parents and was swept out into the open ocean by a strong current. As she drifted further away, her innate short-term memory loss made it incredibly difficult for her to remember where she came from or how to find her parents. Over the years, her memory limitations caused her to wander aimlessly and forget details about her past, which eventually led to her crossing paths with Marlin, finding Nemo.*
 
 Huh, 
 \

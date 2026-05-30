@@ -258,7 +258,6 @@ uh , Control-Alt-Delete, I guess ?
 everything everywhere all at once
 again, just, come to your senses
 that's the neat part, you don't
-You were there, flesh and bone
 If this isn't nice, what is ?
 Let's teach fish how to swim
 you don't see that everyday
@@ -283,6 +282,7 @@ scintillate
 tranquility
 hear me out
 fever dream
+anesthesia
 trippin'
 figment
 starred

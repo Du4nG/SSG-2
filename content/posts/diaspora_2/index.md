@@ -165,7 +165,7 @@ Oh yeah, here we go again. If this girl hadn't started this then I'd have been s
 \
 Yeah, we'd never really talked, but yeah I do know her. Most people from our secondary and high school days are connected on social media in some loose way, though the only thing we used to share was a hallway. Perhaps we don't know much about each other, but we all at least once brushed past one another on the campus, shared some stories between mutual friends. Gwen was one of them, a tangible link that completed a discrete chain back in the days when we were just adolescents. At least, she was, until a few weeks ago, when she was no longer in this world. Car accident, that's what I was told. How impermanent such a human life was. But, didn't I just have such experience while rushing to get here ? I did think about it quite a bit lately, whether I should continue to stick with the hype of my 60mph daily commute, or slow down before I wipe everything I ever tried to acquire into nothingness, before I forget how she pulled me out of uncertainty, before Murphy comes for me.
 
-I told her there were two things that could possibly come up whenever we mentioned an old friend, either that one was getting married, or no longer existed in this world. She giggled, then instantly glared at me menacingly. Oh come on, she was the one who brought it to the table first !
+I told her there were two things that could possibly come up whenever we mentioned an old friend, either that one is getting married, or no longer existed in this world. She giggled, then instantly glared at me menacingly. Oh come on, she was the one who brought it to the table first !
 \
 \
 \

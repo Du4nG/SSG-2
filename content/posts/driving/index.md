@@ -49,7 +49,7 @@ Và mình được gọi tên.
 \
 \
 \
-Bước lên, mình bắt đầu nghĩ về con số 800, có nên làm một con lô chiều nay không nhỉ, thật sự những thời điểm như thế này khiến mình rất buồn nôn. Ổn định đã một lúc, nhưng chẳng có ai xung quanh cả, mình trở nên lúng túng, nhìn ra tứ phía tìm kiếm một anh kỹ thuật viên nào đó cầu một tín hiệu bắt đầu, nhưng chẳng có ai ở đấy. Chợt từ phía cửa sổ, cậu ta thò đầu ra, nhắc mình nhớ thắt dây an toàn, nhớ kéo thắng tay, nhớ thực hiện các thao tác cơ bản đầy đủ, bảo mình hãy bình tĩnh, bảo rằng hãy tin vào bản thân, bảo rằng:
+Bước lên, mình bắt đầu nghĩ về con số 850, có nên làm một con lô chiều nay không nhỉ, thật sự những thời điểm như thế này khiến mình rất buồn nôn. Ổn định đã một lúc, nhưng chẳng có ai xung quanh cả, mình trở nên lúng túng, nhìn ra tứ phía tìm kiếm một anh kỹ thuật viên nào đó cầu một tín hiệu bắt đầu, nhưng chẳng có ai ở đấy. Chợt từ phía cửa sổ, cậu ta thò đầu ra, nhắc mình nhớ thắt dây an toàn, nhớ kéo thắng tay, nhớ thực hiện các thao tác cơ bản đầy đủ, bảo mình hãy bình tĩnh, bảo rằng hãy tin vào bản thân, bảo rằng:
 \
 \
 \

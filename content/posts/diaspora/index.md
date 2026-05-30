@@ -12,12 +12,11 @@ ShowReadingTime: true
 ShowPostNavLinks: false
 
 editPost:
-    Text: 🍓
+    Text: 🍓 - Panacea's prequel
     URL: https://maps.app.goo.gl/kEZX5j7EBYgNQU1X7
     appendFilePath: false # to append file path to Edit link
 
 ---
-
 \
 ​
 
