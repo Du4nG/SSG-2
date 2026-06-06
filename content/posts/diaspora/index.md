@@ -5,14 +5,14 @@ weight: 4
 tags: [narrative]
 author: [Dung]
 summary: Pizza
-description: いち
+description: 
 hideSummary: false
 ShowWordCount: false
 ShowReadingTime: true
 ShowPostNavLinks: false
 
 editPost:
-    Text: 🍓 - Panacea's prequel
+    Text: Panacea's prequel
     URL: https://maps.app.goo.gl/kEZX5j7EBYgNQU1X7
     appendFilePath: false # to append file path to Edit link
 
@@ -25,7 +25,7 @@ editPost:
 \
 \
 \
-Tell me more. A message lit up the screen in the midst of the day. Guessing the sender by the message always intrigues me as I grabbed my phone, it was from someone whose name is just merely a strawberry emoji. She made that claim a year ago, now is just the time to fulfill it. Pffft, how long could it have been. 
+Tell me more. A message lit up the screen in the midst of the day. Guessing the sender by the message always intrigues me as I grabbed my phone, it was from someone whose name is just merely an emoji. She made that claim a year ago, now is just the time to fulfill it. Pffft, how long could it have been. 
 \
 \
 \

@@ -5,7 +5,7 @@ weight: 3
 tags: [narrative]
 author: [Dung]
 summary: Okonomi
-description: ご。
+description: 
 hideSummary: false
 ShowWordCount: false
 ShowReadingTime: true
@@ -13,7 +13,7 @@ ShowPostNavLinks: false
 draft: false
 
 editPost:
-    Text: 🍓
+    Text: 📚
     URL: https://maps.app.goo.gl/eSZFupJz1teALfEX8
     appendFilePath: false # to append file path to Edit link
 

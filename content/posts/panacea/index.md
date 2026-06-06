@@ -5,7 +5,7 @@ weight: 1
 tags: [narrative]
 author: [Dung]
 summary: Aquarium
-description: does it even exist ?
+description:
 hideSummary: false
 ShowWordCount: false
 ShowReadingTime: true
@@ -18,10 +18,8 @@ editPost:
     appendFilePath: false # to append file path to Edit link
 
 ---
-
 \
 ​
-
 *"Shall we ?"*
 ​\
 \
@@ -33,6 +31,14 @@ __________________
 ​
 # the roastery.
 ​
+\
+\
+\
+*"Why hasn't it been opened yet ?"*
+\
+\
+\
+Handed me the bottle
 \
 \
 \
@@ -55,7 +61,7 @@ The night before trips, or anything that matters, sleep slips away from me, alwa
 \
 \
 \
-I believed that the one who should be surprised here is me, not her, saying herself how the hell she even graduated felt truly miraculous. Nostalgic, isn’t it ? That whole unforgettable process every generation of students goes through, from kindergarten, then all the way to the postgrad. Hundreds of times of getting bad scores, passing notes under the desk, copying each other’s answers, having no idea how on earth we even survived through such crazy endless tests. No boasting but, when I was in highschool's class, I was ranked the fifth... from the bottom. The girl was kinda dissatisfied with her with her Machine Learning teacher, who lectured about apples and then tested everyone on oranges, but that's fine, there were two hundred other victims just like her.
+I believed that the one who should be surprised here is me, not her, saying herself how the hell she even graduated felt truly miraculous. Nostalgic, isn’t it ? That whole unforgettable process every generation of students goes through, from kindergarten, then all the way to the postgrad. Hundreds of times of getting bad scores, passing notes under the desk, copying each other’s answers, having no idea how on earth we even survived through such crazy endless tests. No boasting but, when I was in highschool's class, I was ranked the fifth... from the bottom. She was kinda dissatisfied with her Machine Learning teacher, who lectured about apples and then tested everyone on oranges, but that's fine, there were two hundred other victims just like her.
 \
 \
 \
@@ -77,9 +83,9 @@ Now that's the girl I know.
 \
 *"Tokyo Tower, I wonder where it is."*
 \
-*"Huh ? Ain't it right here ? I just saw it !"*
+*"Ain't it right here ? Saw it on my way here."*
 \
-*"You know it's not the same right ?"*
+*"You know it's not the same, right ?"*
 \
 \
 \
@@ -94,23 +100,20 @@ Huh, all the summer set bought some new clothes
 \
 \
 \
-Ha ha, how did she even remember ? Right, it was back at a highschool festival, when she first saw the jacket that had followed me for years. I was once forced to sit in the front row by my English teacher, just because I couldn't shut my yap with my classmates. If she moved me there so that I could focus on the lesson, then yeah... that was going nowhere. Times like that, I fold the coat into a smooth, soft, pillow-shaped, let all the teacher's word turn into a lullaby, having the kind of nap that made everyone else tease me for years, honestly, I didn’t mind being remembered like that.
-\
-\
-\
-I hit on her knee all she could react was just an *"Ouch !"* with an impotent smile. Such a frangible person like that, who is easy to get touched by words, dare to wandering around world, eat whatever she wants, do whatever she likes, 
+Ha ha, how did she even remember ? Right, it was back at a highschool festival, when she first saw the jacket that had followed me for years. I was once forced to sit in the front row by my English teacher, just because I couldn't shut my yap with my classmates. If she moved me there so that I could focus on the lesson, then yeah... that was going nowhere. Times like that, I fold the coat into a smooth, soft, pillow-shaped, let all the teacher's words turn into a lullaby, having the kind of nap that made everyone else tease me for years, honestly, I didn’t mind being remembered like that.
+
 \
 \
 \
 *"Ever heard of Slack ?"*
 \
-*"Yeah, used it once in my university."*
+*"Yeah, used it once in college."*
 \
-*"I was flirted on there !"*
+*"I got flirted with on it !"*
 \
 \
 \
-Oh my, it was from her previous job, when some guys from another department somehow found her out. I think that's understandable, when a cutie pie like that wanders around the campus, your eyes just naturally find her. There weren't many girls there, like, the crave of finding "the other half" of these guys had reached a new level, they even made, how do I say, a portfolio, uploading to somewhere introducing themselves to whoever might be interest, literally ! The desperation was almost adorable, with a touch of... creepy too. One of them somehow spotted her, on a sunny day, slid into her DMs with a classic "Hi there, are you Vietnamese ?". You blind ? There's her name on it !
+Say that again ?  It was from her previous job, when some guys from another department somehow found her out. I think that's understandable, when a cutie pie like that wanders around the campus, your eyes just naturally find her. There weren't many girls there, like, the crave of finding "the other half" of these guys had reached a new level, they even made, how do I say, a portfolio, uploading to somewhere introducing themselves to whoever might be interest, literally. The desperation was almost adorable, with a touch of... creepy too. One of them somehow spotted her, on a sunny day, slid into her DMs with a classic *"Hi there, are you Vietnamese ?"*. You blind ? There's her name on it !
 \
 \
 \
@@ -118,7 +121,7 @@ Aight Sherlock,
 
 Say what ?
 
-Say that again ?
+
 
 
 
@@ -139,8 +142,12 @@ Thank you, Captain Obvious.
 ![alt text](12905d8b-eb4d-4e1e-a7c0-1f122fe61c8a_removalai_preview_1_150x225.png)
 __________________
 ​
-# the Shibuya crossing.
+# the Shibuya Crossing.
 ​
+\
+\
+Guess what, the first time when I heard about this place, was not Shibuya Crossing, but the Shibuya Incident, if you know, you know. asdadsa, even some guys doing tiktok here. They were just, literally, crossing at every intersection of this city, 
+\
 \
 \
 *"Do you even live here ?"*
@@ -152,7 +159,7 @@ Can't believe I'm once again being asked the same question, in the place where I
 
 surrounded by massive buildings
 
-Told her that in this place, people is lying all the way through, hugging each other, immersing with love story. Welp, apparently they... didn't. She gave me a look of contempt, said that if there were such a person to do that, would be only me. Oh come on, they clearly did that on the Youtube.
+Told her that in this place, people is lying all the way through, hugging each other, immersing with love story. Welp, apparently they... didn't. She gave me a look of contempt, said that if there were such a person to do that, would be only me. Oh come on, they clearly even slept here on the Youtube.
 
 Some of the people here were chattering while covering their heads with jacket to avoid the sunlight, at the worst possible time of the day, under the heat of 12:00 PM. Duh ! Are you really doing that ?
 
@@ -205,8 +212,17 @@ The type of people who can speak but cannot hear, is a stereotype of saying crap
 
 The waiter brought the wrong set, explained something in Japanese. The f he’s saying, forget it, I didn't care, just kept getting along with his words and hoped that he better went a way quickly before I 
 
-The meat is deep-fried, so soft that it can melt in my mouth
+Alright someone better keep the knife away from me before this day becomes his last working day forever.
 
+*"Would you like me to introduce you to the spices and seasonings here ?"*, said the waiter.
+\
+\
+\
+Motherf... I mean fine, at least I could know what I was about to put in my mouth. The waiter then made a never-ending speech about how this 豚カツ was made, how I should dip it with the passion fruit, normal soy sauce and even the colorless one, huh, first time seeing that.
+
+Oh my, the meat was so soft, juicy that it could melt in my mouth.that it was slowly deep-fried in nearly half an hour, no wonder it took like ages. I had this kind of meal tens of time, but damn this was a whole new level.  crispy
+
+She ate like two pieces of it
 
 
 
@@ -247,7 +263,12 @@ __________________
 ​
 \
 \
-Oh ? This jacket Oh that's it ! 
+this little Emily in Paris did her makeup.
+\
+\
+\
+Oh ? This jacket, I just kept wondering why it looked so familiar ?  Oh that's it ! Bought a 
+It's listed in women category, but there were male models wearing the jacket in the styling hint section. Ha ! Isn't that encouraging me to buy it ?
 \
 \
 \
@@ -259,9 +280,32 @@ an お守り.
 \
 \
 \
-The day before my flight, some cookies from the Butterman reached me.
+The day before my flight, some cookies from the Butterman reached me. Weird, not long before that, that that person even know my address. I then texted the 
+
+A tiramis-u cup, a jar of fruity, green tea, pink guava flavor marshmello stuffed inside, a cup of strawberry iced tea, and a berries panna cotta with a cutie tag. 
+
+
+
+ 
+Funny how my LoL ingame's name is Dogwifhat too. Yeah fine, look that name up on the internet Trading Bot.
+didn't know that little shit is a memecoin.
+
+not long enough to hold the Japanese currency. 
+
+
+Women's products are generally much more diverse and versatile than men's. My boss uses one, too
+showed me the picture that I sent her myself – the wallet I bought a few weeks ago. 
+a new 
+
 \
 \
+\
+*"Had to guess the street's name !".*
+\
+\
+\
+I hit her on the knee, all she could react was just an *"Ouch !"* with an impotent smile, reminding her that students in the same secondary school like us mostly lived around the area. But, I was indeed, touched. 
+Such a frangible person like that, who is easy to get touched by words, dare to wandering around world, eat whatever she wants, do whatever she likes, 
 ​
 __________________
 ​
@@ -273,14 +317,21 @@ __________________
 Oops, no Apple Pay here. She then fed in a 10,000￥ and received... ten of 1,000￥ in return. Okay what's going on here ? I guess the author of this software was giving us some other chances, that, only "straight" money is accepted. Geez, is money being gender discriminated now ?
 \
 \
+\
 ![alt text](jellyfish.jpg)
+\
+\
+\
 This jellyfish tank, isn't it a little... blurry ? I’m starting to think it might be a video playback.
 
 
 There's something in the air that kept me from keeping my head clear, the aquarium’s quiet lullaby, I guessed. Five couples sit on the benches, lost in the glow of the jellyfish, soaking in the ocean’s love story like it’s meant just for them.
 
 
-Hold on, an iguana ? Fascinating. I believed this place would fill me with the ease of the ocean, and this little shit here wasn't even in the water but hanging his ass on a damn tree.
+
+
+
+An iguana ? Fantastic. I believed this place would fill me with the ease of the ocean, and this little shit here wasn't even in the water but hanging his ass on a damn tree.
 
 Let's be honest, we all know who this fish looks like.
 \
@@ -293,7 +344,10 @@ Let's be honest, we all know who this fish looks like.
 
 ㅤ *While living at the Marine Life Institute, a young Dory accidentally strayed too far from her parents and was swept out into the open ocean by a strong current. As she drifted further away, her innate short-term memory loss made it incredibly difficult for her to remember where she came from or how to find her parents. Over the years, her memory limitations caused her to wander aimlessly and forget details about her past, which eventually led to her crossing paths with Marlin, finding Nemo.*
 
-Huh, 
+\
+\
+\
+There're two things that make me happy, having good food, and seeing people that matters to me.
 \
 \
 \
@@ -338,6 +392,8 @@ Maybe when that day comes, I hope you guys know that, every single person that h
 But 出会い
 
 Oh I see what you did there you little shit.
+
+I am the happiest guy in this world
 
 maybe , maybe in another life, that we could have each other.
 
