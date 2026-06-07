@@ -253,18 +253,24 @@ By all sane logic, I should be crazy, or ..., or both.
 I guess we're related in more ways than one
 There's a fine line between ... and ...
 I like her better with her mouth shut
+tonight warmer than I was ready for
+Saw that coming from a mile away
 that's the neat part, you don't
+They were right, it is a curse
 Now that, that is devotion
 ..., but who's counting.
 Consider it done, ma'am.
 What, in the actual, f
-Taking that as a yes.
+I'll take that as a yes.
+That came out wrong
 Good luck with that
 You believe that ?
 We ? You tell me.
 cut to the chase
 Mademoiselle ...
+heaven on earth
 Make your jokes
+right ? Wrong !
 Uh... thanks ?
 Suit yourself
 Do me a favor
