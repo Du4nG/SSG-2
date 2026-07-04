@@ -39,7 +39,7 @@ Tell me more. A message lit up the screen in the midst of the day. Guessing the 
 \
 Huh ? Tried to clear up my mind, just helped her with the math exercise like yesterday, at a coffee store. Joke's on me, but things just seemed vague.
 
-Gotta see her at this place called Homeland Artists. Knew it ! A den of instrumentalists, no offense. Every time I'm at such places, people are either doing drugs or passing around herb, which can lead to an unexpected out-of-tune voice or strand, a real pain in the ass. I checked the route, knew that I'd been to this area tens of times, yet it always feels like the first. One thing, a performance, a presentation, or a reunion like this, all make me nauseous.
+Gotta see her at this place called Homeland Artists. Knew it ! A den of instrumentalists, no offense. Every time I'm at such places, people are either doing drugs, or passing around herb, which can lead to an unexpected out-of-tune voice or strand, a real pain in the ass. I checked the route, knew that I'd been to this area tens of times, yet it always feels like the first. One thing, a performance, a presentation, or a reunion like this, all make me nauseous.
 \
 \
 \

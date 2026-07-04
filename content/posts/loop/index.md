@@ -117,7 +117,10 @@ When the time comes, you will have to leave, every single one of them. Yes, I'm 
 
 
 You don't need more time, you just need to decide. Yes, then do it. I will do it, thousands of time telling myself I wouldn't not let this chance slip away, knowing that when I open this door, will be the shed of no return. Take it or leave it, there is not much time. My cognition was thousands of miles apart, my body was falling into the abyss, but I must pull myself from the chaotic frame of mind. Because I knew, even the slightest attempt, at any price, has to be made.
-
+<!-- 
+Why can't we go backwards... for once ? Backwards. Really fast.  Fast as we can. Really put the pedal on the medal, you know ? Bill and Tedd did it. - Halliday 
+Parzival không phải Vanellope 
+ -->
 The next time you find yourself stuck in a loop, at all costs, find the spot. Like a glitched spot in an arcade game, when Vanellope drove in reverse then took a hidden underground route, observing every single one of the opponents, items, shortcuts, even deprecated characters. One step backward and the spot shall appear, either you are sober enough to seek for it, or remain chained to the delusional effort, til the concept of time rots away. People have themselves someone who keeps their mind from straying, even if that person is no longer with them. Others carry an inseparable thing in their bag, like Cobb's totem. Mine ? A knitted amulet.
 ​\
 \
@@ -253,6 +256,8 @@ By all sane logic, I should be crazy, or ..., or both.
 I guess we're related in more ways than one
 There's a fine line between ... and ...
 I like her better with her mouth shut
+I want 3 times my normal sth - Done. Wait, what ? I should have asked for 5, is 4 still on the table
+There's a first time for everything
 tonight warmer than I was ready for
 Saw that coming from a mile away
 that's the neat part, you don't
@@ -260,8 +265,9 @@ They were right, it is a curse
 Now that, that is devotion
 ..., but who's counting.
 Consider it done, ma'am.
-What, in the actual, f
 I'll take that as a yes.
+Do you want it or not ?
+What, in the actual, f
 That came out wrong
 Good luck with that
 You believe that ?

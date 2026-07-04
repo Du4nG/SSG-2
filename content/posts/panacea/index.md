@@ -273,6 +273,9 @@ It's listed in women category, but there were male models wearing the jacket in 
 \
 \
 *"Here, have some chocolate."*
+
+some chocolate coated strawberry
+
 an お守り.
 \
 \
