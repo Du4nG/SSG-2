@@ -257,6 +257,7 @@ I guess we're related in more ways than one
 There's a fine line between ... and ...
 I like her better with her mouth shut
 I want 3 times my normal sth - Done. Wait, what ? I should have asked for 5, is 4 still on the table
+I know, the act of not letting anyone even know if I am fine or not, does expose how a truly greedy, selfish person I am in life.
 There's a first time for everything
 tonight warmer than I was ready for
 Saw that coming from a mile away
@@ -315,6 +316,7 @@ here's the catch
 give me a break
 eyes don't line
 bridge that gap
+ lesh and bone
 El Psy Kongroo
 to amount to
 scintillate

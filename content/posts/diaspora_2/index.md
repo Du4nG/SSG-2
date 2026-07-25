@@ -59,7 +59,7 @@ Sped like crazy to where we had arranged to meet after my shift. Welp, I didn't 
 
 Finally made it to the place after almost finding eternal sleep under a car. Great, she must be somewhere on the second floor, coincidentally, the parking lot is also on the second floor... underground. Every morning I have to fight for a parking spot at the office, and here I was, doing it all over again.
 
-Took me like decades to get back to the ground. My legs were shaking, I'd done enough walking for a lifetime today. I had to use every escalator this building has just because this bloody five-story mall doesn't have a motherfvcking elevator. This was bad, I better figure a way to escape this labyrinth because her "Five minutes are up !" message was slapping me in the face. Gosh, please lead me to the rendezvous !
+Took me like decades to get back to the ground. My legs were shaking, I'd done enough walking for a lifetime today. I had to use every escalator this building has, just because this bloody five-story mall doesn't have a motherfvcking elevator. This was bad, I better figure a way to escape this labyrinth because her "Five minutes are up !" message was slapping me in the face. Gosh, please lead me to the rendezvous !
 \
 \
 \
@@ -183,9 +183,7 @@ Dressing in that hip-hop style then I better pack my stuff and get back to my co
 \
 \
 \
-Pretty sure you guys would become one of her fans if you ever drowned in that smile while she was teasing. I never asked why she said that, maybe some guys drenched in sweat just ignited a spark of excitement in her, after having some matches at her friend's place whose house is a goddamn badminton court rental service. But hell no, sport was never my thing. My thing ? To stick my ass to the chair and glue my eyes to the screen, twelve hours straight, which may be a torture to some, but I do enjoy it, honestly. Still, I must admit, being around with your pals are indeed chances – chances to walk yourself to the rendezvous of joy, to a so-called *remedy* that I have been seeking for so long. I know, the act of not letting anyone even know if I am fine or not, does expose how a truly greedy, selfish person I am in life. In the nick of time, when every part of me was so frail, so faint to even light a vestige of hope...
-
-She was there, flesh and bone, walked me through the flicker of spark, enter the gate of Valhalla.<!-- ![alt text](image.png) -->
+Pretty sure you guys would become one of her fans if you ever drowned in that smile while she was teasing. No idea why she said that, maybe some guys drenched in sweat just ignited a spark of excitement in her, after having some matches at her friend's place whose house is a goddamn badminton court rental service. But hell no, sport was never my thing. My thing ? To stick my ass to the chair and glue my eyes to the screen, twelve hours straight, which may be a torture to some, but I do enjoy it, honestly. Still, I must admit, being around with your pals are indeed chances – chances to walk yourself to the rendezvous of joy, to a so-called *remedy* that I have been seeking for so long.
 \
 \
 \
