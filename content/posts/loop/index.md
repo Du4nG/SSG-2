@@ -4,7 +4,7 @@ date: 2024-04-01
 weight: 6
 tags: [introspect]
 author: [Dung]
-summary: Vanellope von Schweetz
+summary: Halliday
 description: of thoughts.
 hideSummary: false
 ShowWordCount: false
@@ -121,7 +121,7 @@ You don't need more time, you just need to decide. Yes, then do it. I will do it
 Why can't we go backwards... for once ? Backwards. Really fast.  Fast as we can. Really put the pedal on the medal, you know ? Bill and Tedd did it. - Halliday 
 Parzival không phải Vanellope 
  -->
-The next time you find yourself stuck in a loop, at all costs, find the spot. Like a glitched spot in an arcade game, when Vanellope drove in reverse then took a hidden underground route, observing every single one of the opponents, items, shortcuts, even deprecated characters. One step backward and the spot shall appear, either you are sober enough to seek for it, or remain chained to the delusional effort, til the concept of time rots away. People have themselves someone who keeps their mind from straying, even if that person is no longer with them. Others carry an inseparable thing in their bag, like Cobb's totem. Mine ? A knitted amulet.
+The next time you find yourself stuck in a loop, at all costs, find the spot. Like a glitched spot in an arcade game, when Parzival drove in reverse then took a hidden underground route, observing every single one of the opponents, items, shortcuts, even deprecated characters. One step backward and the spot shall appear, either you are sober enough to seek for it, or remain chained to the delusional effort, til the concept of time rots away. People have themselves someone who keeps their mind from straying, even if that person is no longer with them. Others carry an inseparable thing in their bag, like Cobb's totem. Mine ? A knitted amulet.
 ​\
 \
 \

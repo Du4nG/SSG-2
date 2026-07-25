@@ -13,6 +13,7 @@ hideSummary: false
 ShowWordCount: false
 ShowReadingTime: true
 ShowPostNavLinks: false
+draft: true 
 
 editPost:
     Text: i
