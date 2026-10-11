@@ -295,6 +295,7 @@ with great power comes great electricity bill
 Your words cut deep, deeper than any blade
 Her actings good, maybe a little too good ?
 the debris at the end of the universe
+That’s, a face of man who knows grief
 uh , Control-Alt-Delete, I guess ?
 everything everywhere all at once
 again, just, come to your senses
@@ -350,6 +351,7 @@ Anh đón gió đêm, làn gió đó thổi qua em. Như vậy có tính chúng 
 柔弱
 最後の砦
 
+またどこかで
 
 
 steins;gate ep 21

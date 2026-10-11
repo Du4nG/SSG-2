@@ -51,11 +51,11 @@ Handed me the bottle
 \
 \
 She had to transit through 서울 before landing in 成田。
-The night before trips, or anything that matters, sleep slips away from me, always. I had about three hours lying my back, but half of the time, my mind didn't stop talking. Worse that, she only slept for an hour yesterday.
+The night before trips, or anything that matters, sleep slips away from me, always. I had about three hours lying my back, but half of the time, my mind didn't stop talking. Worse than that, she only slept for an hour yesterday.
 \
 \
 \
-*"Heard that you graduated."*
+*"Looks like you graduated."*
 \
 *"Yeah, can you believe that ? Unbelievable !"*
 \
@@ -192,7 +192,7 @@ Right in the middle. How unlucky I was !
 \
 \
 \
-*"But why are you asking me that ? Any special story behind it ?"*
+*"So... I suppose there's a special story behind it ?"*
 \
 \
 \
@@ -218,7 +218,7 @@ Alright someone better keep the knife away from me before this day becomes his l
 \
 \
 \
-Motherf... I mean fine, at least I could know what I was about to put in my mouth. The waiter then made a never-ending speech about how this 豚カツ was made, how I should dip it with the passion fruit, normal soy sauce and even the colorless one, huh, first time seeing that.
+Motherf... I mean, fine, at least I could know what I was about to put in my mouth. The waiter then made a never-ending speech about how this 豚カツ was made, how I should dip it with the passion fruit, normal soy sauce and even the colorless one, huh, first time seeing that.
 
 Oh my, the meat was so soft, juicy that it could melt in my mouth.that it was slowly deep-fried in nearly half an hour, no wonder it took like ages. I had this kind of meal tens of time, but damn this was a whole new level.  crispy
 
